@@ -23,30 +23,17 @@ The data is available in
 
 Yeah I didn't expect to provide something like this either.
 
-When looking for a source of some JSON I could copy and paste to give me a country's name, numeric code, and regional code, for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html), I found there just didn't exist one. 
+When looking for a source of some JSON I could copy and paste that would give me a country's name, numeric code, and regional code in one place, for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html), I found there just didn't exist one. 
 
-I checked the [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site, and found that despite this standard's universality (and hence importance for the generally ability to use country data programmatically) that you had to purchase a complete list. 
+I checked the [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site, and found that despite this standard's universality (and hence importance for the generally ability to use country data programmatically) that you could download partial lists, but if you wanted a complete list you had to purchase it, and even then it only comes in Microsoft Access 2003 format.
 
 Hence, I'm not certain of the legality of putting this data online, suffice to say that the data is all publicly available already, just not in a ready-to-use form.
 
-
-
-Why use the Wikipedia as a source? It was the only decent source that provided alpha-2, alpha-3, numeric country code, and sensibly formatted English name in a single place, and should be up-to-date.
-
-Before making this list, I couldn't find a single place that had a complete list containing:
-
-* English name
-* Alpha
-
-
-
-
-
-Data Age
+Age of Data
 -------
 
-UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011.
-Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011.
+* UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
+* Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011.
 
 Caveats
 -------
