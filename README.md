@@ -33,7 +33,7 @@ So I took data that is all publicly available already, just not in a single and 
 ### Data Fidelity
 
 * UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
-* Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011.
+* Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011
 
 #### Caveats
 
