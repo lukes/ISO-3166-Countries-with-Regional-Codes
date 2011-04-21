@@ -5,8 +5,6 @@ About
 
 These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes.
 
-All the data is all publicly available already, just not in a single and ready-to-use form.
-
 ### What's available?
 
 The data is available in
@@ -27,7 +25,9 @@ Yeah I didn't expect to provide something like this either.
 
 When looking for a source of some JSON I could copy and paste that would give me a country's name, numeric code, and regional code in one place, for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html), I found one didn't exist.
 
-I checked the [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site, and found that despite this standard's universality (and hence importance for the generally ability to use country data programmatically) that you could download partial data, but complete data had to be purchased in Microsoft Access 2003 format.
+The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data, but sells the complete data set (the one I wanted) as a Microsoft Access 2003 database.
+
+So I took data that is all publicly available already, just not in a single and ready-to-use form. After making a pretty complete merge, I figured I should polish it up and make my data available to others.
 
 Age of Data
 -------
