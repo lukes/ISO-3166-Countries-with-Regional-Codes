@@ -21,18 +21,16 @@ The data is available in
 3 versions exist for each format
 
 * `all.format` - Everything I can find, including regional and sub-regional codes
-* `slim-2.format` - English name, numeric country code and alpha-2 (e.g., US) code
-* `slim-3.format` - English name, numeric country code and alpha-3 (e.g., USA) code
+* `slim-2.format` - English name, numeric country code and alpha-2 code (e.g., US)
+* `slim-3.format` - English name, numeric country code and alpha-3 code (e.g., USA)
 
 ### Huh?
 
-The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (capitalised and sometimes stripped non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but none seemed to include the UN-maintained regional codes, which I needed for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html).
+The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but none seemed to include the UN-maintained regional codes, which I needed for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html).
 
 So I took data that is all publicly available already, just not in a single and ready-to-use form. After making a pretty complete merge, I figured I should polish it up and make the data available to others.
 
 ### Data Fidelity
-
-#### Age
 
 * UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
 * Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011.
