@@ -26,22 +26,19 @@ The data is available in
 
 ### Huh?
 
-Yeah I didn't expect to provide something like this either.
-
-When looking for a source of some JSON I could copy and paste that would give me a country's name, numeric code, and regional code in one place, for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html), I found one didn't exist.
-
-The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data, but sells the complete data set (the one I wanted) as a Microsoft Access 2003 database.
+The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data, but sells the complete data set (the one I wanted) as a Microsoft Access 2003 database. Other sites give you the numeric and (either alpha-2 or alpha-3, sometimes both) character codes, but apparently none included the UN-maintained regional codes, which I needed for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html).
 
 So I took data that is all publicly available already, just not in a single and ready-to-use form. After making a pretty complete merge, I figured I should polish it up and make the data available to others.
 
-Age of Data
+Data Fidelity
 -------
+
+### Age
 
 * UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
 * Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011.
 
-Caveats
--------
+### Obvious Caveats
 
 1. Please check the data independently for accuracy before using it in any system and for any purpose
 2. Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and so should not be considered accurate
