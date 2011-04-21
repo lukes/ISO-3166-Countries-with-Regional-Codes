@@ -1,7 +1,12 @@
-About
------
+In Development
+--------------
 
 **NOTE - the lists are still being developed and checked for accuracy. Please do not use in production yet**
+
+I'm also aware that the encoding has gone through the wringer.
+
+About
+-----
 
 These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes.
 
