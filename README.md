@@ -8,7 +8,7 @@ I'm also aware that the character encoding has gone through the wringer.
 About
 -----
 
-These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes.
+These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes, and cross-checking against the [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site.
 
 ### What's available?
 
@@ -30,8 +30,7 @@ The [International Organization for Standardization (ISO)](http://www.iso.org/is
 
 So I took data that is all publicly available already, just not in a single and ready-to-use form. After making a pretty complete merge, I figured I should polish it up and make the data available to others.
 
-Data Fidelity
--------
+## Data Fidelity
 
 ### Age
 
