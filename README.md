@@ -7,6 +7,20 @@ These lists are the result of merging data from two sources, the Wikipedia [ISO 
 
 ### What's available?
 
+#### Formats
+
+The data is made available in
+
+* JSON
+* XML
+* CSV
+
+3 versions exist for each format
+
+* `all.format` - Everything I can find, including regional and sub-regional codes
+* `slim-2.format` - English name, numeric country code and alpha-2 (e.g., US) code
+* `slim-3.format` - English name, numeric country code and alpha-3 (e.g., USA) code
+
     {
       "name":"Afghanistan",        // english name
       "country-code":"004",        // unique numeric code
@@ -34,20 +48,7 @@ Before making this list, I couldn't find a single place that had a complete list
 
 The regional and sub-regional codes can be used when interacting with the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html).
 
-Formats
--------
 
-The data is made available in
-
-* JSON
-* XML
-* CSV
-
-3 versions exist for each format
-
-* `all.format` - Everything I can find, including regional and sub-regional codes
-* `slim-2.format` - English name, numeric country code and alpha-2 (e.g., US) code
-* `slim-3.format` - English name, numeric country code and alpha-3 (e.g., USA) code
 
 Data Age
 -------
