@@ -7,9 +7,7 @@ These lists are the result of merging data from two sources, the Wikipedia [ISO 
 
 ### What's available?
 
-#### Formats
-
-The data is made available in
+The data is available in
 
 * JSON
 * XML
@@ -21,19 +19,13 @@ The data is made available in
 * `slim-2.format` - English name, numeric country code and alpha-2 (e.g., US) code
 * `slim-3.format` - English name, numeric country code and alpha-3 (e.g., USA) code
 
-    {
-      "name":"Afghanistan",        // english name
-      "country-code":"004",        // unique numeric code
-      "alpha-2":"AF",              // unique 2-character code
-      "alpha-3":"AFG",             // unique 3-character code
-      "sub-region-code":"034",     // geographical sub-region code
-      "region-code":"142",         // macro geographical (continental) region code
-      "iso 3166-2":"ISO 3166-2:AF" // ISO 3166-2 code for principle subdivision
-    }
+### Huh?
 
-### Legality
+Yeah I didn't expect to provide something like this either.
 
-Although it seems because of their universality that a complete data set should be freely available, [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) only provide small amounts of the data for free. If you want more, you need to purchase it. 
+When looking for a source of some JSON I could copy and paste to give me a country's name, numeric code, and regional code, for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html), I found there just didn't exist one. 
+
+I checked the [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site, and found that despite this standard's universality (and hence importance for the generally ability to use country data programmatically) that you had to purchase a complete list. 
 
 Hence, I'm not certain of the legality of putting this data online, suffice to say that the data is all publicly available already, just not in a ready-to-use form.
 
@@ -46,7 +38,7 @@ Before making this list, I couldn't find a single place that had a complete list
 * English name
 * Alpha
 
-The regional and sub-regional codes can be used when interacting with the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html).
+
 
 
 
