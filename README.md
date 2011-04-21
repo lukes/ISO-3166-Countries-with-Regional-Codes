@@ -26,7 +26,7 @@ The data is available in
 
 ### Huh?
 
-The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (inaccurate due to being stripped of all non-latin ornamentation), but sells the complete data set (the one I wanted) as a Microsoft Access 2003 database. Other sites give you the numeric and (either alpha-2 or alpha-3, sometimes both) character codes, but apparently none included the UN-maintained regional codes, which I needed for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html).
+The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (capitalised and sometimes stripped non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but none seemed to include the UN-maintained regional codes, which I needed for the [Google Geomap API](http://code.google.com/apis/visualization/documentation/gallery/geomap.html).
 
 So I took data that is all publicly available already, just not in a single and ready-to-use form. After making a pretty complete merge, I figured I should polish it up and make the data available to others.
 
