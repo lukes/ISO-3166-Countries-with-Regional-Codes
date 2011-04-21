@@ -7,14 +7,14 @@
     <alpha-3>AFG</alpha-3>
     <country-code>004</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:AF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AF</iso-3166-2>
   </country>
   <country>
     <name>&#197;land Islands</name>
     <alpha-2>AX</alpha-2>
     <alpha-3>ALA</alpha-3>
     <country-code>248</country-code>
-    <iso 3166-2>ISO 3166-2:AX</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AX</iso-3166-2>
   </country>
   <country>
     <name>Albania</name>
@@ -23,7 +23,7 @@
     <alpha-3>ALB</alpha-3>
     <country-code>008</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:AL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AL</iso-3166-2>
   </country>
   <country>
     <name>Algeria</name>
@@ -32,7 +32,7 @@
     <alpha-3>DZA</alpha-3>
     <country-code>012</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:DZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:DZ</iso-3166-2>
   </country>
   <country>
     <name>American Samoa</name>
@@ -41,7 +41,7 @@
     <alpha-3>ASM</alpha-3>
     <country-code>016</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:AS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AS</iso-3166-2>
   </country>
   <country>
     <name>Andorra</name>
@@ -50,7 +50,7 @@
     <alpha-3>AND</alpha-3>
     <country-code>020</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:AD</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AD</iso-3166-2>
   </country>
   <country>
     <name>Angola</name>
@@ -59,7 +59,7 @@
     <alpha-3>AGO</alpha-3>
     <country-code>024</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:AO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AO</iso-3166-2>
   </country>
   <country>
     <name>Anguilla</name>
@@ -68,14 +68,14 @@
     <alpha-3>AIA</alpha-3>
     <country-code>660</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:AI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AI</iso-3166-2>
   </country>
   <country>
     <name>Antarctica</name>
     <alpha-2>AQ</alpha-2>
     <alpha-3>ATA</alpha-3>
     <country-code>010</country-code>
-    <iso 3166-2>ISO 3166-2:AQ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AQ</iso-3166-2>
   </country>
   <country>
     <name>Antigua and Barbuda</name>
@@ -84,7 +84,7 @@
     <alpha-3>ATG</alpha-3>
     <country-code>028</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:AG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AG</iso-3166-2>
   </country>
   <country>
     <name>Argentina</name>
@@ -93,7 +93,7 @@
     <alpha-3>ARG</alpha-3>
     <country-code>032</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:AR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AR</iso-3166-2>
   </country>
   <country>
     <name>Armenia</name>
@@ -102,7 +102,7 @@
     <alpha-3>ARM</alpha-3>
     <country-code>051</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:AM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AM</iso-3166-2>
   </country>
   <country>
     <name>Aruba</name>
@@ -111,7 +111,7 @@
     <alpha-3>ABW</alpha-3>
     <country-code>533</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:AW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AW</iso-3166-2>
   </country>
   <country>
     <name>Australia</name>
@@ -120,7 +120,7 @@
     <alpha-3>AUS</alpha-3>
     <country-code>036</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:AU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AU</iso-3166-2>
   </country>
   <country>
     <name>Austria</name>
@@ -129,7 +129,7 @@
     <alpha-3>AUT</alpha-3>
     <country-code>040</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:AT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AT</iso-3166-2>
   </country>
   <country>
     <name>Azerbaijan</name>
@@ -138,7 +138,7 @@
     <alpha-3>AZE</alpha-3>
     <country-code>031</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:AZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AZ</iso-3166-2>
   </country>
   <country>
     <name>Bahamas</name>
@@ -147,7 +147,7 @@
     <alpha-3>BHS</alpha-3>
     <country-code>044</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:BS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BS</iso-3166-2>
   </country>
   <country>
     <name>Bahrain</name>
@@ -156,7 +156,7 @@
     <alpha-3>BHR</alpha-3>
     <country-code>048</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:BH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BH</iso-3166-2>
   </country>
   <country>
     <name>Bangladesh</name>
@@ -165,7 +165,7 @@
     <alpha-3>BGD</alpha-3>
     <country-code>050</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:BD</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BD</iso-3166-2>
   </country>
   <country>
     <name>Barbados</name>
@@ -174,7 +174,7 @@
     <alpha-3>BRB</alpha-3>
     <country-code>052</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:BB</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BB</iso-3166-2>
   </country>
   <country>
     <name>Belarus</name>
@@ -183,7 +183,7 @@
     <alpha-3>BLR</alpha-3>
     <country-code>112</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:BY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BY</iso-3166-2>
   </country>
   <country>
     <name>Belgium</name>
@@ -192,7 +192,7 @@
     <alpha-3>BEL</alpha-3>
     <country-code>056</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:BE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BE</iso-3166-2>
   </country>
   <country>
     <name>Belize</name>
@@ -201,7 +201,7 @@
     <alpha-3>BLZ</alpha-3>
     <country-code>084</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:BZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BZ</iso-3166-2>
   </country>
   <country>
     <name>Benin</name>
@@ -210,7 +210,7 @@
     <alpha-3>BEN</alpha-3>
     <country-code>204</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:BJ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BJ</iso-3166-2>
   </country>
   <country>
     <name>Bermuda</name>
@@ -219,7 +219,7 @@
     <alpha-3>BMU</alpha-3>
     <country-code>060</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:BM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BM</iso-3166-2>
   </country>
   <country>
     <name>Bhutan</name>
@@ -228,7 +228,7 @@
     <alpha-3>BTN</alpha-3>
     <country-code>064</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:BT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BT</iso-3166-2>
   </country>
   <country>
     <name>Bolivia, Plurinational State of</name>
@@ -237,7 +237,7 @@
     <alpha-3>BOL</alpha-3>
     <country-code>068</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:BO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BO</iso-3166-2>
   </country>
   <country>
     <name>Bonaire, Saint Eustatius and Saba</name>
@@ -246,7 +246,7 @@
     <alpha-3>BES</alpha-3>
     <country-code>535</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:BQ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BQ</iso-3166-2>
   </country>
   <country>
     <name>Bosnia and Herzegovina</name>
@@ -255,7 +255,7 @@
     <alpha-3>BIH</alpha-3>
     <country-code>070</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:BA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BA</iso-3166-2>
   </country>
   <country>
     <name>Botswana</name>
@@ -264,14 +264,14 @@
     <alpha-3>BWA</alpha-3>
     <country-code>072</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:BW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BW</iso-3166-2>
   </country>
   <country>
     <name>Bouvet Island</name>
     <alpha-2>BV</alpha-2>
     <alpha-3>BVT</alpha-3>
     <country-code>074</country-code>
-    <iso 3166-2>ISO 3166-2:BV</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BV</iso-3166-2>
   </country>
   <country>
     <name>Brazil</name>
@@ -280,14 +280,14 @@
     <alpha-3>BRA</alpha-3>
     <country-code>076</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:BR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BR</iso-3166-2>
   </country>
   <country>
     <name>British Indian Ocean Territory</name>
     <alpha-2>IO</alpha-2>
     <alpha-3>IOT</alpha-3>
     <country-code>086</country-code>
-    <iso 3166-2>ISO 3166-2:IO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IO</iso-3166-2>
   </country>
   <country>
     <name>Brunei Darussalam</name>
@@ -296,7 +296,7 @@
     <alpha-3>BRN</alpha-3>
     <country-code>096</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:BN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BN</iso-3166-2>
   </country>
   <country>
     <name>Bulgaria</name>
@@ -305,7 +305,7 @@
     <alpha-3>BGR</alpha-3>
     <country-code>100</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:BG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BG</iso-3166-2>
   </country>
   <country>
     <name>Burkina Faso</name>
@@ -314,7 +314,7 @@
     <alpha-3>BFA</alpha-3>
     <country-code>854</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:BF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BF</iso-3166-2>
   </country>
   <country>
     <name>Burundi</name>
@@ -323,7 +323,7 @@
     <alpha-3>BDI</alpha-3>
     <country-code>108</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:BI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BI</iso-3166-2>
   </country>
   <country>
     <name>Cambodia</name>
@@ -332,7 +332,7 @@
     <alpha-3>KHM</alpha-3>
     <country-code>116</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:KH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KH</iso-3166-2>
   </country>
   <country>
     <name>Cameroon</name>
@@ -341,7 +341,7 @@
     <alpha-3>CMR</alpha-3>
     <country-code>120</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:CM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CM</iso-3166-2>
   </country>
   <country>
     <name>Canada</name>
@@ -350,7 +350,7 @@
     <alpha-3>CAN</alpha-3>
     <country-code>124</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:CA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CA</iso-3166-2>
   </country>
   <country>
     <name>Cape Verde</name>
@@ -359,7 +359,7 @@
     <alpha-3>CPV</alpha-3>
     <country-code>132</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:CV</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CV</iso-3166-2>
   </country>
   <country>
     <name>Cayman Islands</name>
@@ -368,7 +368,7 @@
     <alpha-3>CYM</alpha-3>
     <country-code>136</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:KY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KY</iso-3166-2>
   </country>
   <country>
     <name>Central African Republic</name>
@@ -377,7 +377,7 @@
     <alpha-3>CAF</alpha-3>
     <country-code>140</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:CF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CF</iso-3166-2>
   </country>
   <country>
     <name>Chad</name>
@@ -386,7 +386,7 @@
     <alpha-3>TCD</alpha-3>
     <country-code>148</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:TD</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TD</iso-3166-2>
   </country>
   <country>
     <name>Chile</name>
@@ -395,7 +395,7 @@
     <alpha-3>CHL</alpha-3>
     <country-code>152</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:CL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CL</iso-3166-2>
   </country>
   <country>
     <name>China</name>
@@ -404,21 +404,21 @@
     <alpha-3>CHN</alpha-3>
     <country-code>156</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:CN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CN</iso-3166-2>
   </country>
   <country>
     <name>Christmas Island</name>
     <alpha-2>CX</alpha-2>
     <alpha-3>CXR</alpha-3>
     <country-code>162</country-code>
-    <iso 3166-2>ISO 3166-2:CX</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CX</iso-3166-2>
   </country>
   <country>
     <name>Cocos (Keeling) Islands</name>
     <alpha-2>CC</alpha-2>
     <alpha-3>CCK</alpha-3>
     <country-code>166</country-code>
-    <iso 3166-2>ISO 3166-2:CC</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CC</iso-3166-2>
   </country>
   <country>
     <name>Colombia</name>
@@ -427,7 +427,7 @@
     <alpha-3>COL</alpha-3>
     <country-code>170</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:CO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CO</iso-3166-2>
   </country>
   <country>
     <name>Comoros</name>
@@ -436,7 +436,7 @@
     <alpha-3>COM</alpha-3>
     <country-code>174</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:KM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KM</iso-3166-2>
   </country>
   <country>
     <name>Congo</name>
@@ -445,7 +445,7 @@
     <alpha-3>COG</alpha-3>
     <country-code>178</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:CG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CG</iso-3166-2>
   </country>
   <country>
     <name>Congo, the Democratic Republic of the</name>
@@ -454,7 +454,7 @@
     <alpha-3>COD</alpha-3>
     <country-code>180</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:CD</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CD</iso-3166-2>
   </country>
   <country>
     <name>Cook Islands</name>
@@ -463,7 +463,7 @@
     <alpha-3>COK</alpha-3>
     <country-code>184</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:CK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CK</iso-3166-2>
   </country>
   <country>
     <name>Costa Rica</name>
@@ -472,7 +472,7 @@
     <alpha-3>CRI</alpha-3>
     <country-code>188</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:CR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CR</iso-3166-2>
   </country>
   <country>
     <name>C&#244;te d'Ivoire</name>
@@ -481,7 +481,7 @@
     <alpha-3>CIV</alpha-3>
     <country-code>384</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:CI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CI</iso-3166-2>
   </country>
   <country>
     <name>Croatia</name>
@@ -490,7 +490,7 @@
     <alpha-3>HRV</alpha-3>
     <country-code>191</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:HR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:HR</iso-3166-2>
   </country>
   <country>
     <name>Cuba</name>
@@ -499,7 +499,7 @@
     <alpha-3>CUB</alpha-3>
     <country-code>192</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:CU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CU</iso-3166-2>
   </country>
   <country>
     <name>Cura&#231;ao</name>
@@ -508,7 +508,7 @@
     <alpha-3>CUW</alpha-3>
     <country-code>531</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:CW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CW</iso-3166-2>
   </country>
   <country>
     <name>Cyprus</name>
@@ -517,7 +517,7 @@
     <alpha-3>CYP</alpha-3>
     <country-code>196</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:CY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CY</iso-3166-2>
   </country>
   <country>
     <name>Czech Republic</name>
@@ -526,7 +526,7 @@
     <alpha-3>CZE</alpha-3>
     <country-code>203</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:CZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CZ</iso-3166-2>
   </country>
   <country>
     <name>Denmark</name>
@@ -535,7 +535,7 @@
     <alpha-3>DNK</alpha-3>
     <country-code>208</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:DK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:DK</iso-3166-2>
   </country>
   <country>
     <name>Djibouti</name>
@@ -544,7 +544,7 @@
     <alpha-3>DJI</alpha-3>
     <country-code>262</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:DJ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:DJ</iso-3166-2>
   </country>
   <country>
     <name>Dominica</name>
@@ -553,7 +553,7 @@
     <alpha-3>DMA</alpha-3>
     <country-code>212</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:DM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:DM</iso-3166-2>
   </country>
   <country>
     <name>Dominican Republic</name>
@@ -562,7 +562,7 @@
     <alpha-3>DOM</alpha-3>
     <country-code>214</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:DO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:DO</iso-3166-2>
   </country>
   <country>
     <name>Ecuador</name>
@@ -571,7 +571,7 @@
     <alpha-3>ECU</alpha-3>
     <country-code>218</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:EC</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:EC</iso-3166-2>
   </country>
   <country>
     <name>Egypt</name>
@@ -580,7 +580,7 @@
     <alpha-3>EGY</alpha-3>
     <country-code>818</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:EG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:EG</iso-3166-2>
   </country>
   <country>
     <name>El Salvador</name>
@@ -589,7 +589,7 @@
     <alpha-3>SLV</alpha-3>
     <country-code>222</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:SV</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SV</iso-3166-2>
   </country>
   <country>
     <name>Equatorial Guinea</name>
@@ -598,7 +598,7 @@
     <alpha-3>GNQ</alpha-3>
     <country-code>226</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:GQ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GQ</iso-3166-2>
   </country>
   <country>
     <name>Eritrea</name>
@@ -607,7 +607,7 @@
     <alpha-3>ERI</alpha-3>
     <country-code>232</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:ER</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ER</iso-3166-2>
   </country>
   <country>
     <name>Estonia</name>
@@ -616,7 +616,7 @@
     <alpha-3>EST</alpha-3>
     <country-code>233</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:EE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:EE</iso-3166-2>
   </country>
   <country>
     <name>Ethiopia</name>
@@ -625,7 +625,7 @@
     <alpha-3>ETH</alpha-3>
     <country-code>231</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:ET</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ET</iso-3166-2>
   </country>
   <country>
     <name>Falkland Islands (Malvinas)</name>
@@ -634,7 +634,7 @@
     <alpha-3>FLK</alpha-3>
     <country-code>238</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:FK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:FK</iso-3166-2>
   </country>
   <country>
     <name>Faroe Islands</name>
@@ -643,7 +643,7 @@
     <alpha-3>FRO</alpha-3>
     <country-code>234</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:FO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:FO</iso-3166-2>
   </country>
   <country>
     <name>Fiji</name>
@@ -652,7 +652,7 @@
     <alpha-3>FJI</alpha-3>
     <country-code>242</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:FJ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:FJ</iso-3166-2>
   </country>
   <country>
     <name>Finland</name>
@@ -661,7 +661,7 @@
     <alpha-3>FIN</alpha-3>
     <country-code>246</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:FI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:FI</iso-3166-2>
   </country>
   <country>
     <name>France</name>
@@ -670,7 +670,7 @@
     <alpha-3>FRA</alpha-3>
     <country-code>250</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:FR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:FR</iso-3166-2>
   </country>
   <country>
     <name>French Guiana</name>
@@ -679,7 +679,7 @@
     <alpha-3>GUF</alpha-3>
     <country-code>254</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:GF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GF</iso-3166-2>
   </country>
   <country>
     <name>French Polynesia</name>
@@ -688,14 +688,14 @@
     <alpha-3>PYF</alpha-3>
     <country-code>258</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:PF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PF</iso-3166-2>
   </country>
   <country>
     <name>French Southern Territories</name>
     <alpha-2>TF</alpha-2>
     <alpha-3>ATF</alpha-3>
     <country-code>260</country-code>
-    <iso 3166-2>ISO 3166-2:TF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TF</iso-3166-2>
   </country>
   <country>
     <name>Gabon</name>
@@ -704,7 +704,7 @@
     <alpha-3>GAB</alpha-3>
     <country-code>266</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:GA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GA</iso-3166-2>
   </country>
   <country>
     <name>Gambia</name>
@@ -713,7 +713,7 @@
     <alpha-3>GMB</alpha-3>
     <country-code>270</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:GM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GM</iso-3166-2>
   </country>
   <country>
     <name>Georgia</name>
@@ -722,7 +722,7 @@
     <alpha-3>GEO</alpha-3>
     <country-code>268</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:GE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GE</iso-3166-2>
   </country>
   <country>
     <name>Germany</name>
@@ -731,7 +731,7 @@
     <alpha-3>DEU</alpha-3>
     <country-code>276</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:DE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:DE</iso-3166-2>
   </country>
   <country>
     <name>Ghana</name>
@@ -740,7 +740,7 @@
     <alpha-3>GHA</alpha-3>
     <country-code>288</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:GH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GH</iso-3166-2>
   </country>
   <country>
     <name>Gibraltar</name>
@@ -749,7 +749,7 @@
     <alpha-3>GIB</alpha-3>
     <country-code>292</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:GI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GI</iso-3166-2>
   </country>
   <country>
     <name>Greece</name>
@@ -758,7 +758,7 @@
     <alpha-3>GRC</alpha-3>
     <country-code>300</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:GR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GR</iso-3166-2>
   </country>
   <country>
     <name>Greenland</name>
@@ -767,7 +767,7 @@
     <alpha-3>GRL</alpha-3>
     <country-code>304</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:GL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GL</iso-3166-2>
   </country>
   <country>
     <name>Grenada</name>
@@ -776,7 +776,7 @@
     <alpha-3>GRD</alpha-3>
     <country-code>308</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:GD</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GD</iso-3166-2>
   </country>
   <country>
     <name>Guadeloupe</name>
@@ -785,7 +785,7 @@
     <alpha-3>GLP</alpha-3>
     <country-code>312</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:GP</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GP</iso-3166-2>
   </country>
   <country>
     <name>Guam</name>
@@ -794,7 +794,7 @@
     <alpha-3>GUM</alpha-3>
     <country-code>316</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:GU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GU</iso-3166-2>
   </country>
   <country>
     <name>Guatemala</name>
@@ -803,7 +803,7 @@
     <alpha-3>GTM</alpha-3>
     <country-code>320</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:GT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GT</iso-3166-2>
   </country>
   <country>
     <name>Guernsey</name>
@@ -812,7 +812,7 @@
     <alpha-3>GGY</alpha-3>
     <country-code>831</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:GG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GG</iso-3166-2>
   </country>
   <country>
     <name>Guinea</name>
@@ -821,7 +821,7 @@
     <alpha-3>GIN</alpha-3>
     <country-code>324</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:GN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GN</iso-3166-2>
   </country>
   <country>
     <name>Guinea-Bissau</name>
@@ -830,7 +830,7 @@
     <alpha-3>GNB</alpha-3>
     <country-code>624</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:GW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GW</iso-3166-2>
   </country>
   <country>
     <name>Guyana</name>
@@ -839,7 +839,7 @@
     <alpha-3>GUY</alpha-3>
     <country-code>328</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:GY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GY</iso-3166-2>
   </country>
   <country>
     <name>Haiti</name>
@@ -848,14 +848,14 @@
     <alpha-3>HTI</alpha-3>
     <country-code>332</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:HT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:HT</iso-3166-2>
   </country>
   <country>
     <name>Heard Island and McDonald Islands</name>
     <alpha-2>HM</alpha-2>
     <alpha-3>HMD</alpha-3>
     <country-code>334</country-code>
-    <iso 3166-2>ISO 3166-2:HM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:HM</iso-3166-2>
   </country>
   <country>
     <name>Holy See (Vatican City State)</name>
@@ -864,7 +864,7 @@
     <alpha-3>VAT</alpha-3>
     <country-code>336</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:VA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:VA</iso-3166-2>
   </country>
   <country>
     <name>Honduras</name>
@@ -873,7 +873,7 @@
     <alpha-3>HND</alpha-3>
     <country-code>340</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:HN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:HN</iso-3166-2>
   </country>
   <country>
     <name>Hong Kong</name>
@@ -882,7 +882,7 @@
     <alpha-3>HKG</alpha-3>
     <country-code>344</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:HK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:HK</iso-3166-2>
   </country>
   <country>
     <name>Hungary</name>
@@ -891,7 +891,7 @@
     <alpha-3>HUN</alpha-3>
     <country-code>348</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:HU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:HU</iso-3166-2>
   </country>
   <country>
     <name>Iceland</name>
@@ -900,7 +900,7 @@
     <alpha-3>ISL</alpha-3>
     <country-code>352</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:IS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IS</iso-3166-2>
   </country>
   <country>
     <name>India</name>
@@ -909,7 +909,7 @@
     <alpha-3>IND</alpha-3>
     <country-code>356</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:IN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IN</iso-3166-2>
   </country>
   <country>
     <name>Indonesia</name>
@@ -918,7 +918,7 @@
     <alpha-3>IDN</alpha-3>
     <country-code>360</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:ID</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ID</iso-3166-2>
   </country>
   <country>
     <name>Iran, Islamic Republic of</name>
@@ -927,7 +927,7 @@
     <alpha-3>IRN</alpha-3>
     <country-code>364</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:IR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IR</iso-3166-2>
   </country>
   <country>
     <name>Iraq</name>
@@ -936,7 +936,7 @@
     <alpha-3>IRQ</alpha-3>
     <country-code>368</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:IQ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IQ</iso-3166-2>
   </country>
   <country>
     <name>Ireland</name>
@@ -945,7 +945,7 @@
     <alpha-3>IRL</alpha-3>
     <country-code>372</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:IE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IE</iso-3166-2>
   </country>
   <country>
     <name>Isle of Man</name>
@@ -954,7 +954,7 @@
     <alpha-3>IMN</alpha-3>
     <country-code>833</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:IM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IM</iso-3166-2>
   </country>
   <country>
     <name>Israel</name>
@@ -963,7 +963,7 @@
     <alpha-3>ISR</alpha-3>
     <country-code>376</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:IL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IL</iso-3166-2>
   </country>
   <country>
     <name>Italy</name>
@@ -972,7 +972,7 @@
     <alpha-3>ITA</alpha-3>
     <country-code>380</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:IT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:IT</iso-3166-2>
   </country>
   <country>
     <name>Jamaica</name>
@@ -981,7 +981,7 @@
     <alpha-3>JAM</alpha-3>
     <country-code>388</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:JM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:JM</iso-3166-2>
   </country>
   <country>
     <name>Japan</name>
@@ -990,7 +990,7 @@
     <alpha-3>JPN</alpha-3>
     <country-code>392</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:JP</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:JP</iso-3166-2>
   </country>
   <country>
     <name>Jersey</name>
@@ -999,7 +999,7 @@
     <alpha-3>JEY</alpha-3>
     <country-code>832</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:JE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:JE</iso-3166-2>
   </country>
   <country>
     <name>Jordan</name>
@@ -1008,7 +1008,7 @@
     <alpha-3>JOR</alpha-3>
     <country-code>400</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:JO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:JO</iso-3166-2>
   </country>
   <country>
     <name>Kazakhstan</name>
@@ -1017,7 +1017,7 @@
     <alpha-3>KAZ</alpha-3>
     <country-code>398</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:KZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KZ</iso-3166-2>
   </country>
   <country>
     <name>Kenya</name>
@@ -1026,7 +1026,7 @@
     <alpha-3>KEN</alpha-3>
     <country-code>404</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:KE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KE</iso-3166-2>
   </country>
   <country>
     <name>Kiribati</name>
@@ -1035,7 +1035,7 @@
     <alpha-3>KIR</alpha-3>
     <country-code>296</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:KI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KI</iso-3166-2>
   </country>
   <country>
     <name>Korea, Democratic People's Republic of</name>
@@ -1044,7 +1044,7 @@
     <alpha-3>PRK</alpha-3>
     <country-code>408</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:KP</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KP</iso-3166-2>
   </country>
   <country>
     <name>Korea, Republic of</name>
@@ -1053,7 +1053,7 @@
     <alpha-3>KOR</alpha-3>
     <country-code>410</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:KR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KR</iso-3166-2>
   </country>
   <country>
     <name>Kuwait</name>
@@ -1062,7 +1062,7 @@
     <alpha-3>KWT</alpha-3>
     <country-code>414</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:KW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KW</iso-3166-2>
   </country>
   <country>
     <name>Kyrgyzstan</name>
@@ -1071,7 +1071,7 @@
     <alpha-3>KGZ</alpha-3>
     <country-code>417</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:KG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KG</iso-3166-2>
   </country>
   <country>
     <name>Lao People's Democratic Republic</name>
@@ -1080,7 +1080,7 @@
     <alpha-3>LAO</alpha-3>
     <country-code>418</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:LA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LA</iso-3166-2>
   </country>
   <country>
     <name>Latvia</name>
@@ -1089,7 +1089,7 @@
     <alpha-3>LVA</alpha-3>
     <country-code>428</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:LV</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LV</iso-3166-2>
   </country>
   <country>
     <name>Lebanon</name>
@@ -1098,7 +1098,7 @@
     <alpha-3>LBN</alpha-3>
     <country-code>422</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:LB</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LB</iso-3166-2>
   </country>
   <country>
     <name>Lesotho</name>
@@ -1107,7 +1107,7 @@
     <alpha-3>LSO</alpha-3>
     <country-code>426</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:LS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LS</iso-3166-2>
   </country>
   <country>
     <name>Liberia</name>
@@ -1116,7 +1116,7 @@
     <alpha-3>LBR</alpha-3>
     <country-code>430</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:LR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LR</iso-3166-2>
   </country>
   <country>
     <name>Libyan Arab Jamahiriya</name>
@@ -1125,7 +1125,7 @@
     <alpha-3>LBY</alpha-3>
     <country-code>434</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:LY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LY</iso-3166-2>
   </country>
   <country>
     <name>Liechtenstein</name>
@@ -1134,7 +1134,7 @@
     <alpha-3>LIE</alpha-3>
     <country-code>438</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:LI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LI</iso-3166-2>
   </country>
   <country>
     <name>Lithuania</name>
@@ -1143,7 +1143,7 @@
     <alpha-3>LTU</alpha-3>
     <country-code>440</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:LT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LT</iso-3166-2>
   </country>
   <country>
     <name>Luxembourg</name>
@@ -1152,7 +1152,7 @@
     <alpha-3>LUX</alpha-3>
     <country-code>442</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:LU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LU</iso-3166-2>
   </country>
   <country>
     <name>Macao</name>
@@ -1161,7 +1161,7 @@
     <alpha-3>MAC</alpha-3>
     <country-code>446</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:MO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MO</iso-3166-2>
   </country>
   <country>
     <name>Macedonia, the former Yugoslav Republic of</name>
@@ -1170,7 +1170,7 @@
     <alpha-3>MKD</alpha-3>
     <country-code>807</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:MK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MK</iso-3166-2>
   </country>
   <country>
     <name>Madagascar</name>
@@ -1179,7 +1179,7 @@
     <alpha-3>MDG</alpha-3>
     <country-code>450</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:MG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MG</iso-3166-2>
   </country>
   <country>
     <name>Malawi</name>
@@ -1188,7 +1188,7 @@
     <alpha-3>MWI</alpha-3>
     <country-code>454</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:MW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MW</iso-3166-2>
   </country>
   <country>
     <name>Malaysia</name>
@@ -1197,7 +1197,7 @@
     <alpha-3>MYS</alpha-3>
     <country-code>458</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:MY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MY</iso-3166-2>
   </country>
   <country>
     <name>Maldives</name>
@@ -1206,7 +1206,7 @@
     <alpha-3>MDV</alpha-3>
     <country-code>462</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:MV</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MV</iso-3166-2>
   </country>
   <country>
     <name>Mali</name>
@@ -1215,7 +1215,7 @@
     <alpha-3>MLI</alpha-3>
     <country-code>466</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:ML</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ML</iso-3166-2>
   </country>
   <country>
     <name>Malta</name>
@@ -1224,7 +1224,7 @@
     <alpha-3>MLT</alpha-3>
     <country-code>470</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:MT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MT</iso-3166-2>
   </country>
   <country>
     <name>Marshall Islands</name>
@@ -1233,7 +1233,7 @@
     <alpha-3>MHL</alpha-3>
     <country-code>584</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:MH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MH</iso-3166-2>
   </country>
   <country>
     <name>Martinique</name>
@@ -1242,7 +1242,7 @@
     <alpha-3>MTQ</alpha-3>
     <country-code>474</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:MQ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MQ</iso-3166-2>
   </country>
   <country>
     <name>Mauritania</name>
@@ -1251,7 +1251,7 @@
     <alpha-3>MRT</alpha-3>
     <country-code>478</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:MR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MR</iso-3166-2>
   </country>
   <country>
     <name>Mauritius</name>
@@ -1260,7 +1260,7 @@
     <alpha-3>MUS</alpha-3>
     <country-code>480</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:MU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MU</iso-3166-2>
   </country>
   <country>
     <name>Mayotte</name>
@@ -1269,7 +1269,7 @@
     <alpha-3>MYT</alpha-3>
     <country-code>175</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:YT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:YT</iso-3166-2>
   </country>
   <country>
     <name>Mexico</name>
@@ -1278,7 +1278,7 @@
     <alpha-3>MEX</alpha-3>
     <country-code>484</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:MX</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MX</iso-3166-2>
   </country>
   <country>
     <name>Micronesia, Federated States of</name>
@@ -1287,7 +1287,7 @@
     <alpha-3>FSM</alpha-3>
     <country-code>583</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:FM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:FM</iso-3166-2>
   </country>
   <country>
     <name>Moldova, Republic of</name>
@@ -1296,7 +1296,7 @@
     <alpha-3>MDA</alpha-3>
     <country-code>498</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:MD</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MD</iso-3166-2>
   </country>
   <country>
     <name>Monaco</name>
@@ -1305,7 +1305,7 @@
     <alpha-3>MCO</alpha-3>
     <country-code>492</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:MC</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MC</iso-3166-2>
   </country>
   <country>
     <name>Mongolia</name>
@@ -1314,7 +1314,7 @@
     <alpha-3>MNG</alpha-3>
     <country-code>496</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:MN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MN</iso-3166-2>
   </country>
   <country>
     <name>Montenegro</name>
@@ -1323,7 +1323,7 @@
     <alpha-3>MNE</alpha-3>
     <country-code>499</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:ME</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ME</iso-3166-2>
   </country>
   <country>
     <name>Montserrat</name>
@@ -1332,7 +1332,7 @@
     <alpha-3>MSR</alpha-3>
     <country-code>500</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:MS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MS</iso-3166-2>
   </country>
   <country>
     <name>Morocco</name>
@@ -1341,7 +1341,7 @@
     <alpha-3>MAR</alpha-3>
     <country-code>504</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:MA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MA</iso-3166-2>
   </country>
   <country>
     <name>Mozambique</name>
@@ -1350,7 +1350,7 @@
     <alpha-3>MOZ</alpha-3>
     <country-code>508</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:MZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MZ</iso-3166-2>
   </country>
   <country>
     <name>Myanmar</name>
@@ -1359,7 +1359,7 @@
     <alpha-3>MMR</alpha-3>
     <country-code>104</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:MM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MM</iso-3166-2>
   </country>
   <country>
     <name>Namibia</name>
@@ -1368,7 +1368,7 @@
     <alpha-3>NAM</alpha-3>
     <country-code>516</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:NA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NA</iso-3166-2>
   </country>
   <country>
     <name>Nauru</name>
@@ -1377,7 +1377,7 @@
     <alpha-3>NRU</alpha-3>
     <country-code>520</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:NR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NR</iso-3166-2>
   </country>
   <country>
     <name>Nepal</name>
@@ -1386,7 +1386,7 @@
     <alpha-3>NPL</alpha-3>
     <country-code>524</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:NP</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NP</iso-3166-2>
   </country>
   <country>
     <name>Netherlands</name>
@@ -1395,7 +1395,7 @@
     <alpha-3>NLD</alpha-3>
     <country-code>528</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:NL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NL</iso-3166-2>
   </country>
   <country>
     <name>New Caledonia</name>
@@ -1404,7 +1404,7 @@
     <alpha-3>NCL</alpha-3>
     <country-code>540</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:NC</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NC</iso-3166-2>
   </country>
   <country>
     <name>New Zealand</name>
@@ -1413,7 +1413,7 @@
     <alpha-3>NZL</alpha-3>
     <country-code>554</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:NZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NZ</iso-3166-2>
   </country>
   <country>
     <name>Nicaragua</name>
@@ -1422,7 +1422,7 @@
     <alpha-3>NIC</alpha-3>
     <country-code>558</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:NI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NI</iso-3166-2>
   </country>
   <country>
     <name>Niger</name>
@@ -1431,7 +1431,7 @@
     <alpha-3>NER</alpha-3>
     <country-code>562</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:NE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NE</iso-3166-2>
   </country>
   <country>
     <name>Nigeria</name>
@@ -1440,7 +1440,7 @@
     <alpha-3>NGA</alpha-3>
     <country-code>566</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:NG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NG</iso-3166-2>
   </country>
   <country>
     <name>Niue</name>
@@ -1449,7 +1449,7 @@
     <alpha-3>NIU</alpha-3>
     <country-code>570</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:NU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NU</iso-3166-2>
   </country>
   <country>
     <name>Norfolk Island</name>
@@ -1458,7 +1458,7 @@
     <alpha-3>NFK</alpha-3>
     <country-code>574</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:NF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NF</iso-3166-2>
   </country>
   <country>
     <name>Northern Mariana Islands</name>
@@ -1467,7 +1467,7 @@
     <alpha-3>MNP</alpha-3>
     <country-code>580</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:MP</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MP</iso-3166-2>
   </country>
   <country>
     <name>Norway</name>
@@ -1476,7 +1476,7 @@
     <alpha-3>NOR</alpha-3>
     <country-code>578</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:NO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:NO</iso-3166-2>
   </country>
   <country>
     <name>Oman</name>
@@ -1485,7 +1485,7 @@
     <alpha-3>OMN</alpha-3>
     <country-code>512</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:OM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:OM</iso-3166-2>
   </country>
   <country>
     <name>Pakistan</name>
@@ -1494,7 +1494,7 @@
     <alpha-3>PAK</alpha-3>
     <country-code>586</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:PK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PK</iso-3166-2>
   </country>
   <country>
     <name>Palau</name>
@@ -1503,7 +1503,7 @@
     <alpha-3>PLW</alpha-3>
     <country-code>585</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:PW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PW</iso-3166-2>
   </country>
   <country>
     <name>Palestinian Territory, Occupied</name>
@@ -1512,7 +1512,7 @@
     <alpha-3>PSE</alpha-3>
     <country-code>275</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:PS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PS</iso-3166-2>
   </country>
   <country>
     <name>Panama</name>
@@ -1521,7 +1521,7 @@
     <alpha-3>PAN</alpha-3>
     <country-code>591</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:PA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PA</iso-3166-2>
   </country>
   <country>
     <name>Papua New Guinea</name>
@@ -1530,7 +1530,7 @@
     <alpha-3>PNG</alpha-3>
     <country-code>598</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:PG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PG</iso-3166-2>
   </country>
   <country>
     <name>Paraguay</name>
@@ -1539,7 +1539,7 @@
     <alpha-3>PRY</alpha-3>
     <country-code>600</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:PY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PY</iso-3166-2>
   </country>
   <country>
     <name>Peru</name>
@@ -1548,7 +1548,7 @@
     <alpha-3>PER</alpha-3>
     <country-code>604</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:PE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PE</iso-3166-2>
   </country>
   <country>
     <name>Philippines</name>
@@ -1557,7 +1557,7 @@
     <alpha-3>PHL</alpha-3>
     <country-code>608</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:PH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PH</iso-3166-2>
   </country>
   <country>
     <name>Pitcairn</name>
@@ -1566,7 +1566,7 @@
     <alpha-3>PCN</alpha-3>
     <country-code>612</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:PN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PN</iso-3166-2>
   </country>
   <country>
     <name>Poland</name>
@@ -1575,7 +1575,7 @@
     <alpha-3>POL</alpha-3>
     <country-code>616</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:PL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PL</iso-3166-2>
   </country>
   <country>
     <name>Portugal</name>
@@ -1584,7 +1584,7 @@
     <alpha-3>PRT</alpha-3>
     <country-code>620</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:PT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PT</iso-3166-2>
   </country>
   <country>
     <name>Puerto Rico</name>
@@ -1593,7 +1593,7 @@
     <alpha-3>PRI</alpha-3>
     <country-code>630</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:PR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PR</iso-3166-2>
   </country>
   <country>
     <name>Qatar</name>
@@ -1602,7 +1602,7 @@
     <alpha-3>QAT</alpha-3>
     <country-code>634</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:QA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:QA</iso-3166-2>
   </country>
   <country>
     <name>R&#233;union</name>
@@ -1611,7 +1611,7 @@
     <alpha-3>REU</alpha-3>
     <country-code>638</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:RE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:RE</iso-3166-2>
   </country>
   <country>
     <name>Romania</name>
@@ -1620,7 +1620,7 @@
     <alpha-3>ROU</alpha-3>
     <country-code>642</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:RO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:RO</iso-3166-2>
   </country>
   <country>
     <name>Russian Federation</name>
@@ -1629,7 +1629,7 @@
     <alpha-3>RUS</alpha-3>
     <country-code>643</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:RU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:RU</iso-3166-2>
   </country>
   <country>
     <name>Rwanda</name>
@@ -1638,7 +1638,7 @@
     <alpha-3>RWA</alpha-3>
     <country-code>646</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:RW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:RW</iso-3166-2>
   </country>
   <country>
     <name>Saint Barth&#233;lemy</name>
@@ -1647,7 +1647,7 @@
     <alpha-3>BLM</alpha-3>
     <country-code>652</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:BL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:BL</iso-3166-2>
   </country>
   <country>
     <name>Saint Helena, Ascension and Tristan da Cunha</name>
@@ -1656,14 +1656,14 @@
     <alpha-3>SHN</alpha-3>
     <country-code>654</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:SH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SH</iso-3166-2>
   </country>
   <country>
     <name>Saint Kitts and Nevis</name>
     <alpha-2>KN</alpha-2>
     <alpha-3>KNA</alpha-3>
     <country-code>659</country-code>
-    <iso 3166-2>ISO 3166-2:KN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:KN</iso-3166-2>
   </country>
   <country>
     <name>Saint Lucia</name>
@@ -1672,7 +1672,7 @@
     <alpha-3>LCA</alpha-3>
     <country-code>662</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:LC</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LC</iso-3166-2>
   </country>
   <country>
     <name>Saint Martin (French part)</name>
@@ -1681,7 +1681,7 @@
     <alpha-3>MAF</alpha-3>
     <country-code>663</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:MF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:MF</iso-3166-2>
   </country>
   <country>
     <name>Saint Pierre and Miquelon</name>
@@ -1690,7 +1690,7 @@
     <alpha-3>SPM</alpha-3>
     <country-code>666</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:PM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:PM</iso-3166-2>
   </country>
   <country>
     <name>Saint Vincent and the Grenadines</name>
@@ -1699,7 +1699,7 @@
     <alpha-3>VCT</alpha-3>
     <country-code>670</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:VC</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:VC</iso-3166-2>
   </country>
   <country>
     <name>Samoa</name>
@@ -1708,7 +1708,7 @@
     <alpha-3>WSM</alpha-3>
     <country-code>882</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:WS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:WS</iso-3166-2>
   </country>
   <country>
     <name>San Marino</name>
@@ -1717,7 +1717,7 @@
     <alpha-3>SMR</alpha-3>
     <country-code>674</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:SM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SM</iso-3166-2>
   </country>
   <country>
     <name>Sao Tome and Principe</name>
@@ -1726,7 +1726,7 @@
     <alpha-3>STP</alpha-3>
     <country-code>678</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:ST</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ST</iso-3166-2>
   </country>
   <country>
     <name>Saudi Arabia</name>
@@ -1735,7 +1735,7 @@
     <alpha-3>SAU</alpha-3>
     <country-code>682</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:SA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SA</iso-3166-2>
   </country>
   <country>
     <name>Senegal</name>
@@ -1744,14 +1744,14 @@
     <alpha-3>SEN</alpha-3>
     <country-code>686</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:SN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SN</iso-3166-2>
   </country>
   <country>
     <name>Serbia</name>
     <alpha-2>RS</alpha-2>
     <alpha-3>SRB</alpha-3>
     <country-code>688</country-code>
-    <iso 3166-2>ISO 3166-2:RS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:RS</iso-3166-2>
   </country>
   <country>
     <name>Seychelles</name>
@@ -1760,7 +1760,7 @@
     <alpha-3>SYC</alpha-3>
     <country-code>690</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:SC</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SC</iso-3166-2>
   </country>
   <country>
     <name>Sierra Leone</name>
@@ -1769,7 +1769,7 @@
     <alpha-3>SLE</alpha-3>
     <country-code>694</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:SL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SL</iso-3166-2>
   </country>
   <country>
     <name>Singapore</name>
@@ -1778,7 +1778,7 @@
     <alpha-3>SGP</alpha-3>
     <country-code>702</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:SG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SG</iso-3166-2>
   </country>
   <country>
     <name>Sint Maarten (Dutch part)</name>
@@ -1787,7 +1787,7 @@
     <alpha-3>SXM</alpha-3>
     <country-code>534</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:SX</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SX</iso-3166-2>
   </country>
   <country>
     <name>Slovakia</name>
@@ -1796,7 +1796,7 @@
     <alpha-3>SVK</alpha-3>
     <country-code>703</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:SK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SK</iso-3166-2>
   </country>
   <country>
     <name>Slovenia</name>
@@ -1805,7 +1805,7 @@
     <alpha-3>SVN</alpha-3>
     <country-code>705</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:SI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SI</iso-3166-2>
   </country>
   <country>
     <name>Solomon Islands</name>
@@ -1814,7 +1814,7 @@
     <alpha-3>SLB</alpha-3>
     <country-code>090</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:SB</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SB</iso-3166-2>
   </country>
   <country>
     <name>Somalia</name>
@@ -1823,7 +1823,7 @@
     <alpha-3>SOM</alpha-3>
     <country-code>706</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:SO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SO</iso-3166-2>
   </country>
   <country>
     <name>South Africa</name>
@@ -1832,14 +1832,14 @@
     <alpha-3>ZAF</alpha-3>
     <country-code>710</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:ZA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ZA</iso-3166-2>
   </country>
   <country>
     <name>South Georgia and the South Sandwich Islands</name>
     <alpha-2>GS</alpha-2>
     <alpha-3>SGS</alpha-3>
     <country-code>239</country-code>
-    <iso 3166-2>ISO 3166-2:GS</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GS</iso-3166-2>
   </country>
   <country>
     <name>Spain</name>
@@ -1848,7 +1848,7 @@
     <alpha-3>ESP</alpha-3>
     <country-code>724</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:ES</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ES</iso-3166-2>
   </country>
   <country>
     <name>Sri Lanka</name>
@@ -1857,7 +1857,7 @@
     <alpha-3>LKA</alpha-3>
     <country-code>144</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:LK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:LK</iso-3166-2>
   </country>
   <country>
     <name>Sudan</name>
@@ -1866,7 +1866,7 @@
     <alpha-3>SDN</alpha-3>
     <country-code>736</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:SD</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SD</iso-3166-2>
   </country>
   <country>
     <name>Suriname</name>
@@ -1875,7 +1875,7 @@
     <alpha-3>SUR</alpha-3>
     <country-code>740</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:SR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SR</iso-3166-2>
   </country>
   <country>
     <name>Svalbard and Jan Mayen</name>
@@ -1884,7 +1884,7 @@
     <alpha-3>SJM</alpha-3>
     <country-code>744</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:SJ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SJ</iso-3166-2>
   </country>
   <country>
     <name>Swaziland</name>
@@ -1893,7 +1893,7 @@
     <alpha-3>SWZ</alpha-3>
     <country-code>748</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:SZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SZ</iso-3166-2>
   </country>
   <country>
     <name>Sweden</name>
@@ -1902,7 +1902,7 @@
     <alpha-3>SWE</alpha-3>
     <country-code>752</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:SE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SE</iso-3166-2>
   </country>
   <country>
     <name>Switzerland</name>
@@ -1911,7 +1911,7 @@
     <alpha-3>CHE</alpha-3>
     <country-code>756</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:CH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:CH</iso-3166-2>
   </country>
   <country>
     <name>Syrian Arab Republic</name>
@@ -1920,14 +1920,14 @@
     <alpha-3>SYR</alpha-3>
     <country-code>760</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:SY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:SY</iso-3166-2>
   </country>
   <country>
     <name>Taiwan, Province of China</name>
     <alpha-2>TW</alpha-2>
     <alpha-3>TWN</alpha-3>
     <country-code>158</country-code>
-    <iso 3166-2>ISO 3166-2:TW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TW</iso-3166-2>
   </country>
   <country>
     <name>Tajikistan</name>
@@ -1936,7 +1936,7 @@
     <alpha-3>TJK</alpha-3>
     <country-code>762</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:TJ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TJ</iso-3166-2>
   </country>
   <country>
     <name>Tanzania, United Republic of</name>
@@ -1945,7 +1945,7 @@
     <alpha-3>TZA</alpha-3>
     <country-code>834</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:TZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TZ</iso-3166-2>
   </country>
   <country>
     <name>Thailand</name>
@@ -1954,7 +1954,7 @@
     <alpha-3>THA</alpha-3>
     <country-code>764</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:TH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TH</iso-3166-2>
   </country>
   <country>
     <name>Timor-Leste</name>
@@ -1963,7 +1963,7 @@
     <alpha-3>TLS</alpha-3>
     <country-code>626</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:TL</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TL</iso-3166-2>
   </country>
   <country>
     <name>Togo</name>
@@ -1972,7 +1972,7 @@
     <alpha-3>TGO</alpha-3>
     <country-code>768</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:TG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TG</iso-3166-2>
   </country>
   <country>
     <name>Tokelau</name>
@@ -1981,7 +1981,7 @@
     <alpha-3>TKL</alpha-3>
     <country-code>772</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:TK</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TK</iso-3166-2>
   </country>
   <country>
     <name>Tonga</name>
@@ -1990,7 +1990,7 @@
     <alpha-3>TON</alpha-3>
     <country-code>776</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:TO</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TO</iso-3166-2>
   </country>
   <country>
     <name>Trinidad and Tobago</name>
@@ -1999,7 +1999,7 @@
     <alpha-3>TTO</alpha-3>
     <country-code>780</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:TT</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TT</iso-3166-2>
   </country>
   <country>
     <name>Tunisia</name>
@@ -2008,7 +2008,7 @@
     <alpha-3>TUN</alpha-3>
     <country-code>788</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:TN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TN</iso-3166-2>
   </country>
   <country>
     <name>Turkey</name>
@@ -2017,7 +2017,7 @@
     <alpha-3>TUR</alpha-3>
     <country-code>792</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:TR</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TR</iso-3166-2>
   </country>
   <country>
     <name>Turkmenistan</name>
@@ -2026,7 +2026,7 @@
     <alpha-3>TKM</alpha-3>
     <country-code>795</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:TM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TM</iso-3166-2>
   </country>
   <country>
     <name>Turks and Caicos Islands</name>
@@ -2035,7 +2035,7 @@
     <alpha-3>TCA</alpha-3>
     <country-code>796</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:TC</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TC</iso-3166-2>
   </country>
   <country>
     <name>Tuvalu</name>
@@ -2044,7 +2044,7 @@
     <alpha-3>TUV</alpha-3>
     <country-code>798</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:TV</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:TV</iso-3166-2>
   </country>
   <country>
     <name>Uganda</name>
@@ -2053,7 +2053,7 @@
     <alpha-3>UGA</alpha-3>
     <country-code>800</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:UG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:UG</iso-3166-2>
   </country>
   <country>
     <name>Ukraine</name>
@@ -2062,7 +2062,7 @@
     <alpha-3>UKR</alpha-3>
     <country-code>804</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:UA</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:UA</iso-3166-2>
   </country>
   <country>
     <name>United Arab Emirates</name>
@@ -2071,7 +2071,7 @@
     <alpha-3>ARE</alpha-3>
     <country-code>784</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:AE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:AE</iso-3166-2>
   </country>
   <country>
     <name>United Kingdom</name>
@@ -2080,7 +2080,7 @@
     <alpha-3>GBR</alpha-3>
     <country-code>826</country-code>
     <region-code>150</region-code>
-    <iso 3166-2>ISO 3166-2:GB</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:GB</iso-3166-2>
   </country>
   <country>
     <name>United States</name>
@@ -2089,14 +2089,14 @@
     <alpha-3>USA</alpha-3>
     <country-code>840</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:US</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:US</iso-3166-2>
   </country>
   <country>
     <name>United States Minor Outlying Islands</name>
     <alpha-2>UM</alpha-2>
     <alpha-3>UMI</alpha-3>
     <country-code>581</country-code>
-    <iso 3166-2>ISO 3166-2:UM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:UM</iso-3166-2>
   </country>
   <country>
     <name>Uruguay</name>
@@ -2105,7 +2105,7 @@
     <alpha-3>URY</alpha-3>
     <country-code>858</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:UY</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:UY</iso-3166-2>
   </country>
   <country>
     <name>Uzbekistan</name>
@@ -2114,7 +2114,7 @@
     <alpha-3>UZB</alpha-3>
     <country-code>860</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:UZ</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:UZ</iso-3166-2>
   </country>
   <country>
     <name>Vanuatu</name>
@@ -2123,7 +2123,7 @@
     <alpha-3>VUT</alpha-3>
     <country-code>548</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:VU</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:VU</iso-3166-2>
   </country>
   <country>
     <name>Venezuela, Bolivarian Republic of</name>
@@ -2132,7 +2132,7 @@
     <alpha-3>VEN</alpha-3>
     <country-code>862</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:VE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:VE</iso-3166-2>
   </country>
   <country>
     <name>Viet Nam</name>
@@ -2141,7 +2141,7 @@
     <alpha-3>VNM</alpha-3>
     <country-code>704</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:VN</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:VN</iso-3166-2>
   </country>
   <country>
     <name>Virgin Islands, British</name>
@@ -2150,7 +2150,7 @@
     <alpha-3>VGB</alpha-3>
     <country-code>092</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:VG</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:VG</iso-3166-2>
   </country>
   <country>
     <name>Virgin Islands, U.S.</name>
@@ -2159,7 +2159,7 @@
     <alpha-3>VIR</alpha-3>
     <country-code>850</country-code>
     <region-code>019</region-code>
-    <iso 3166-2>ISO 3166-2:VI</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:VI</iso-3166-2>
   </country>
   <country>
     <name>Wallis and Futuna</name>
@@ -2168,7 +2168,7 @@
     <alpha-3>WLF</alpha-3>
     <country-code>876</country-code>
     <region-code>009</region-code>
-    <iso 3166-2>ISO 3166-2:WF</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:WF</iso-3166-2>
   </country>
   <country>
     <name>Western Sahara</name>
@@ -2177,7 +2177,7 @@
     <alpha-3>ESH</alpha-3>
     <country-code>732</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:EH</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:EH</iso-3166-2>
   </country>
   <country>
     <name>Yemen</name>
@@ -2186,7 +2186,7 @@
     <alpha-3>YEM</alpha-3>
     <country-code>887</country-code>
     <region-code>142</region-code>
-    <iso 3166-2>ISO 3166-2:YE</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:YE</iso-3166-2>
   </country>
   <country>
     <name>Zambia</name>
@@ -2195,7 +2195,7 @@
     <alpha-3>ZMB</alpha-3>
     <country-code>894</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:ZM</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ZM</iso-3166-2>
   </country>
   <country>
     <name>Zimbabwe</name>
@@ -2204,6 +2204,6 @@
     <alpha-3>ZWE</alpha-3>
     <country-code>716</country-code>
     <region-code>002</region-code>
-    <iso 3166-2>ISO 3166-2:ZW</iso 3166-2>
+    <iso-3166-2>ISO 3166-2:ZW</iso-3166-2>
   </country>
 </countries>
