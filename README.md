@@ -43,10 +43,11 @@ Age of Data
 Caveats
 -------
 
-1. Please check the data independently for accuracy before using it in any system and for any purpose. I'd hate to cause you to lose your job.
-2. Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and should not be considered accurate.
+1. Please check the data independently for accuracy before using it in any system and for any purpose
+2. Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and so should not be considered accurate
 
 TODOs
 -----
 
 * Add French names
+* Supply [more data formats](http://opencountrycodes.appspot.com/)?

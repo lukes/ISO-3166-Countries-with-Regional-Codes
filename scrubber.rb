@@ -113,9 +113,31 @@ puts "Writing files..."
 json = codes.to_json
 csv = JSON.parse(json).first.collect {|k,v| k}.join(',') + "\n"
 csv += JSON.parse(json).collect {|node| "#{node.collect{|k,v| v.gsub(',', '\,')}.join(',')}\n"}.join
-File.open("all.json", "w:UTF-8") { |f| f.write(json) }
-File.open("all.csv", "w:UTF-8") { |f| f.write(csv) }
-File.open("all.xml", "w:UTF-8") { |f| f.write(JSON.parse(json).to_xml(:root => "countries")) }
+File.open("all.json", "w") { |f| f.write(json) }
+File.open("all.csv", "w") { |f| f.write(csv) }
+File.open("all.xml", "w") { |f| f.write(JSON.parse(json).to_xml(:root => "countries")) }
+
+# write slimmer versions
+slim_2 = codes.map do |c|
+  {"name" => c["name"], "alpha-2" => c["alpha-2"], "country-code" => c["country-code"]}
+end
+json = slim_2.to_json
+csv = JSON.parse(json).first.collect {|k,v| k}.join(',') + "\n"
+csv += JSON.parse(json).collect {|node| "#{node.collect{|k,v| v.gsub(',', '\,')}.join(',')}\n"}.join
+File.open("slim-2.json", "w") { |f| f.write(json) }
+File.open("slim-2.csv", "w") { |f| f.write(csv) }
+File.open("slim-2.xml", "w") { |f| f.write(JSON.parse(json).to_xml(:root => "countries")) }
+
+# write slimmer versions
+slim_3 = codes.map do |c|
+  {"name" => c["name"], "alpha-3" => c["alpha-3"], "country-code" => c["country-code"]}
+end
+json = slim_3.to_json
+csv = JSON.parse(json).first.collect {|k,v| k}.join(',') + "\n"
+csv += JSON.parse(json).collect {|node| "#{node.collect{|k,v| v.gsub(',', '\,')}.join(',')}\n"}.join
+File.open("slim-3.json", "w") { |f| f.write(json) }
+File.open("slim-3.csv", "w") { |f| f.write(csv) }
+File.open("slim-3.xml", "w") { |f| f.write(JSON.parse(json).to_xml(:root => "countries")) }
 
 puts "\nCountries that no regional table data was found for (you may want to manually check #{un_page}) -- sorry!:\n\n"
 
