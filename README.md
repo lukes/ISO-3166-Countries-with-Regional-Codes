@@ -27,7 +27,7 @@ When looking for a source of some JSON I could copy and paste that would give me
 
 The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data, but sells the complete data set (the one I wanted) as a Microsoft Access 2003 database.
 
-So I took data that is all publicly available already, just not in a single and ready-to-use form. After making a pretty complete merge, I figured I should polish it up and make my data available to others.
+So I took data that is all publicly available already, just not in a single and ready-to-use form. After making a pretty complete merge, I figured I should polish it up and make the data available to others.
 
 Age of Data
 -------
