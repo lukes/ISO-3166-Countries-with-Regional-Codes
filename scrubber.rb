@@ -26,7 +26,7 @@ doc.search("table.sortable tr").each do |row|
   country["alpha-2"] = tds[1].search("tt").inner_html.strip rescue nil  
   country["alpha-3"] = tds[2].search("tt").inner_html.strip rescue nil  
   country["country-code"] = tds[3].search("tt").inner_html.strip rescue nil
-  country["iso 3166-2"] = tds[4].search("a").inner_html.strip rescue nil
+  country["iso_3166-2"] = tds[4].search("a").inner_html.strip rescue nil
   codes << country unless country.values.any?{ |v| v.nil? }
 end
 
