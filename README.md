@@ -3,7 +3,7 @@ In Development
 
 **NOTE - the lists are still being developed and checked for accuracy. Please do not use in production yet**
 
-I'm also aware that the encoding has gone through the wringer.
+I'm also aware that the character encoding has gone through the wringer.
 
 About
 -----
@@ -43,11 +43,10 @@ Age of Data
 Caveats
 -------
 
-Please check the data independently for accuracy before using them in any system. 
-
-Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and should not be considered accurate.
+1. Please check the data independently for accuracy before using it in any system and for any purpose. I'd hate to cause you to lose your job.
+2. Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and should not be considered accurate.
 
 TODOs
 -----
 
-* French names
+* Add French names
