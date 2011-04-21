@@ -50,4 +50,6 @@ TODOs
 -----
 
 * Add French names
+* Character encoding
+* Check validation on data
 * Supply [more data formats](http://opencountrycodes.appspot.com/)?
