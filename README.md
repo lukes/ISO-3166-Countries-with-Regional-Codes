@@ -10,7 +10,7 @@ About
 
 These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes.
 
-The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but none seemed to also include the UN-maintained regional codes in their data sets.
+The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but none seemed to also include the UN-maintained regional codes in their data sets. I took data that is all publicly available already, just not in a single and ready-to-use form. After making a pretty complete merge, I figured I should polish it up and make the data available to others.
 
 ### What's available?
 
@@ -25,6 +25,27 @@ The data is available in
 * `all.format` - Everything I can find, including regional and sub-regional codes
 * `slim-2.format` - English name, numeric country code and alpha-2 code (e.g., US)
 * `slim-3.format` - English name, numeric country code and alpha-3 code (e.g., USA)
+
+### What does it look like?
+
+Take a peek inside `all`, `slim-2` and `slim-3` directories. 
+
+Using JSON as an example dataset:
+
+#### all.json
+
+    [
+      {
+        "name":"Afghanistan",
+        "alpha-2":"AF",
+        "alpha-3":"AFG",
+        "country-code":"004",
+        "sub-region-code":"034",
+        "region-code":"142",
+        "iso_3166-2":"ISO 3166-2:AF"
+      },
+      // ...
+    ]
 
 ### Data Fidelity
 
