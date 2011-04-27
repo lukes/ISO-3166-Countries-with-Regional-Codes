@@ -1,5 +1,4 @@
-About
------
+### About
 
 These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes.
 
@@ -64,15 +63,12 @@ Using JSON as an example:
       // ...
     ]
 
-Data Fidelity
--------------
-
 ### Caveats
 
 1. Please check the data independently for accuracy before using it in any system and for any purpose
 1. Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and so should not be considered accurate
 
-### Age
+### Data Age
 
 * UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
 * Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011
