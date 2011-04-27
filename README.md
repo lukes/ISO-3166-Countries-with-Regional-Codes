@@ -66,7 +66,7 @@ Using JSON as an example:
 1. Please check the data independently for accuracy before using it in any system and for any purpose
 1. Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and so should not be considered accurate
 
-### Last Updated
+### Timestamp
 
 * UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
 * Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011
