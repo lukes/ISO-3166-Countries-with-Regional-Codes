@@ -36,13 +36,35 @@ Using JSON as an example dataset:
 
     [
       {
-        "name":"Afghanistan",
-        "alpha-2":"AF",
-        "alpha-3":"AFG",
-        "country-code":"004",
-        "sub-region-code":"034",
-        "region-code":"142",
-        "iso_3166-2":"ISO 3166-2:AF"
+        "name":"New Zealand",
+        "alpha-2":"NZ",
+        "alpha-3":"NZL",
+        "country-code":"554",
+        "sub-region-code":"053",
+        "region-code":"009",
+        "iso_3166-2":"ISO 3166-2:NZ
+      },
+      // ...
+    ]
+
+#### slim-2.json
+
+    [
+      {
+        "name":"New Zealand",
+        "alpha-2":"NZ",
+        "country-code":"554"
+      },
+      // ...
+    ]
+
+#### slim-3.json
+
+    [
+      {
+        "name":"New Zealand",
+        "alpha-2":"NZL",
+        "country-code":"554"
       },
       // ...
     ]
