@@ -1,8 +1,8 @@
-### About
+### ISO-3166 Country Lists with UN Regional Codes
 
 These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes.
 
-The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but there were none that appeared to include the UN-maintained regional codes in their data sets. I merged data that is all publicly available already and turned it into a single and ready-to-use form. I hope this saves somebody out there some time.
+The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but there appeared to be no sites that include the UN-maintained regional codes in their data sets. I scraped data from poorly written HTML tables from the above two websites that is all publicly available already to produce some ready to use complete data sets that will hopefully save someone some time.
 
 ### What's available?
 
@@ -17,8 +17,6 @@ The data is available in
 * `all.format` - Everything I can find, including regional and sub-regional codes
 * `slim-2.format` - English name, numeric country code and alpha-2 code (e.g., US)
 * `slim-3.format` - English name, numeric country code and alpha-3 code (e.g., USA)
-
-All data is UTF-8 encoded.
 
 ### What does it look like?
 
@@ -68,7 +66,7 @@ Using JSON as an example:
 1. Please check the data independently for accuracy before using it in any system and for any purpose
 1. Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and so should not be considered accurate
 
-### Data Age
+### Last Updated
 
 * UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
 * Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011
