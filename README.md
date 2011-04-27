@@ -28,9 +28,9 @@ The data is available in
 
 ### What does it look like?
 
-Take a peek inside `all`, `slim-2` and `slim-3` directories. 
+Take a peek inside the `all`, `slim-2` and `slim-3` directories for the full lists of JSON, XML and CSV.
 
-Using JSON as an example dataset:
+Using JSON as an example:
 
 #### all.json
 
@@ -69,14 +69,15 @@ Using JSON as an example dataset:
       // ...
     ]
 
-### Data Fidelity
+Data Fidelity
+-------------
 
-#### Caveats
+### Caveats
 
 1. Please check the data independently for accuracy before using it in any system and for any purpose
 1. Although I've tried to ensure the data is as accurate as possible, the data is not authoritative, and so should not be considered accurate
 
-#### Data Age
+### Age
 
 * UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
 * Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011
