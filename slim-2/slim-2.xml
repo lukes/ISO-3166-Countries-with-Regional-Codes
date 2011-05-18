@@ -6,7 +6,7 @@
     <country-code>004</country-code>
   </country>
   <country>
-    <name>&#197;land Islands</name>
+    <name>Åland Islands</name>
     <alpha-2>AX</alpha-2>
     <country-code>248</country-code>
   </country>
@@ -271,7 +271,7 @@
     <country-code>188</country-code>
   </country>
   <country>
-    <name>C&#244;te d'Ivoire</name>
+    <name>Côte d'Ivoire</name>
     <alpha-2>CI</alpha-2>
     <country-code>384</country-code>
   </country>
@@ -286,7 +286,7 @@
     <country-code>192</country-code>
   </country>
   <country>
-    <name>Cura&#231;ao</name>
+    <name>Curaçao</name>
     <alpha-2>CW</alpha-2>
     <country-code>531</country-code>
   </country>
@@ -901,7 +901,7 @@
     <country-code>634</country-code>
   </country>
   <country>
-    <name>R&#233;union</name>
+    <name>Réunion</name>
     <alpha-2>RE</alpha-2>
     <country-code>638</country-code>
   </country>
@@ -921,7 +921,7 @@
     <country-code>646</country-code>
   </country>
   <country>
-    <name>Saint Barth&#233;lemy</name>
+    <name>Saint Barthélemy</name>
     <alpha-2>BL</alpha-2>
     <country-code>652</country-code>
   </country>
