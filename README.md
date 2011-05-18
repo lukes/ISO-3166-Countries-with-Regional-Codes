@@ -68,5 +68,5 @@ Using JSON as an example:
 
 ### Timestamp
 
-* UN Statistical data retrieved 21 April 2011, from a document last revised 17 February 2011
-* Wikipedia data retrieved 21 April 2011, from a document last revised 8 April 2011
+* UN Statistical data retrieved 18 May 2011, from a document last revised 17 February 2011
+* Wikipedia data retrieved 18 May 2011, from a document last revised 8 April 2011
