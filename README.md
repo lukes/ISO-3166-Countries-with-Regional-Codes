@@ -34,7 +34,7 @@ Using JSON as an example:
         "country-code":"554",
         "sub-region-code":"053",
         "region-code":"009",
-        "iso_3166-2":"ISO 3166-2:NZ
+        "iso_3166-2":"ISO 3166-2:NZ"
       },
       // ...
     ]
@@ -68,5 +68,5 @@ Using JSON as an example:
 
 ### Timestamp
 
-* UN Statistical data retrieved 18 May 2011, from a document last revised 17 February 2011
+* UN Statistical data retrieved 18 May 2011, from a document last revised 26 April 2011
 * Wikipedia data retrieved 18 May 2011, from a document last revised 8 April 2011
