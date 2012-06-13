@@ -55,7 +55,7 @@ Using JSON as an example:
     [
       {
         "name":"New Zealand",
-        "alpha-2":"NZL",
+        "alpha-3":"NZL",
         "country-code":"554"
       },
       // ...
