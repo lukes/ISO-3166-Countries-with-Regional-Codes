@@ -1,1243 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<countries type="array">
-  <country>
-    <name>Afghanistan</name>
-    <alpha-3>AFG</alpha-3>
-    <country-code>004</country-code>
-  </country>
-  <country>
-    <name>Åland Islands</name>
-    <alpha-3>ALA</alpha-3>
-    <country-code>248</country-code>
-  </country>
-  <country>
-    <name>Albania</name>
-    <alpha-3>ALB</alpha-3>
-    <country-code>008</country-code>
-  </country>
-  <country>
-    <name>Algeria</name>
-    <alpha-3>DZA</alpha-3>
-    <country-code>012</country-code>
-  </country>
-  <country>
-    <name>American Samoa</name>
-    <alpha-3>ASM</alpha-3>
-    <country-code>016</country-code>
-  </country>
-  <country>
-    <name>Andorra</name>
-    <alpha-3>AND</alpha-3>
-    <country-code>020</country-code>
-  </country>
-  <country>
-    <name>Angola</name>
-    <alpha-3>AGO</alpha-3>
-    <country-code>024</country-code>
-  </country>
-  <country>
-    <name>Anguilla</name>
-    <alpha-3>AIA</alpha-3>
-    <country-code>660</country-code>
-  </country>
-  <country>
-    <name>Antarctica</name>
-    <alpha-3>ATA</alpha-3>
-    <country-code>010</country-code>
-  </country>
-  <country>
-    <name>Antigua and Barbuda</name>
-    <alpha-3>ATG</alpha-3>
-    <country-code>028</country-code>
-  </country>
-  <country>
-    <name>Argentina</name>
-    <alpha-3>ARG</alpha-3>
-    <country-code>032</country-code>
-  </country>
-  <country>
-    <name>Armenia</name>
-    <alpha-3>ARM</alpha-3>
-    <country-code>051</country-code>
-  </country>
-  <country>
-    <name>Aruba</name>
-    <alpha-3>ABW</alpha-3>
-    <country-code>533</country-code>
-  </country>
-  <country>
-    <name>Australia</name>
-    <alpha-3>AUS</alpha-3>
-    <country-code>036</country-code>
-  </country>
-  <country>
-    <name>Austria</name>
-    <alpha-3>AUT</alpha-3>
-    <country-code>040</country-code>
-  </country>
-  <country>
-    <name>Azerbaijan</name>
-    <alpha-3>AZE</alpha-3>
-    <country-code>031</country-code>
-  </country>
-  <country>
-    <name>Bahamas</name>
-    <alpha-3>BHS</alpha-3>
-    <country-code>044</country-code>
-  </country>
-  <country>
-    <name>Bahrain</name>
-    <alpha-3>BHR</alpha-3>
-    <country-code>048</country-code>
-  </country>
-  <country>
-    <name>Bangladesh</name>
-    <alpha-3>BGD</alpha-3>
-    <country-code>050</country-code>
-  </country>
-  <country>
-    <name>Barbados</name>
-    <alpha-3>BRB</alpha-3>
-    <country-code>052</country-code>
-  </country>
-  <country>
-    <name>Belarus</name>
-    <alpha-3>BLR</alpha-3>
-    <country-code>112</country-code>
-  </country>
-  <country>
-    <name>Belgium</name>
-    <alpha-3>BEL</alpha-3>
-    <country-code>056</country-code>
-  </country>
-  <country>
-    <name>Belize</name>
-    <alpha-3>BLZ</alpha-3>
-    <country-code>084</country-code>
-  </country>
-  <country>
-    <name>Benin</name>
-    <alpha-3>BEN</alpha-3>
-    <country-code>204</country-code>
-  </country>
-  <country>
-    <name>Bermuda</name>
-    <alpha-3>BMU</alpha-3>
-    <country-code>060</country-code>
-  </country>
-  <country>
-    <name>Bhutan</name>
-    <alpha-3>BTN</alpha-3>
-    <country-code>064</country-code>
-  </country>
-  <country>
-    <name>Bolivia, Plurinational State of</name>
-    <alpha-3>BOL</alpha-3>
-    <country-code>068</country-code>
-  </country>
-  <country>
-    <name>Bonaire, Saint Eustatius and Saba</name>
-    <alpha-3>BES</alpha-3>
-    <country-code>535</country-code>
-  </country>
-  <country>
-    <name>Bosnia and Herzegovina</name>
-    <alpha-3>BIH</alpha-3>
-    <country-code>070</country-code>
-  </country>
-  <country>
-    <name>Botswana</name>
-    <alpha-3>BWA</alpha-3>
-    <country-code>072</country-code>
-  </country>
-  <country>
-    <name>Bouvet Island</name>
-    <alpha-3>BVT</alpha-3>
-    <country-code>074</country-code>
-  </country>
-  <country>
-    <name>Brazil</name>
-    <alpha-3>BRA</alpha-3>
-    <country-code>076</country-code>
-  </country>
-  <country>
-    <name>British Indian Ocean Territory</name>
-    <alpha-3>IOT</alpha-3>
-    <country-code>086</country-code>
-  </country>
-  <country>
-    <name>Brunei Darussalam</name>
-    <alpha-3>BRN</alpha-3>
-    <country-code>096</country-code>
-  </country>
-  <country>
-    <name>Bulgaria</name>
-    <alpha-3>BGR</alpha-3>
-    <country-code>100</country-code>
-  </country>
-  <country>
-    <name>Burkina Faso</name>
-    <alpha-3>BFA</alpha-3>
-    <country-code>854</country-code>
-  </country>
-  <country>
-    <name>Burundi</name>
-    <alpha-3>BDI</alpha-3>
-    <country-code>108</country-code>
-  </country>
-  <country>
-    <name>Cambodia</name>
-    <alpha-3>KHM</alpha-3>
-    <country-code>116</country-code>
-  </country>
-  <country>
-    <name>Cameroon</name>
-    <alpha-3>CMR</alpha-3>
-    <country-code>120</country-code>
-  </country>
-  <country>
-    <name>Canada</name>
-    <alpha-3>CAN</alpha-3>
-    <country-code>124</country-code>
-  </country>
-  <country>
-    <name>Cape Verde</name>
-    <alpha-3>CPV</alpha-3>
-    <country-code>132</country-code>
-  </country>
-  <country>
-    <name>Cayman Islands</name>
-    <alpha-3>CYM</alpha-3>
-    <country-code>136</country-code>
-  </country>
-  <country>
-    <name>Central African Republic</name>
-    <alpha-3>CAF</alpha-3>
-    <country-code>140</country-code>
-  </country>
-  <country>
-    <name>Chad</name>
-    <alpha-3>TCD</alpha-3>
-    <country-code>148</country-code>
-  </country>
-  <country>
-    <name>Chile</name>
-    <alpha-3>CHL</alpha-3>
-    <country-code>152</country-code>
-  </country>
-  <country>
-    <name>China</name>
-    <alpha-3>CHN</alpha-3>
-    <country-code>156</country-code>
-  </country>
-  <country>
-    <name>Christmas Island</name>
-    <alpha-3>CXR</alpha-3>
-    <country-code>162</country-code>
-  </country>
-  <country>
-    <name>Cocos (Keeling) Islands</name>
-    <alpha-3>CCK</alpha-3>
-    <country-code>166</country-code>
-  </country>
-  <country>
-    <name>Colombia</name>
-    <alpha-3>COL</alpha-3>
-    <country-code>170</country-code>
-  </country>
-  <country>
-    <name>Comoros</name>
-    <alpha-3>COM</alpha-3>
-    <country-code>174</country-code>
-  </country>
-  <country>
-    <name>Congo</name>
-    <alpha-3>COG</alpha-3>
-    <country-code>178</country-code>
-  </country>
-  <country>
-    <name>Congo, the Democratic Republic of the</name>
-    <alpha-3>COD</alpha-3>
-    <country-code>180</country-code>
-  </country>
-  <country>
-    <name>Cook Islands</name>
-    <alpha-3>COK</alpha-3>
-    <country-code>184</country-code>
-  </country>
-  <country>
-    <name>Costa Rica</name>
-    <alpha-3>CRI</alpha-3>
-    <country-code>188</country-code>
-  </country>
-  <country>
-    <name>Côte d'Ivoire</name>
-    <alpha-3>CIV</alpha-3>
-    <country-code>384</country-code>
-  </country>
-  <country>
-    <name>Croatia</name>
-    <alpha-3>HRV</alpha-3>
-    <country-code>191</country-code>
-  </country>
-  <country>
-    <name>Cuba</name>
-    <alpha-3>CUB</alpha-3>
-    <country-code>192</country-code>
-  </country>
-  <country>
-    <name>Curaçao</name>
-    <alpha-3>CUW</alpha-3>
-    <country-code>531</country-code>
-  </country>
-  <country>
-    <name>Cyprus</name>
-    <alpha-3>CYP</alpha-3>
-    <country-code>196</country-code>
-  </country>
-  <country>
-    <name>Czech Republic</name>
-    <alpha-3>CZE</alpha-3>
-    <country-code>203</country-code>
-  </country>
-  <country>
-    <name>Denmark</name>
-    <alpha-3>DNK</alpha-3>
-    <country-code>208</country-code>
-  </country>
-  <country>
-    <name>Djibouti</name>
-    <alpha-3>DJI</alpha-3>
-    <country-code>262</country-code>
-  </country>
-  <country>
-    <name>Dominica</name>
-    <alpha-3>DMA</alpha-3>
-    <country-code>212</country-code>
-  </country>
-  <country>
-    <name>Dominican Republic</name>
-    <alpha-3>DOM</alpha-3>
-    <country-code>214</country-code>
-  </country>
-  <country>
-    <name>Ecuador</name>
-    <alpha-3>ECU</alpha-3>
-    <country-code>218</country-code>
-  </country>
-  <country>
-    <name>Egypt</name>
-    <alpha-3>EGY</alpha-3>
-    <country-code>818</country-code>
-  </country>
-  <country>
-    <name>El Salvador</name>
-    <alpha-3>SLV</alpha-3>
-    <country-code>222</country-code>
-  </country>
-  <country>
-    <name>Equatorial Guinea</name>
-    <alpha-3>GNQ</alpha-3>
-    <country-code>226</country-code>
-  </country>
-  <country>
-    <name>Eritrea</name>
-    <alpha-3>ERI</alpha-3>
-    <country-code>232</country-code>
-  </country>
-  <country>
-    <name>Estonia</name>
-    <alpha-3>EST</alpha-3>
-    <country-code>233</country-code>
-  </country>
-  <country>
-    <name>Ethiopia</name>
-    <alpha-3>ETH</alpha-3>
-    <country-code>231</country-code>
-  </country>
-  <country>
-    <name>Falkland Islands (Malvinas)</name>
-    <alpha-3>FLK</alpha-3>
-    <country-code>238</country-code>
-  </country>
-  <country>
-    <name>Faroe Islands</name>
-    <alpha-3>FRO</alpha-3>
-    <country-code>234</country-code>
-  </country>
-  <country>
-    <name>Fiji</name>
-    <alpha-3>FJI</alpha-3>
-    <country-code>242</country-code>
-  </country>
-  <country>
-    <name>Finland</name>
-    <alpha-3>FIN</alpha-3>
-    <country-code>246</country-code>
-  </country>
-  <country>
-    <name>France</name>
-    <alpha-3>FRA</alpha-3>
-    <country-code>250</country-code>
-  </country>
-  <country>
-    <name>French Guiana</name>
-    <alpha-3>GUF</alpha-3>
-    <country-code>254</country-code>
-  </country>
-  <country>
-    <name>French Polynesia</name>
-    <alpha-3>PYF</alpha-3>
-    <country-code>258</country-code>
-  </country>
-  <country>
-    <name>French Southern Territories</name>
-    <alpha-3>ATF</alpha-3>
-    <country-code>260</country-code>
-  </country>
-  <country>
-    <name>Gabon</name>
-    <alpha-3>GAB</alpha-3>
-    <country-code>266</country-code>
-  </country>
-  <country>
-    <name>Gambia</name>
-    <alpha-3>GMB</alpha-3>
-    <country-code>270</country-code>
-  </country>
-  <country>
-    <name>Georgia</name>
-    <alpha-3>GEO</alpha-3>
-    <country-code>268</country-code>
-  </country>
-  <country>
-    <name>Germany</name>
-    <alpha-3>DEU</alpha-3>
-    <country-code>276</country-code>
-  </country>
-  <country>
-    <name>Ghana</name>
-    <alpha-3>GHA</alpha-3>
-    <country-code>288</country-code>
-  </country>
-  <country>
-    <name>Gibraltar</name>
-    <alpha-3>GIB</alpha-3>
-    <country-code>292</country-code>
-  </country>
-  <country>
-    <name>Greece</name>
-    <alpha-3>GRC</alpha-3>
-    <country-code>300</country-code>
-  </country>
-  <country>
-    <name>Greenland</name>
-    <alpha-3>GRL</alpha-3>
-    <country-code>304</country-code>
-  </country>
-  <country>
-    <name>Grenada</name>
-    <alpha-3>GRD</alpha-3>
-    <country-code>308</country-code>
-  </country>
-  <country>
-    <name>Guadeloupe</name>
-    <alpha-3>GLP</alpha-3>
-    <country-code>312</country-code>
-  </country>
-  <country>
-    <name>Guam</name>
-    <alpha-3>GUM</alpha-3>
-    <country-code>316</country-code>
-  </country>
-  <country>
-    <name>Guatemala</name>
-    <alpha-3>GTM</alpha-3>
-    <country-code>320</country-code>
-  </country>
-  <country>
-    <name>Guernsey</name>
-    <alpha-3>GGY</alpha-3>
-    <country-code>831</country-code>
-  </country>
-  <country>
-    <name>Guinea</name>
-    <alpha-3>GIN</alpha-3>
-    <country-code>324</country-code>
-  </country>
-  <country>
-    <name>Guinea-Bissau</name>
-    <alpha-3>GNB</alpha-3>
-    <country-code>624</country-code>
-  </country>
-  <country>
-    <name>Guyana</name>
-    <alpha-3>GUY</alpha-3>
-    <country-code>328</country-code>
-  </country>
-  <country>
-    <name>Haiti</name>
-    <alpha-3>HTI</alpha-3>
-    <country-code>332</country-code>
-  </country>
-  <country>
-    <name>Heard Island and McDonald Islands</name>
-    <alpha-3>HMD</alpha-3>
-    <country-code>334</country-code>
-  </country>
-  <country>
-    <name>Holy See (Vatican City State)</name>
-    <alpha-3>VAT</alpha-3>
-    <country-code>336</country-code>
-  </country>
-  <country>
-    <name>Honduras</name>
-    <alpha-3>HND</alpha-3>
-    <country-code>340</country-code>
-  </country>
-  <country>
-    <name>Hong Kong</name>
-    <alpha-3>HKG</alpha-3>
-    <country-code>344</country-code>
-  </country>
-  <country>
-    <name>Hungary</name>
-    <alpha-3>HUN</alpha-3>
-    <country-code>348</country-code>
-  </country>
-  <country>
-    <name>Iceland</name>
-    <alpha-3>ISL</alpha-3>
-    <country-code>352</country-code>
-  </country>
-  <country>
-    <name>India</name>
-    <alpha-3>IND</alpha-3>
-    <country-code>356</country-code>
-  </country>
-  <country>
-    <name>Indonesia</name>
-    <alpha-3>IDN</alpha-3>
-    <country-code>360</country-code>
-  </country>
-  <country>
-    <name>Iran, Islamic Republic of</name>
-    <alpha-3>IRN</alpha-3>
-    <country-code>364</country-code>
-  </country>
-  <country>
-    <name>Iraq</name>
-    <alpha-3>IRQ</alpha-3>
-    <country-code>368</country-code>
-  </country>
-  <country>
-    <name>Ireland</name>
-    <alpha-3>IRL</alpha-3>
-    <country-code>372</country-code>
-  </country>
-  <country>
-    <name>Isle of Man</name>
-    <alpha-3>IMN</alpha-3>
-    <country-code>833</country-code>
-  </country>
-  <country>
-    <name>Israel</name>
-    <alpha-3>ISR</alpha-3>
-    <country-code>376</country-code>
-  </country>
-  <country>
-    <name>Italy</name>
-    <alpha-3>ITA</alpha-3>
-    <country-code>380</country-code>
-  </country>
-  <country>
-    <name>Jamaica</name>
-    <alpha-3>JAM</alpha-3>
-    <country-code>388</country-code>
-  </country>
-  <country>
-    <name>Japan</name>
-    <alpha-3>JPN</alpha-3>
-    <country-code>392</country-code>
-  </country>
-  <country>
-    <name>Jersey</name>
-    <alpha-3>JEY</alpha-3>
-    <country-code>832</country-code>
-  </country>
-  <country>
-    <name>Jordan</name>
-    <alpha-3>JOR</alpha-3>
-    <country-code>400</country-code>
-  </country>
-  <country>
-    <name>Kazakhstan</name>
-    <alpha-3>KAZ</alpha-3>
-    <country-code>398</country-code>
-  </country>
-  <country>
-    <name>Kenya</name>
-    <alpha-3>KEN</alpha-3>
-    <country-code>404</country-code>
-  </country>
-  <country>
-    <name>Kiribati</name>
-    <alpha-3>KIR</alpha-3>
-    <country-code>296</country-code>
-  </country>
-  <country>
-    <name>Korea, Democratic People's Republic of</name>
-    <alpha-3>PRK</alpha-3>
-    <country-code>408</country-code>
-  </country>
-  <country>
-    <name>Korea, Republic of</name>
-    <alpha-3>KOR</alpha-3>
-    <country-code>410</country-code>
-  </country>
-  <country>
-    <name>Kuwait</name>
-    <alpha-3>KWT</alpha-3>
-    <country-code>414</country-code>
-  </country>
-  <country>
-    <name>Kyrgyzstan</name>
-    <alpha-3>KGZ</alpha-3>
-    <country-code>417</country-code>
-  </country>
-  <country>
-    <name>Lao People's Democratic Republic</name>
-    <alpha-3>LAO</alpha-3>
-    <country-code>418</country-code>
-  </country>
-  <country>
-    <name>Latvia</name>
-    <alpha-3>LVA</alpha-3>
-    <country-code>428</country-code>
-  </country>
-  <country>
-    <name>Lebanon</name>
-    <alpha-3>LBN</alpha-3>
-    <country-code>422</country-code>
-  </country>
-  <country>
-    <name>Lesotho</name>
-    <alpha-3>LSO</alpha-3>
-    <country-code>426</country-code>
-  </country>
-  <country>
-    <name>Liberia</name>
-    <alpha-3>LBR</alpha-3>
-    <country-code>430</country-code>
-  </country>
-  <country>
-    <name>Libyan Arab Jamahiriya</name>
-    <alpha-3>LBY</alpha-3>
-    <country-code>434</country-code>
-  </country>
-  <country>
-    <name>Liechtenstein</name>
-    <alpha-3>LIE</alpha-3>
-    <country-code>438</country-code>
-  </country>
-  <country>
-    <name>Lithuania</name>
-    <alpha-3>LTU</alpha-3>
-    <country-code>440</country-code>
-  </country>
-  <country>
-    <name>Luxembourg</name>
-    <alpha-3>LUX</alpha-3>
-    <country-code>442</country-code>
-  </country>
-  <country>
-    <name>Macao</name>
-    <alpha-3>MAC</alpha-3>
-    <country-code>446</country-code>
-  </country>
-  <country>
-    <name>Macedonia, the former Yugoslav Republic of</name>
-    <alpha-3>MKD</alpha-3>
-    <country-code>807</country-code>
-  </country>
-  <country>
-    <name>Madagascar</name>
-    <alpha-3>MDG</alpha-3>
-    <country-code>450</country-code>
-  </country>
-  <country>
-    <name>Malawi</name>
-    <alpha-3>MWI</alpha-3>
-    <country-code>454</country-code>
-  </country>
-  <country>
-    <name>Malaysia</name>
-    <alpha-3>MYS</alpha-3>
-    <country-code>458</country-code>
-  </country>
-  <country>
-    <name>Maldives</name>
-    <alpha-3>MDV</alpha-3>
-    <country-code>462</country-code>
-  </country>
-  <country>
-    <name>Mali</name>
-    <alpha-3>MLI</alpha-3>
-    <country-code>466</country-code>
-  </country>
-  <country>
-    <name>Malta</name>
-    <alpha-3>MLT</alpha-3>
-    <country-code>470</country-code>
-  </country>
-  <country>
-    <name>Marshall Islands</name>
-    <alpha-3>MHL</alpha-3>
-    <country-code>584</country-code>
-  </country>
-  <country>
-    <name>Martinique</name>
-    <alpha-3>MTQ</alpha-3>
-    <country-code>474</country-code>
-  </country>
-  <country>
-    <name>Mauritania</name>
-    <alpha-3>MRT</alpha-3>
-    <country-code>478</country-code>
-  </country>
-  <country>
-    <name>Mauritius</name>
-    <alpha-3>MUS</alpha-3>
-    <country-code>480</country-code>
-  </country>
-  <country>
-    <name>Mayotte</name>
-    <alpha-3>MYT</alpha-3>
-    <country-code>175</country-code>
-  </country>
-  <country>
-    <name>Mexico</name>
-    <alpha-3>MEX</alpha-3>
-    <country-code>484</country-code>
-  </country>
-  <country>
-    <name>Micronesia, Federated States of</name>
-    <alpha-3>FSM</alpha-3>
-    <country-code>583</country-code>
-  </country>
-  <country>
-    <name>Moldova, Republic of</name>
-    <alpha-3>MDA</alpha-3>
-    <country-code>498</country-code>
-  </country>
-  <country>
-    <name>Monaco</name>
-    <alpha-3>MCO</alpha-3>
-    <country-code>492</country-code>
-  </country>
-  <country>
-    <name>Mongolia</name>
-    <alpha-3>MNG</alpha-3>
-    <country-code>496</country-code>
-  </country>
-  <country>
-    <name>Montenegro</name>
-    <alpha-3>MNE</alpha-3>
-    <country-code>499</country-code>
-  </country>
-  <country>
-    <name>Montserrat</name>
-    <alpha-3>MSR</alpha-3>
-    <country-code>500</country-code>
-  </country>
-  <country>
-    <name>Morocco</name>
-    <alpha-3>MAR</alpha-3>
-    <country-code>504</country-code>
-  </country>
-  <country>
-    <name>Mozambique</name>
-    <alpha-3>MOZ</alpha-3>
-    <country-code>508</country-code>
-  </country>
-  <country>
-    <name>Myanmar</name>
-    <alpha-3>MMR</alpha-3>
-    <country-code>104</country-code>
-  </country>
-  <country>
-    <name>Namibia</name>
-    <alpha-3>NAM</alpha-3>
-    <country-code>516</country-code>
-  </country>
-  <country>
-    <name>Nauru</name>
-    <alpha-3>NRU</alpha-3>
-    <country-code>520</country-code>
-  </country>
-  <country>
-    <name>Nepal</name>
-    <alpha-3>NPL</alpha-3>
-    <country-code>524</country-code>
-  </country>
-  <country>
-    <name>Netherlands</name>
-    <alpha-3>NLD</alpha-3>
-    <country-code>528</country-code>
-  </country>
-  <country>
-    <name>New Caledonia</name>
-    <alpha-3>NCL</alpha-3>
-    <country-code>540</country-code>
-  </country>
-  <country>
-    <name>New Zealand</name>
-    <alpha-3>NZL</alpha-3>
-    <country-code>554</country-code>
-  </country>
-  <country>
-    <name>Nicaragua</name>
-    <alpha-3>NIC</alpha-3>
-    <country-code>558</country-code>
-  </country>
-  <country>
-    <name>Niger</name>
-    <alpha-3>NER</alpha-3>
-    <country-code>562</country-code>
-  </country>
-  <country>
-    <name>Nigeria</name>
-    <alpha-3>NGA</alpha-3>
-    <country-code>566</country-code>
-  </country>
-  <country>
-    <name>Niue</name>
-    <alpha-3>NIU</alpha-3>
-    <country-code>570</country-code>
-  </country>
-  <country>
-    <name>Norfolk Island</name>
-    <alpha-3>NFK</alpha-3>
-    <country-code>574</country-code>
-  </country>
-  <country>
-    <name>Northern Mariana Islands</name>
-    <alpha-3>MNP</alpha-3>
-    <country-code>580</country-code>
-  </country>
-  <country>
-    <name>Norway</name>
-    <alpha-3>NOR</alpha-3>
-    <country-code>578</country-code>
-  </country>
-  <country>
-    <name>Oman</name>
-    <alpha-3>OMN</alpha-3>
-    <country-code>512</country-code>
-  </country>
-  <country>
-    <name>Pakistan</name>
-    <alpha-3>PAK</alpha-3>
-    <country-code>586</country-code>
-  </country>
-  <country>
-    <name>Palau</name>
-    <alpha-3>PLW</alpha-3>
-    <country-code>585</country-code>
-  </country>
-  <country>
-    <name>Palestinian Territory, Occupied</name>
-    <alpha-3>PSE</alpha-3>
-    <country-code>275</country-code>
-  </country>
-  <country>
-    <name>Panama</name>
-    <alpha-3>PAN</alpha-3>
-    <country-code>591</country-code>
-  </country>
-  <country>
-    <name>Papua New Guinea</name>
-    <alpha-3>PNG</alpha-3>
-    <country-code>598</country-code>
-  </country>
-  <country>
-    <name>Paraguay</name>
-    <alpha-3>PRY</alpha-3>
-    <country-code>600</country-code>
-  </country>
-  <country>
-    <name>Peru</name>
-    <alpha-3>PER</alpha-3>
-    <country-code>604</country-code>
-  </country>
-  <country>
-    <name>Philippines</name>
-    <alpha-3>PHL</alpha-3>
-    <country-code>608</country-code>
-  </country>
-  <country>
-    <name>Pitcairn</name>
-    <alpha-3>PCN</alpha-3>
-    <country-code>612</country-code>
-  </country>
-  <country>
-    <name>Poland</name>
-    <alpha-3>POL</alpha-3>
-    <country-code>616</country-code>
-  </country>
-  <country>
-    <name>Portugal</name>
-    <alpha-3>PRT</alpha-3>
-    <country-code>620</country-code>
-  </country>
-  <country>
-    <name>Puerto Rico</name>
-    <alpha-3>PRI</alpha-3>
-    <country-code>630</country-code>
-  </country>
-  <country>
-    <name>Qatar</name>
-    <alpha-3>QAT</alpha-3>
-    <country-code>634</country-code>
-  </country>
-  <country>
-    <name>Réunion</name>
-    <alpha-3>REU</alpha-3>
-    <country-code>638</country-code>
-  </country>
-  <country>
-    <name>Romania</name>
-    <alpha-3>ROU</alpha-3>
-    <country-code>642</country-code>
-  </country>
-  <country>
-    <name>Russian Federation</name>
-    <alpha-3>RUS</alpha-3>
-    <country-code>643</country-code>
-  </country>
-  <country>
-    <name>Rwanda</name>
-    <alpha-3>RWA</alpha-3>
-    <country-code>646</country-code>
-  </country>
-  <country>
-    <name>Saint Barthélemy</name>
-    <alpha-3>BLM</alpha-3>
-    <country-code>652</country-code>
-  </country>
-  <country>
-    <name>Saint Helena, Ascension and Tristan da Cunha</name>
-    <alpha-3>SHN</alpha-3>
-    <country-code>654</country-code>
-  </country>
-  <country>
-    <name>Saint Kitts and Nevis</name>
-    <alpha-3>KNA</alpha-3>
-    <country-code>659</country-code>
-  </country>
-  <country>
-    <name>Saint Lucia</name>
-    <alpha-3>LCA</alpha-3>
-    <country-code>662</country-code>
-  </country>
-  <country>
-    <name>Saint Martin (French part)</name>
-    <alpha-3>MAF</alpha-3>
-    <country-code>663</country-code>
-  </country>
-  <country>
-    <name>Saint Pierre and Miquelon</name>
-    <alpha-3>SPM</alpha-3>
-    <country-code>666</country-code>
-  </country>
-  <country>
-    <name>Saint Vincent and the Grenadines</name>
-    <alpha-3>VCT</alpha-3>
-    <country-code>670</country-code>
-  </country>
-  <country>
-    <name>Samoa</name>
-    <alpha-3>WSM</alpha-3>
-    <country-code>882</country-code>
-  </country>
-  <country>
-    <name>San Marino</name>
-    <alpha-3>SMR</alpha-3>
-    <country-code>674</country-code>
-  </country>
-  <country>
-    <name>Sao Tome and Principe</name>
-    <alpha-3>STP</alpha-3>
-    <country-code>678</country-code>
-  </country>
-  <country>
-    <name>Saudi Arabia</name>
-    <alpha-3>SAU</alpha-3>
-    <country-code>682</country-code>
-  </country>
-  <country>
-    <name>Senegal</name>
-    <alpha-3>SEN</alpha-3>
-    <country-code>686</country-code>
-  </country>
-  <country>
-    <name>Serbia</name>
-    <alpha-3>SRB</alpha-3>
-    <country-code>688</country-code>
-  </country>
-  <country>
-    <name>Seychelles</name>
-    <alpha-3>SYC</alpha-3>
-    <country-code>690</country-code>
-  </country>
-  <country>
-    <name>Sierra Leone</name>
-    <alpha-3>SLE</alpha-3>
-    <country-code>694</country-code>
-  </country>
-  <country>
-    <name>Singapore</name>
-    <alpha-3>SGP</alpha-3>
-    <country-code>702</country-code>
-  </country>
-  <country>
-    <name>Sint Maarten (Dutch part)</name>
-    <alpha-3>SXM</alpha-3>
-    <country-code>534</country-code>
-  </country>
-  <country>
-    <name>Slovakia</name>
-    <alpha-3>SVK</alpha-3>
-    <country-code>703</country-code>
-  </country>
-  <country>
-    <name>Slovenia</name>
-    <alpha-3>SVN</alpha-3>
-    <country-code>705</country-code>
-  </country>
-  <country>
-    <name>Solomon Islands</name>
-    <alpha-3>SLB</alpha-3>
-    <country-code>090</country-code>
-  </country>
-  <country>
-    <name>Somalia</name>
-    <alpha-3>SOM</alpha-3>
-    <country-code>706</country-code>
-  </country>
-  <country>
-    <name>South Africa</name>
-    <alpha-3>ZAF</alpha-3>
-    <country-code>710</country-code>
-  </country>
-  <country>
-    <name>South Georgia and the South Sandwich Islands</name>
-    <alpha-3>SGS</alpha-3>
-    <country-code>239</country-code>
-  </country>
-  <country>
-    <name>Spain</name>
-    <alpha-3>ESP</alpha-3>
-    <country-code>724</country-code>
-  </country>
-  <country>
-    <name>Sri Lanka</name>
-    <alpha-3>LKA</alpha-3>
-    <country-code>144</country-code>
-  </country>
-  <country>
-    <name>Sudan</name>
-    <alpha-3>SDN</alpha-3>
-    <country-code>736</country-code>
-  </country>
-  <country>
-    <name>Suriname</name>
-    <alpha-3>SUR</alpha-3>
-    <country-code>740</country-code>
-  </country>
-  <country>
-    <name>Svalbard and Jan Mayen</name>
-    <alpha-3>SJM</alpha-3>
-    <country-code>744</country-code>
-  </country>
-  <country>
-    <name>Swaziland</name>
-    <alpha-3>SWZ</alpha-3>
-    <country-code>748</country-code>
-  </country>
-  <country>
-    <name>Sweden</name>
-    <alpha-3>SWE</alpha-3>
-    <country-code>752</country-code>
-  </country>
-  <country>
-    <name>Switzerland</name>
-    <alpha-3>CHE</alpha-3>
-    <country-code>756</country-code>
-  </country>
-  <country>
-    <name>Syrian Arab Republic</name>
-    <alpha-3>SYR</alpha-3>
-    <country-code>760</country-code>
-  </country>
-  <country>
-    <name>Taiwan, Province of China</name>
-    <alpha-3>TWN</alpha-3>
-    <country-code>158</country-code>
-  </country>
-  <country>
-    <name>Tajikistan</name>
-    <alpha-3>TJK</alpha-3>
-    <country-code>762</country-code>
-  </country>
-  <country>
-    <name>Tanzania, United Republic of</name>
-    <alpha-3>TZA</alpha-3>
-    <country-code>834</country-code>
-  </country>
-  <country>
-    <name>Thailand</name>
-    <alpha-3>THA</alpha-3>
-    <country-code>764</country-code>
-  </country>
-  <country>
-    <name>Timor-Leste</name>
-    <alpha-3>TLS</alpha-3>
-    <country-code>626</country-code>
-  </country>
-  <country>
-    <name>Togo</name>
-    <alpha-3>TGO</alpha-3>
-    <country-code>768</country-code>
-  </country>
-  <country>
-    <name>Tokelau</name>
-    <alpha-3>TKL</alpha-3>
-    <country-code>772</country-code>
-  </country>
-  <country>
-    <name>Tonga</name>
-    <alpha-3>TON</alpha-3>
-    <country-code>776</country-code>
-  </country>
-  <country>
-    <name>Trinidad and Tobago</name>
-    <alpha-3>TTO</alpha-3>
-    <country-code>780</country-code>
-  </country>
-  <country>
-    <name>Tunisia</name>
-    <alpha-3>TUN</alpha-3>
-    <country-code>788</country-code>
-  </country>
-  <country>
-    <name>Turkey</name>
-    <alpha-3>TUR</alpha-3>
-    <country-code>792</country-code>
-  </country>
-  <country>
-    <name>Turkmenistan</name>
-    <alpha-3>TKM</alpha-3>
-    <country-code>795</country-code>
-  </country>
-  <country>
-    <name>Turks and Caicos Islands</name>
-    <alpha-3>TCA</alpha-3>
-    <country-code>796</country-code>
-  </country>
-  <country>
-    <name>Tuvalu</name>
-    <alpha-3>TUV</alpha-3>
-    <country-code>798</country-code>
-  </country>
-  <country>
-    <name>Uganda</name>
-    <alpha-3>UGA</alpha-3>
-    <country-code>800</country-code>
-  </country>
-  <country>
-    <name>Ukraine</name>
-    <alpha-3>UKR</alpha-3>
-    <country-code>804</country-code>
-  </country>
-  <country>
-    <name>United Arab Emirates</name>
-    <alpha-3>ARE</alpha-3>
-    <country-code>784</country-code>
-  </country>
-  <country>
-    <name>United Kingdom</name>
-    <alpha-3>GBR</alpha-3>
-    <country-code>826</country-code>
-  </country>
-  <country>
-    <name>United States</name>
-    <alpha-3>USA</alpha-3>
-    <country-code>840</country-code>
-  </country>
-  <country>
-    <name>United States Minor Outlying Islands</name>
-    <alpha-3>UMI</alpha-3>
-    <country-code>581</country-code>
-  </country>
-  <country>
-    <name>Uruguay</name>
-    <alpha-3>URY</alpha-3>
-    <country-code>858</country-code>
-  </country>
-  <country>
-    <name>Uzbekistan</name>
-    <alpha-3>UZB</alpha-3>
-    <country-code>860</country-code>
-  </country>
-  <country>
-    <name>Vanuatu</name>
-    <alpha-3>VUT</alpha-3>
-    <country-code>548</country-code>
-  </country>
-  <country>
-    <name>Venezuela, Bolivarian Republic of</name>
-    <alpha-3>VEN</alpha-3>
-    <country-code>862</country-code>
-  </country>
-  <country>
-    <name>Viet Nam</name>
-    <alpha-3>VNM</alpha-3>
-    <country-code>704</country-code>
-  </country>
-  <country>
-    <name>Virgin Islands, British</name>
-    <alpha-3>VGB</alpha-3>
-    <country-code>092</country-code>
-  </country>
-  <country>
-    <name>Virgin Islands, U.S.</name>
-    <alpha-3>VIR</alpha-3>
-    <country-code>850</country-code>
-  </country>
-  <country>
-    <name>Wallis and Futuna</name>
-    <alpha-3>WLF</alpha-3>
-    <country-code>876</country-code>
-  </country>
-  <country>
-    <name>Western Sahara</name>
-    <alpha-3>ESH</alpha-3>
-    <country-code>732</country-code>
-  </country>
-  <country>
-    <name>Yemen</name>
-    <alpha-3>YEM</alpha-3>
-    <country-code>887</country-code>
-  </country>
-  <country>
-    <name>Zambia</name>
-    <alpha-3>ZMB</alpha-3>
-    <country-code>894</country-code>
-  </country>
-  <country>
-    <name>Zimbabwe</name>
-    <alpha-3>ZWE</alpha-3>
-    <country-code>716</country-code>
-  </country>
+<countries>
+  <countries name="Afghanistan" alpha-3="AFG" country-code="004"/>
+  <countries name="Åland Islands" alpha-3="ALA" country-code="248"/>
+  <countries name="Albania" alpha-3="ALB" country-code="008"/>
+  <countries name="Algeria" alpha-3="DZA" country-code="012"/>
+  <countries name="American Samoa" alpha-3="ASM" country-code="016"/>
+  <countries name="Andorra" alpha-3="AND" country-code="020"/>
+  <countries name="Angola" alpha-3="AGO" country-code="024"/>
+  <countries name="Anguilla" alpha-3="AIA" country-code="660"/>
+  <countries name="Antarctica" alpha-3="ATA" country-code="010"/>
+  <countries name="Antigua and Barbuda" alpha-3="ATG" country-code="028"/>
+  <countries name="Argentina" alpha-3="ARG" country-code="032"/>
+  <countries name="Armenia" alpha-3="ARM" country-code="051"/>
+  <countries name="Aruba" alpha-3="ABW" country-code="533"/>
+  <countries name="Australia" alpha-3="AUS" country-code="036"/>
+  <countries name="Austria" alpha-3="AUT" country-code="040"/>
+  <countries name="Azerbaijan" alpha-3="AZE" country-code="031"/>
+  <countries name="Bahamas" alpha-3="BHS" country-code="044"/>
+  <countries name="Bahrain" alpha-3="BHR" country-code="048"/>
+  <countries name="Bangladesh" alpha-3="BGD" country-code="050"/>
+  <countries name="Barbados" alpha-3="BRB" country-code="052"/>
+  <countries name="Belarus" alpha-3="BLR" country-code="112"/>
+  <countries name="Belgium" alpha-3="BEL" country-code="056"/>
+  <countries name="Belize" alpha-3="BLZ" country-code="084"/>
+  <countries name="Benin" alpha-3="BEN" country-code="204"/>
+  <countries name="Bermuda" alpha-3="BMU" country-code="060"/>
+  <countries name="Bhutan" alpha-3="BTN" country-code="064"/>
+  <countries name="Bolivia, Plurinational State of" alpha-3="BOL" country-code="068"/>
+  <countries name="Bonaire, Sint Eustatius and Saba" alpha-3="BES" country-code="535"/>
+  <countries name="Bosnia and Herzegovina" alpha-3="BIH" country-code="070"/>
+  <countries name="Botswana" alpha-3="BWA" country-code="072"/>
+  <countries name="Bouvet Island" alpha-3="BVT" country-code="074"/>
+  <countries name="Brazil" alpha-3="BRA" country-code="076"/>
+  <countries name="British Indian Ocean Territory" alpha-3="IOT" country-code="086"/>
+  <countries name="Brunei Darussalam" alpha-3="BRN" country-code="096"/>
+  <countries name="Bulgaria" alpha-3="BGR" country-code="100"/>
+  <countries name="Burkina Faso" alpha-3="BFA" country-code="854"/>
+  <countries name="Burundi" alpha-3="BDI" country-code="108"/>
+  <countries name="Cambodia" alpha-3="KHM" country-code="116"/>
+  <countries name="Cameroon" alpha-3="CMR" country-code="120"/>
+  <countries name="Canada" alpha-3="CAN" country-code="124"/>
+  <countries name="Cape Verde" alpha-3="CPV" country-code="132"/>
+  <countries name="Cayman Islands" alpha-3="CYM" country-code="136"/>
+  <countries name="Central African Republic" alpha-3="CAF" country-code="140"/>
+  <countries name="Chad" alpha-3="TCD" country-code="148"/>
+  <countries name="Chile" alpha-3="CHL" country-code="152"/>
+  <countries name="China" alpha-3="CHN" country-code="156"/>
+  <countries name="Christmas Island" alpha-3="CXR" country-code="162"/>
+  <countries name="Cocos (Keeling) Islands" alpha-3="CCK" country-code="166"/>
+  <countries name="Colombia" alpha-3="COL" country-code="170"/>
+  <countries name="Comoros" alpha-3="COM" country-code="174"/>
+  <countries name="Congo" alpha-3="COG" country-code="178"/>
+  <countries name="Congo, the Democratic Republic of the" alpha-3="COD" country-code="180"/>
+  <countries name="Cook Islands" alpha-3="COK" country-code="184"/>
+  <countries name="Costa Rica" alpha-3="CRI" country-code="188"/>
+  <countries name="Côte d'Ivoire" alpha-3="CIV" country-code="384"/>
+  <countries name="Croatia" alpha-3="HRV" country-code="191"/>
+  <countries name="Cuba" alpha-3="CUB" country-code="192"/>
+  <countries name="Curaçao" alpha-3="CUW" country-code="531"/>
+  <countries name="Cyprus" alpha-3="CYP" country-code="196"/>
+  <countries name="Czech Republic" alpha-3="CZE" country-code="203"/>
+  <countries name="Denmark" alpha-3="DNK" country-code="208"/>
+  <countries name="Djibouti" alpha-3="DJI" country-code="262"/>
+  <countries name="Dominica" alpha-3="DMA" country-code="212"/>
+  <countries name="Dominican Republic" alpha-3="DOM" country-code="214"/>
+  <countries name="Ecuador" alpha-3="ECU" country-code="218"/>
+  <countries name="Egypt" alpha-3="EGY" country-code="818"/>
+  <countries name="El Salvador" alpha-3="SLV" country-code="222"/>
+  <countries name="Equatorial Guinea" alpha-3="GNQ" country-code="226"/>
+  <countries name="Eritrea" alpha-3="ERI" country-code="232"/>
+  <countries name="Estonia" alpha-3="EST" country-code="233"/>
+  <countries name="Ethiopia" alpha-3="ETH" country-code="231"/>
+  <countries name="Falkland Islands (Malvinas)" alpha-3="FLK" country-code="238"/>
+  <countries name="Faroe Islands" alpha-3="FRO" country-code="234"/>
+  <countries name="Fiji" alpha-3="FJI" country-code="242"/>
+  <countries name="Finland" alpha-3="FIN" country-code="246"/>
+  <countries name="France" alpha-3="FRA" country-code="250"/>
+  <countries name="French Guiana" alpha-3="GUF" country-code="254"/>
+  <countries name="French Polynesia" alpha-3="PYF" country-code="258"/>
+  <countries name="French Southern Territories" alpha-3="ATF" country-code="260"/>
+  <countries name="Gabon" alpha-3="GAB" country-code="266"/>
+  <countries name="Gambia" alpha-3="GMB" country-code="270"/>
+  <countries name="Georgia" alpha-3="GEO" country-code="268"/>
+  <countries name="Germany" alpha-3="DEU" country-code="276"/>
+  <countries name="Ghana" alpha-3="GHA" country-code="288"/>
+  <countries name="Gibraltar" alpha-3="GIB" country-code="292"/>
+  <countries name="Greece" alpha-3="GRC" country-code="300"/>
+  <countries name="Greenland" alpha-3="GRL" country-code="304"/>
+  <countries name="Grenada" alpha-3="GRD" country-code="308"/>
+  <countries name="Guadeloupe" alpha-3="GLP" country-code="312"/>
+  <countries name="Guam" alpha-3="GUM" country-code="316"/>
+  <countries name="Guatemala" alpha-3="GTM" country-code="320"/>
+  <countries name="Guernsey" alpha-3="GGY" country-code="831"/>
+  <countries name="Guinea" alpha-3="GIN" country-code="324"/>
+  <countries name="Guinea-Bissau" alpha-3="GNB" country-code="624"/>
+  <countries name="Guyana" alpha-3="GUY" country-code="328"/>
+  <countries name="Haiti" alpha-3="HTI" country-code="332"/>
+  <countries name="Heard Island and McDonald Islands" alpha-3="HMD" country-code="334"/>
+  <countries name="Holy See (Vatican City State)" alpha-3="VAT" country-code="336"/>
+  <countries name="Honduras" alpha-3="HND" country-code="340"/>
+  <countries name="Hong Kong" alpha-3="HKG" country-code="344"/>
+  <countries name="Hungary" alpha-3="HUN" country-code="348"/>
+  <countries name="Iceland" alpha-3="ISL" country-code="352"/>
+  <countries name="India" alpha-3="IND" country-code="356"/>
+  <countries name="Indonesia" alpha-3="IDN" country-code="360"/>
+  <countries name="Iran, Islamic Republic of" alpha-3="IRN" country-code="364"/>
+  <countries name="Iraq" alpha-3="IRQ" country-code="368"/>
+  <countries name="Ireland" alpha-3="IRL" country-code="372"/>
+  <countries name="Isle of Man" alpha-3="IMN" country-code="833"/>
+  <countries name="Israel" alpha-3="ISR" country-code="376"/>
+  <countries name="Italy" alpha-3="ITA" country-code="380"/>
+  <countries name="Jamaica" alpha-3="JAM" country-code="388"/>
+  <countries name="Japan" alpha-3="JPN" country-code="392"/>
+  <countries name="Jersey" alpha-3="JEY" country-code="832"/>
+  <countries name="Jordan" alpha-3="JOR" country-code="400"/>
+  <countries name="Kazakhstan" alpha-3="KAZ" country-code="398"/>
+  <countries name="Kenya" alpha-3="KEN" country-code="404"/>
+  <countries name="Kiribati" alpha-3="KIR" country-code="296"/>
+  <countries name="Korea, Democratic People's Republic of" alpha-3="PRK" country-code="408"/>
+  <countries name="Korea, Republic of" alpha-3="KOR" country-code="410"/>
+  <countries name="Kuwait" alpha-3="KWT" country-code="414"/>
+  <countries name="Kyrgyzstan" alpha-3="KGZ" country-code="417"/>
+  <countries name="Lao People's Democratic Republic" alpha-3="LAO" country-code="418"/>
+  <countries name="Latvia" alpha-3="LVA" country-code="428"/>
+  <countries name="Lebanon" alpha-3="LBN" country-code="422"/>
+  <countries name="Lesotho" alpha-3="LSO" country-code="426"/>
+  <countries name="Liberia" alpha-3="LBR" country-code="430"/>
+  <countries name="Libya" alpha-3="LBY" country-code="434"/>
+  <countries name="Liechtenstein" alpha-3="LIE" country-code="438"/>
+  <countries name="Lithuania" alpha-3="LTU" country-code="440"/>
+  <countries name="Luxembourg" alpha-3="LUX" country-code="442"/>
+  <countries name="Macao" alpha-3="MAC" country-code="446"/>
+  <countries name="Macedonia, the former Yugoslav Republic of" alpha-3="MKD" country-code="807"/>
+  <countries name="Madagascar" alpha-3="MDG" country-code="450"/>
+  <countries name="Malawi" alpha-3="MWI" country-code="454"/>
+  <countries name="Malaysia" alpha-3="MYS" country-code="458"/>
+  <countries name="Maldives" alpha-3="MDV" country-code="462"/>
+  <countries name="Mali" alpha-3="MLI" country-code="466"/>
+  <countries name="Malta" alpha-3="MLT" country-code="470"/>
+  <countries name="Marshall Islands" alpha-3="MHL" country-code="584"/>
+  <countries name="Martinique" alpha-3="MTQ" country-code="474"/>
+  <countries name="Mauritania" alpha-3="MRT" country-code="478"/>
+  <countries name="Mauritius" alpha-3="MUS" country-code="480"/>
+  <countries name="Mayotte" alpha-3="MYT" country-code="175"/>
+  <countries name="Mexico" alpha-3="MEX" country-code="484"/>
+  <countries name="Micronesia, Federated States of" alpha-3="FSM" country-code="583"/>
+  <countries name="Moldova, Republic of" alpha-3="MDA" country-code="498"/>
+  <countries name="Monaco" alpha-3="MCO" country-code="492"/>
+  <countries name="Mongolia" alpha-3="MNG" country-code="496"/>
+  <countries name="Montenegro" alpha-3="MNE" country-code="499"/>
+  <countries name="Montserrat" alpha-3="MSR" country-code="500"/>
+  <countries name="Morocco" alpha-3="MAR" country-code="504"/>
+  <countries name="Mozambique" alpha-3="MOZ" country-code="508"/>
+  <countries name="Myanmar" alpha-3="MMR" country-code="104"/>
+  <countries name="Namibia" alpha-3="NAM" country-code="516"/>
+  <countries name="Nauru" alpha-3="NRU" country-code="520"/>
+  <countries name="Nepal" alpha-3="NPL" country-code="524"/>
+  <countries name="Netherlands" alpha-3="NLD" country-code="528"/>
+  <countries name="New Caledonia" alpha-3="NCL" country-code="540"/>
+  <countries name="New Zealand" alpha-3="NZL" country-code="554"/>
+  <countries name="Nicaragua" alpha-3="NIC" country-code="558"/>
+  <countries name="Niger" alpha-3="NER" country-code="562"/>
+  <countries name="Nigeria" alpha-3="NGA" country-code="566"/>
+  <countries name="Niue" alpha-3="NIU" country-code="570"/>
+  <countries name="Norfolk Island" alpha-3="NFK" country-code="574"/>
+  <countries name="Northern Mariana Islands" alpha-3="MNP" country-code="580"/>
+  <countries name="Norway" alpha-3="NOR" country-code="578"/>
+  <countries name="Oman" alpha-3="OMN" country-code="512"/>
+  <countries name="Pakistan" alpha-3="PAK" country-code="586"/>
+  <countries name="Palau" alpha-3="PLW" country-code="585"/>
+  <countries name="Palestinian Territory, Occupied" alpha-3="PSE" country-code="275"/>
+  <countries name="Panama" alpha-3="PAN" country-code="591"/>
+  <countries name="Papua New Guinea" alpha-3="PNG" country-code="598"/>
+  <countries name="Paraguay" alpha-3="PRY" country-code="600"/>
+  <countries name="Peru" alpha-3="PER" country-code="604"/>
+  <countries name="Philippines" alpha-3="PHL" country-code="608"/>
+  <countries name="Pitcairn" alpha-3="PCN" country-code="612"/>
+  <countries name="Poland" alpha-3="POL" country-code="616"/>
+  <countries name="Portugal" alpha-3="PRT" country-code="620"/>
+  <countries name="Puerto Rico" alpha-3="PRI" country-code="630"/>
+  <countries name="Qatar" alpha-3="QAT" country-code="634"/>
+  <countries name="Réunion" alpha-3="REU" country-code="638"/>
+  <countries name="Romania" alpha-3="ROU" country-code="642"/>
+  <countries name="Russian Federation" alpha-3="RUS" country-code="643"/>
+  <countries name="Rwanda" alpha-3="RWA" country-code="646"/>
+  <countries name="Saint Barthélemy" alpha-3="BLM" country-code="652"/>
+  <countries name="Saint Helena, Ascension and Tristan da Cunha" alpha-3="SHN" country-code="654"/>
+  <countries name="Saint Kitts and Nevis" alpha-3="KNA" country-code="659"/>
+  <countries name="Saint Lucia" alpha-3="LCA" country-code="662"/>
+  <countries name="Saint Martin (French part)" alpha-3="MAF" country-code="663"/>
+  <countries name="Saint Pierre and Miquelon" alpha-3="SPM" country-code="666"/>
+  <countries name="Saint Vincent and the Grenadines" alpha-3="VCT" country-code="670"/>
+  <countries name="Samoa" alpha-3="WSM" country-code="882"/>
+  <countries name="San Marino" alpha-3="SMR" country-code="674"/>
+  <countries name="Sao Tome and Principe" alpha-3="STP" country-code="678"/>
+  <countries name="Saudi Arabia" alpha-3="SAU" country-code="682"/>
+  <countries name="Senegal" alpha-3="SEN" country-code="686"/>
+  <countries name="Serbia" alpha-3="SRB" country-code="688"/>
+  <countries name="Seychelles" alpha-3="SYC" country-code="690"/>
+  <countries name="Sierra Leone" alpha-3="SLE" country-code="694"/>
+  <countries name="Singapore" alpha-3="SGP" country-code="702"/>
+  <countries name="Sint Maarten (Dutch part)" alpha-3="SXM" country-code="534"/>
+  <countries name="Slovakia" alpha-3="SVK" country-code="703"/>
+  <countries name="Slovenia" alpha-3="SVN" country-code="705"/>
+  <countries name="Solomon Islands" alpha-3="SLB" country-code="090"/>
+  <countries name="Somalia" alpha-3="SOM" country-code="706"/>
+  <countries name="South Africa" alpha-3="ZAF" country-code="710"/>
+  <countries name="South Georgia and the South Sandwich Islands" alpha-3="SGS" country-code="239"/>
+  <countries name="South Sudan" alpha-3="SSD" country-code="728"/>
+  <countries name="Spain" alpha-3="ESP" country-code="724"/>
+  <countries name="Sri Lanka" alpha-3="LKA" country-code="144"/>
+  <countries name="Sudan" alpha-3="SDN" country-code="729"/>
+  <countries name="Suriname" alpha-3="SUR" country-code="740"/>
+  <countries name="Svalbard and Jan Mayen" alpha-3="SJM" country-code="744"/>
+  <countries name="Swaziland" alpha-3="SWZ" country-code="748"/>
+  <countries name="Sweden" alpha-3="SWE" country-code="752"/>
+  <countries name="Switzerland" alpha-3="CHE" country-code="756"/>
+  <countries name="Syrian Arab Republic" alpha-3="SYR" country-code="760"/>
+  <countries name="Taiwan, Province of China" alpha-3="TWN" country-code="158"/>
+  <countries name="Tajikistan" alpha-3="TJK" country-code="762"/>
+  <countries name="Tanzania, United Republic of" alpha-3="TZA" country-code="834"/>
+  <countries name="Thailand" alpha-3="THA" country-code="764"/>
+  <countries name="Timor-Leste" alpha-3="TLS" country-code="626"/>
+  <countries name="Togo" alpha-3="TGO" country-code="768"/>
+  <countries name="Tokelau" alpha-3="TKL" country-code="772"/>
+  <countries name="Tonga" alpha-3="TON" country-code="776"/>
+  <countries name="Trinidad and Tobago" alpha-3="TTO" country-code="780"/>
+  <countries name="Tunisia" alpha-3="TUN" country-code="788"/>
+  <countries name="Turkey" alpha-3="TUR" country-code="792"/>
+  <countries name="Turkmenistan" alpha-3="TKM" country-code="795"/>
+  <countries name="Turks and Caicos Islands" alpha-3="TCA" country-code="796"/>
+  <countries name="Tuvalu" alpha-3="TUV" country-code="798"/>
+  <countries name="Uganda" alpha-3="UGA" country-code="800"/>
+  <countries name="Ukraine" alpha-3="UKR" country-code="804"/>
+  <countries name="United Arab Emirates" alpha-3="ARE" country-code="784"/>
+  <countries name="United Kingdom" alpha-3="GBR" country-code="826"/>
+  <countries name="United States" alpha-3="USA" country-code="840"/>
+  <countries name="United States Minor Outlying Islands" alpha-3="UMI" country-code="581"/>
+  <countries name="Uruguay" alpha-3="URY" country-code="858"/>
+  <countries name="Uzbekistan" alpha-3="UZB" country-code="860"/>
+  <countries name="Vanuatu" alpha-3="VUT" country-code="548"/>
+  <countries name="Venezuela, Bolivarian Republic of" alpha-3="VEN" country-code="862"/>
+  <countries name="Viet Nam" alpha-3="VNM" country-code="704"/>
+  <countries name="Virgin Islands, British" alpha-3="VGB" country-code="092"/>
+  <countries name="Virgin Islands, U.S." alpha-3="VIR" country-code="850"/>
+  <countries name="Wallis and Futuna" alpha-3="WLF" country-code="876"/>
+  <countries name="Western Sahara" alpha-3="ESH" country-code="732"/>
+  <countries name="Yemen" alpha-3="YEM" country-code="887"/>
+  <countries name="Zambia" alpha-3="ZMB" country-code="894"/>
+  <countries name="Zimbabwe" alpha-3="ZWE" country-code="716"/>
 </countries>

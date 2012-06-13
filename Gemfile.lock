@@ -1,0 +1,20 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    hpricot (0.8.6)
+    htmlentities (4.3.1)
+    json (1.7.3)
+    nokogiri (1.5.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  active_support (= 3.0.0)
+  hpricot (= 0.8.6)
+  htmlentities
+  json (= 1.7.3)
+  nokogiri (= 1.5.4)

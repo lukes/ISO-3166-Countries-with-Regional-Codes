@@ -26,7 +26,7 @@ Benin,BJ,204
 Bermuda,BM,060
 Bhutan,BT,064
 Bolivia\, Plurinational State of,BO,068
-Bonaire\, Saint Eustatius and Saba,BQ,535
+Bonaire\, Sint Eustatius and Saba,BQ,535
 Bosnia and Herzegovina,BA,070
 Botswana,BW,072
 Bouvet Island,BV,074
@@ -125,7 +125,7 @@ Latvia,LV,428
 Lebanon,LB,422
 Lesotho,LS,426
 Liberia,LR,430
-Libyan Arab Jamahiriya,LY,434
+Libya,LY,434
 Liechtenstein,LI,438
 Lithuania,LT,440
 Luxembourg,LU,442
@@ -206,9 +206,10 @@ Solomon Islands,SB,090
 Somalia,SO,706
 South Africa,ZA,710
 South Georgia and the South Sandwich Islands,GS,239
+South Sudan,SS,728
 Spain,ES,724
 Sri Lanka,LK,144
-Sudan,SD,736
+Sudan,SD,729
 Suriname,SR,740
 Svalbard and Jan Mayen,SJ,744
 Swaziland,SZ,748
