@@ -70,3 +70,8 @@ Using JSON as an example:
 
 * UN Statistical data retrieved 18 May 2011, from a document last revised 26 April 2011
 * Wikipedia data retrieved 18 May 2011, from a document last revised 8 April 2011
+
+### Revisions
+
+* 13 June 2012 - `tag 2.0`
+* 18 May 2011 - `tag 1.0`
