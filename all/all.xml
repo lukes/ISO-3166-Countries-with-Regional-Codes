@@ -186,7 +186,7 @@
   <countries name="Rwanda" alpha-2="RW" alpha-3="RWA" country-code="646" iso_3166-2="ISO 3166-2:RW" region-code="002" sub-region-code="014"/>
   <countries name="Saint Barthélemy" alpha-2="BL" alpha-3="BLM" country-code="652" iso_3166-2="ISO 3166-2:BL" region-code="019" sub-region-code="029"/>
   <countries name="Saint Helena, Ascension and Tristan da Cunha" alpha-2="SH" alpha-3="SHN" country-code="654" iso_3166-2="ISO 3166-2:SH" region-code="002" sub-region-code="011"/>
-  <countries name="Saint Kitts and Nevis" alpha-2="KN" alpha-3="KNA" country-code="659" iso_3166-2="ISO 3166-2:KN" region-code="419" sub-region-code="659"/>
+  <countries name="Saint Kitts and Nevis" alpha-2="KN" alpha-3="KNA" country-code="659" iso_3166-2="ISO 3166-2:KN" region-code="019" sub-region-code="029"/>
   <countries name="Saint Lucia" alpha-2="LC" alpha-3="LCA" country-code="662" iso_3166-2="ISO 3166-2:LC" region-code="019" sub-region-code="029"/>
   <countries name="Saint Martin (French part)" alpha-2="MF" alpha-3="MAF" country-code="663" iso_3166-2="ISO 3166-2:MF" region-code="019" sub-region-code="029"/>
   <countries name="Saint Pierre and Miquelon" alpha-2="PM" alpha-3="SPM" country-code="666" iso_3166-2="ISO 3166-2:PM" region-code="019" sub-region-code="021"/>
@@ -196,7 +196,7 @@
   <countries name="Sao Tome and Principe" alpha-2="ST" alpha-3="STP" country-code="678" iso_3166-2="ISO 3166-2:ST" region-code="002" sub-region-code="017"/>
   <countries name="Saudi Arabia" alpha-2="SA" alpha-3="SAU" country-code="682" iso_3166-2="ISO 3166-2:SA" region-code="142" sub-region-code="145"/>
   <countries name="Senegal" alpha-2="SN" alpha-3="SEN" country-code="686" iso_3166-2="ISO 3166-2:SN" region-code="002" sub-region-code="011"/>
-  <countries name="Serbia" alpha-2="RS" alpha-3="SRB" country-code="688" iso_3166-2="ISO 3166-2:RS" region-code="039" sub-region-code="688"/>
+  <countries name="Serbia" alpha-2="RS" alpha-3="SRB" country-code="688" iso_3166-2="ISO 3166-2:RS" region-code="150" sub-region-code="039"/>
   <countries name="Seychelles" alpha-2="SC" alpha-3="SYC" country-code="690" iso_3166-2="ISO 3166-2:SC" region-code="002" sub-region-code="014"/>
   <countries name="Sierra Leone" alpha-2="SL" alpha-3="SLE" country-code="694" iso_3166-2="ISO 3166-2:SL" region-code="002" sub-region-code="011"/>
   <countries name="Singapore" alpha-2="SG" alpha-3="SGP" country-code="702" iso_3166-2="ISO 3166-2:SG" region-code="142" sub-region-code="035"/>
