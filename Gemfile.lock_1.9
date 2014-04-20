@@ -1,22 +1,32 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
-    active_support (3.0.0)
-      activesupport (= 3.0.0)
-    activesupport (3.0.0)
+    activesupport (4.1.0)
+      i18n (~> 0.6, >= 0.6.9)
+      json (~> 1.7, >= 1.7.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.1)
+      tzinfo (~> 1.1)
+    builder (3.2.2)
     hpricot (0.8.6)
     htmlentities (4.3.1)
-    json (1.7.3)
-    nokogiri (1.5.4)
-    nokogiri (1.5.4-x86-mingw32)
+    i18n (0.6.9)
+    json (1.8.1)
+    mini_portile (0.5.3)
+    minitest (5.3.3)
+    nokogiri (1.6.1)
+      mini_portile (~> 0.5.0)
+    thread_safe (0.3.3)
+    tzinfo (1.1.0)
+      thread_safe (~> 0.1)
 
 PLATFORMS
   ruby
-  x86-mingw32
 
 DEPENDENCIES
-  active_support (= 3.0.0)
-  hpricot (= 0.8.6)
-  htmlentities (= 4.3.1)
-  json (= 1.7.3)
-  nokogiri (= 1.5.4)
+  activesupport
+  builder
+  hpricot
+  htmlentities
+  json
+  nokogiri
