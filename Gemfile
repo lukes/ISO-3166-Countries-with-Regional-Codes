@@ -1,7 +1,8 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 gem 'hpricot'
 gem 'nokogiri'
-gem 'active_support'
+gem 'activesupport'
+gem 'builder'
 gem 'json'
 gem 'htmlentities'
