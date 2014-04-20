@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
   <country name="Afghanistan" alpha-2="AF" alpha-3="AFG" country-code="004" iso_3166-2="ISO 3166-2:AF" region-code="142" sub-region-code="034"/>
-  <country name="Åland Islands" alpha-2="AX" alpha-3="ALA" country-code="248" iso_3166-2="ISO 3166-2:AX"/>
+  <country name="Åland Islands" alpha-2="AX" alpha-3="ALA" country-code="248" iso_3166-2="ISO 3166-2:AX" region-code="150" sub-region-code="154"/>
   <country name="Albania" alpha-2="AL" alpha-3="ALB" country-code="008" iso_3166-2="ISO 3166-2:AL" region-code="150" sub-region-code="039"/>
   <country name="Algeria" alpha-2="DZ" alpha-3="DZA" country-code="012" iso_3166-2="ISO 3166-2:DZ" region-code="002" sub-region-code="015"/>
   <country name="American Samoa" alpha-2="AS" alpha-3="ASM" country-code="016" iso_3166-2="ISO 3166-2:AS" region-code="009" sub-region-code="061"/>
@@ -186,7 +186,7 @@
   <country name="Rwanda" alpha-2="RW" alpha-3="RWA" country-code="646" iso_3166-2="ISO 3166-2:RW" region-code="002" sub-region-code="014"/>
   <country name="Saint Barthélemy" alpha-2="BL" alpha-3="BLM" country-code="652" iso_3166-2="ISO 3166-2:BL" region-code="019" sub-region-code="029"/>
   <country name="Saint Helena, Ascension and Tristan da Cunha" alpha-2="SH" alpha-3="SHN" country-code="654" iso_3166-2="ISO 3166-2:SH" region-code="002" sub-region-code="011"/>
-  <country name="Saint Kitts and Nevis" alpha-2="KN" alpha-3="KNA" country-code="659" iso_3166-2="ISO 3166-2:KN"/>
+  <country name="Saint Kitts and Nevis" alpha-2="KN" alpha-3="KNA" country-code="659" iso_3166-2="ISO 3166-2:KN" region-code="019" sub-region-code="029"/>
   <country name="Saint Lucia" alpha-2="LC" alpha-3="LCA" country-code="662" iso_3166-2="ISO 3166-2:LC" region-code="019" sub-region-code="029"/>
   <country name="Saint Martin (French part)" alpha-2="MF" alpha-3="MAF" country-code="663" iso_3166-2="ISO 3166-2:MF" region-code="019" sub-region-code="029"/>
   <country name="Saint Pierre and Miquelon" alpha-2="PM" alpha-3="SPM" country-code="666" iso_3166-2="ISO 3166-2:PM" region-code="019" sub-region-code="021"/>
@@ -196,7 +196,7 @@
   <country name="Sao Tome and Principe" alpha-2="ST" alpha-3="STP" country-code="678" iso_3166-2="ISO 3166-2:ST" region-code="002" sub-region-code="017"/>
   <country name="Saudi Arabia" alpha-2="SA" alpha-3="SAU" country-code="682" iso_3166-2="ISO 3166-2:SA" region-code="142" sub-region-code="145"/>
   <country name="Senegal" alpha-2="SN" alpha-3="SEN" country-code="686" iso_3166-2="ISO 3166-2:SN" region-code="002" sub-region-code="011"/>
-  <country name="Serbia" alpha-2="RS" alpha-3="SRB" country-code="688" iso_3166-2="ISO 3166-2:RS"/>
+  <country name="Serbia" alpha-2="RS" alpha-3="SRB" country-code="688" iso_3166-2="ISO 3166-2:RS" region-code="150" sub-region-code="039"/>
   <country name="Seychelles" alpha-2="SC" alpha-3="SYC" country-code="690" iso_3166-2="ISO 3166-2:SC" region-code="002" sub-region-code="014"/>
   <country name="Sierra Leone" alpha-2="SL" alpha-3="SLE" country-code="694" iso_3166-2="ISO 3166-2:SL" region-code="002" sub-region-code="011"/>
   <country name="Singapore" alpha-2="SG" alpha-3="SGP" country-code="702" iso_3166-2="ISO 3166-2:SG" region-code="142" sub-region-code="035"/>
@@ -217,7 +217,7 @@
   <country name="Sweden" alpha-2="SE" alpha-3="SWE" country-code="752" iso_3166-2="ISO 3166-2:SE" region-code="150" sub-region-code="154"/>
   <country name="Switzerland" alpha-2="CH" alpha-3="CHE" country-code="756" iso_3166-2="ISO 3166-2:CH" region-code="150" sub-region-code="155"/>
   <country name="Syrian Arab Republic" alpha-2="SY" alpha-3="SYR" country-code="760" iso_3166-2="ISO 3166-2:SY" region-code="142" sub-region-code="145"/>
-  <country name="Taiwan, Province of China" alpha-2="TW" alpha-3="TWN" country-code="158" iso_3166-2="ISO 3166-2:TW"/>
+  <country name="Taiwan, Province of China" alpha-2="TW" alpha-3="TWN" country-code="158" iso_3166-2="ISO 3166-2:TW" region-code="142" sub-region-code="030"/>
   <country name="Tajikistan" alpha-2="TJ" alpha-3="TJK" country-code="762" iso_3166-2="ISO 3166-2:TJ" region-code="142" sub-region-code="143"/>
   <country name="Tanzania, United Republic of" alpha-2="TZ" alpha-3="TZA" country-code="834" iso_3166-2="ISO 3166-2:TZ" region-code="002" sub-region-code="014"/>
   <country name="Thailand" alpha-2="TH" alpha-3="THA" country-code="764" iso_3166-2="ISO 3166-2:TH" region-code="142" sub-region-code="035"/>
