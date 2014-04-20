@@ -73,11 +73,8 @@ Using JSON as an example:
 To install the gems in the Gemfile:
 
     bundle install
-    
-If you do not have Ruby installed you'll have to install that and then if you don't have Bundler installed you'll have to install that:
-    gem install bundler
-    
-If you want to use a tested setup rename one of the Gemsfile.lock_xx to Gemsfile.lock (just choose the best one for your Ruby version) before running `bundle install`
+
+If you want to use a tested setup rename one of the Gemfile.lock_* files to Gemfile.lock (just choose the best one for your Ruby version) before running `bundle install`
 
 To run:
 
@@ -87,10 +84,11 @@ Note, due to file encoding issues the script should only be run using Ruby 1.9 o
 
 ### Timestamp
 
-* UN Statistical data retrieved 13 June 2012, from a document last revised 20 September 2011
-* Wikipedia data retrieved 13 June 2012, from a document last revised 10 May 2012
+* UN Statistical data retrieved 20 April 2014, from a document last revised 31 October 2013
+* Wikipedia data retrieved 20 April 2014, from a document last revised 14 April 2014
 
 ### Revisions
 
+* 20 April 2014 - `tag 3.0`
 * 13 June 2012 - `tag 2.0`
 * 18 May 2011 - `tag 1.0`

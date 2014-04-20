@@ -1,6 +1,6 @@
 name,alpha-2,alpha-3,country-code,iso_3166-2,region-code,sub-region-code
 Afghanistan,AF,AFG,004,ISO 3166-2:AF,142,034
-Åland Islands,AX,ALA,248,ISO 3166-2:AX
+Åland Islands,AX,ALA,248,ISO 3166-2:AX,150,154
 Albania,AL,ALB,008,ISO 3166-2:AL,150,039
 Algeria,DZ,DZA,012,ISO 3166-2:DZ,002,015
 American Samoa,AS,ASM,016,ISO 3166-2:AS,009,061
@@ -185,7 +185,7 @@ Russian Federation,RU,RUS,643,ISO 3166-2:RU,150,151
 Rwanda,RW,RWA,646,ISO 3166-2:RW,002,014
 Saint Barthélemy,BL,BLM,652,ISO 3166-2:BL,019,029
 Saint Helena\, Ascension and Tristan da Cunha,SH,SHN,654,ISO 3166-2:SH,002,011
-Saint Kitts and Nevis,KN,KNA,659,ISO 3166-2:KN
+Saint Kitts and Nevis,KN,KNA,659,ISO 3166-2:KN,019,029
 Saint Lucia,LC,LCA,662,ISO 3166-2:LC,019,029
 Saint Martin (French part),MF,MAF,663,ISO 3166-2:MF,019,029
 Saint Pierre and Miquelon,PM,SPM,666,ISO 3166-2:PM,019,021
@@ -195,7 +195,7 @@ San Marino,SM,SMR,674,ISO 3166-2:SM,150,039
 Sao Tome and Principe,ST,STP,678,ISO 3166-2:ST,002,017
 Saudi Arabia,SA,SAU,682,ISO 3166-2:SA,142,145
 Senegal,SN,SEN,686,ISO 3166-2:SN,002,011
-Serbia,RS,SRB,688,ISO 3166-2:RS
+Serbia,RS,SRB,688,ISO 3166-2:RS,150,039
 Seychelles,SC,SYC,690,ISO 3166-2:SC,002,014
 Sierra Leone,SL,SLE,694,ISO 3166-2:SL,002,011
 Singapore,SG,SGP,702,ISO 3166-2:SG,142,035
@@ -216,7 +216,7 @@ Swaziland,SZ,SWZ,748,ISO 3166-2:SZ,002,018
 Sweden,SE,SWE,752,ISO 3166-2:SE,150,154
 Switzerland,CH,CHE,756,ISO 3166-2:CH,150,155
 Syrian Arab Republic,SY,SYR,760,ISO 3166-2:SY,142,145
-Taiwan\, Province of China,TW,TWN,158,ISO 3166-2:TW
+Taiwan\, Province of China,TW,TWN,158,ISO 3166-2:TW,142,030
 Tajikistan,TJ,TJK,762,ISO 3166-2:TJ,142,143
 Tanzania\, United Republic of,TZ,TZA,834,ISO 3166-2:TZ,002,014
 Thailand,TH,THA,764,ISO 3166-2:TH,142,035
