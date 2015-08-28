@@ -4,15 +4,18 @@ require 'rubygems'
 require 'hpricot'
 require 'nokogiri'
 require 'open-uri'
-require 'json' # converting array to json
+require 'openssl'
+require 'json'
 require 'active_support/core_ext/object/blank'
 require 'active_support/core_ext/object/try'
 require 'active_support/core_ext/array/conversions' #converting json to xml
 require 'htmlentities'
 
+OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
+
 entities = HTMLEntities.new
 
-wikipedia_page = "http://en.wikipedia.org/wiki/ISO_3166-1"
+wikipedia_page = "https://en.wikipedia.org/wiki/ISO_3166-1"
 un_page = "http://unstats.un.org/unsd/methods/m49/m49regin.htm"
 
 puts "Fetching data from Wikipedia table #{wikipedia_page}..."
