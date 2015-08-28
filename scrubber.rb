@@ -132,6 +132,12 @@ doc.css("table[width='100%']")[2].css("tr").each do |row|
 
 end
 
+# For ISO data from the Wikipedia page that we couldn't correlate with
+# regional codes from the UN, give them blank data.
+codes.select{ |c| c["region-code"].nil? }.map do |c|
+  c["region"] = c["sub-region"] = c["region-code"] = c["sub-region-code"] = nil
+end
+
 puts "Writing files..."
 
 def json_to_csv(json)
