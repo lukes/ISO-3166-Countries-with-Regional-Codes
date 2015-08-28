@@ -11,7 +11,6 @@ require 'active_support/core_ext/object/blank'
 require 'active_support/core_ext/object/try'
 require 'active_support/core_ext/array/conversions' #converting json to xml
 require 'htmlentities'
-require 'pry'
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
@@ -82,7 +81,7 @@ doc.css("table[width='100%']")[2].css("tr").each do |row|
   code = tds[0].css("p span").inner_html.strip if code.blank?
   code = tds[0].inner_html.strip if code.blank? # certain codes aren't wrapped in a <p>
   next unless code.match(/^\d+\Z/)
-  
+
   # detemine what kind of row this is
   # is this a region row?
   region = tds[1].css("h3 b")
