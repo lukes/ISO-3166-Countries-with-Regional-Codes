@@ -74,8 +74,6 @@ To install the gems in the Gemfile:
 
     bundle install
 
-If you want to use a tested setup rename one of the Gemfile.lock_* files to Gemfile.lock (just choose the best one for your Ruby version) before running `bundle install`
-
 To run:
 
     ruby scrubber.rb
