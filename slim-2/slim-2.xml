@@ -26,7 +26,7 @@
   <country name="Benin" alpha-2="BJ" country-code="204"/>
   <country name="Bermuda" alpha-2="BM" country-code="060"/>
   <country name="Bhutan" alpha-2="BT" country-code="064"/>
-  <country name="Bolivia, Plurinational State of" alpha-2="BO" country-code="068"/>
+  <country name="Bolivia (Plurinational State of)" alpha-2="BO" country-code="068"/>
   <country name="Bonaire, Sint Eustatius and Saba" alpha-2="BQ" country-code="535"/>
   <country name="Bosnia and Herzegovina" alpha-2="BA" country-code="070"/>
   <country name="Botswana" alpha-2="BW" country-code="072"/>
@@ -40,7 +40,7 @@
   <country name="Cambodia" alpha-2="KH" country-code="116"/>
   <country name="Cameroon" alpha-2="CM" country-code="120"/>
   <country name="Canada" alpha-2="CA" country-code="124"/>
-  <country name="Cape Verde" alpha-2="CV" country-code="132"/>
+  <country name="Cabo Verde" alpha-2="CV" country-code="132"/>
   <country name="Cayman Islands" alpha-2="KY" country-code="136"/>
   <country name="Central African Republic" alpha-2="CF" country-code="140"/>
   <country name="Chad" alpha-2="TD" country-code="148"/>
@@ -51,7 +51,7 @@
   <country name="Colombia" alpha-2="CO" country-code="170"/>
   <country name="Comoros" alpha-2="KM" country-code="174"/>
   <country name="Congo" alpha-2="CG" country-code="178"/>
-  <country name="Congo, the Democratic Republic of the" alpha-2="CD" country-code="180"/>
+  <country name="Congo (Democratic Republic of the)" alpha-2="CD" country-code="180"/>
   <country name="Cook Islands" alpha-2="CK" country-code="184"/>
   <country name="Costa Rica" alpha-2="CR" country-code="188"/>
   <country name="Côte d'Ivoire" alpha-2="CI" country-code="384"/>
@@ -97,14 +97,14 @@
   <country name="Guyana" alpha-2="GY" country-code="328"/>
   <country name="Haiti" alpha-2="HT" country-code="332"/>
   <country name="Heard Island and McDonald Islands" alpha-2="HM" country-code="334"/>
-  <country name="Holy See (Vatican City State)" alpha-2="VA" country-code="336"/>
+  <country name="Holy See" alpha-2="VA" country-code="336"/>
   <country name="Honduras" alpha-2="HN" country-code="340"/>
   <country name="Hong Kong" alpha-2="HK" country-code="344"/>
   <country name="Hungary" alpha-2="HU" country-code="348"/>
   <country name="Iceland" alpha-2="IS" country-code="352"/>
   <country name="India" alpha-2="IN" country-code="356"/>
   <country name="Indonesia" alpha-2="ID" country-code="360"/>
-  <country name="Iran, Islamic Republic of" alpha-2="IR" country-code="364"/>
+  <country name="Iran (Islamic Republic of)" alpha-2="IR" country-code="364"/>
   <country name="Iraq" alpha-2="IQ" country-code="368"/>
   <country name="Ireland" alpha-2="IE" country-code="372"/>
   <country name="Isle of Man" alpha-2="IM" country-code="833"/>
@@ -117,8 +117,8 @@
   <country name="Kazakhstan" alpha-2="KZ" country-code="398"/>
   <country name="Kenya" alpha-2="KE" country-code="404"/>
   <country name="Kiribati" alpha-2="KI" country-code="296"/>
-  <country name="Korea, Democratic People's Republic of" alpha-2="KP" country-code="408"/>
-  <country name="Korea, Republic of" alpha-2="KR" country-code="410"/>
+  <country name="Korea (Democratic People's Republic of)" alpha-2="KP" country-code="408"/>
+  <country name="Korea (Republic of)" alpha-2="KR" country-code="410"/>
   <country name="Kuwait" alpha-2="KW" country-code="414"/>
   <country name="Kyrgyzstan" alpha-2="KG" country-code="417"/>
   <country name="Lao People's Democratic Republic" alpha-2="LA" country-code="418"/>
@@ -131,7 +131,7 @@
   <country name="Lithuania" alpha-2="LT" country-code="440"/>
   <country name="Luxembourg" alpha-2="LU" country-code="442"/>
   <country name="Macao" alpha-2="MO" country-code="446"/>
-  <country name="Macedonia, the former Yugoslav Republic of" alpha-2="MK" country-code="807"/>
+  <country name="Macedonia (the former Yugoslav Republic of)" alpha-2="MK" country-code="807"/>
   <country name="Madagascar" alpha-2="MG" country-code="450"/>
   <country name="Malawi" alpha-2="MW" country-code="454"/>
   <country name="Malaysia" alpha-2="MY" country-code="458"/>
@@ -144,8 +144,8 @@
   <country name="Mauritius" alpha-2="MU" country-code="480"/>
   <country name="Mayotte" alpha-2="YT" country-code="175"/>
   <country name="Mexico" alpha-2="MX" country-code="484"/>
-  <country name="Micronesia, Federated States of" alpha-2="FM" country-code="583"/>
-  <country name="Moldova, Republic of" alpha-2="MD" country-code="498"/>
+  <country name="Micronesia (Federated States of)" alpha-2="FM" country-code="583"/>
+  <country name="Moldova (Republic of)" alpha-2="MD" country-code="498"/>
   <country name="Monaco" alpha-2="MC" country-code="492"/>
   <country name="Mongolia" alpha-2="MN" country-code="496"/>
   <country name="Montenegro" alpha-2="ME" country-code="499"/>
@@ -234,16 +234,16 @@
   <country name="Uganda" alpha-2="UG" country-code="800"/>
   <country name="Ukraine" alpha-2="UA" country-code="804"/>
   <country name="United Arab Emirates" alpha-2="AE" country-code="784"/>
-  <country name="United Kingdom" alpha-2="GB" country-code="826"/>
-  <country name="United States" alpha-2="US" country-code="840"/>
+  <country name="United Kingdom of Great Britain and Northern Ireland" alpha-2="GB" country-code="826"/>
+  <country name="United States of America" alpha-2="US" country-code="840"/>
   <country name="United States Minor Outlying Islands" alpha-2="UM" country-code="581"/>
   <country name="Uruguay" alpha-2="UY" country-code="858"/>
   <country name="Uzbekistan" alpha-2="UZ" country-code="860"/>
   <country name="Vanuatu" alpha-2="VU" country-code="548"/>
-  <country name="Venezuela, Bolivarian Republic of" alpha-2="VE" country-code="862"/>
+  <country name="Venezuela (Bolivarian Republic of)" alpha-2="VE" country-code="862"/>
   <country name="Viet Nam" alpha-2="VN" country-code="704"/>
-  <country name="Virgin Islands, British" alpha-2="VG" country-code="092"/>
-  <country name="Virgin Islands, U.S." alpha-2="VI" country-code="850"/>
+  <country name="Virgin Islands (British)" alpha-2="VG" country-code="092"/>
+  <country name="Virgin Islands (U.S.)" alpha-2="VI" country-code="850"/>
   <country name="Wallis and Futuna" alpha-2="WF" country-code="876"/>
   <country name="Western Sahara" alpha-2="EH" country-code="732"/>
   <country name="Yemen" alpha-2="YE" country-code="887"/>

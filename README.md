@@ -1,3 +1,4 @@
+
 ### ISO-3166 Country and Dependent Territories Lists with UN Regional Codes
 
 These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes. In addition to countries, it includes dependent territories.
@@ -84,11 +85,12 @@ Note, due to file encoding issues the script should only be run using Ruby 1.9 o
 
 ### Timestamp
 
-* UN Statistical data retrieved 20 April 2014, from a document last revised 31 October 2013
-* Wikipedia data retrieved 20 April 2014, from a document last revised 14 April 2014
+* UN Statistical data retrieved 28 August 2015, from a document last revised 31 October 2013
+* Wikipedia data retrieved 28 August 2015, from a document last revised 10 August 2015
 
 ### Revisions
 
+* 28 August 2015 - `tag 4.0`
 * 20 April 2014 - `tag 3.0`
 * 13 June 2012 - `tag 2.0`
 * 18 May 2011 - `tag 1.0`

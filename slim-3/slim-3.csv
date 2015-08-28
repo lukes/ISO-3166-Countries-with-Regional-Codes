@@ -25,8 +25,8 @@ Belize,BLZ,084
 Benin,BEN,204
 Bermuda,BMU,060
 Bhutan,BTN,064
-Bolivia\, Plurinational State of,BOL,068
-Bonaire\, Sint Eustatius and Saba,BES,535
+Bolivia (Plurinational State of),BOL,068
+"Bonaire, Sint Eustatius and Saba",BES,535
 Bosnia and Herzegovina,BIH,070
 Botswana,BWA,072
 Bouvet Island,BVT,074
@@ -39,7 +39,7 @@ Burundi,BDI,108
 Cambodia,KHM,116
 Cameroon,CMR,120
 Canada,CAN,124
-Cape Verde,CPV,132
+Cabo Verde,CPV,132
 Cayman Islands,CYM,136
 Central African Republic,CAF,140
 Chad,TCD,148
@@ -50,7 +50,7 @@ Cocos (Keeling) Islands,CCK,166
 Colombia,COL,170
 Comoros,COM,174
 Congo,COG,178
-Congo\, the Democratic Republic of the,COD,180
+Congo (Democratic Republic of the),COD,180
 Cook Islands,COK,184
 Costa Rica,CRI,188
 Côte d'Ivoire,CIV,384
@@ -96,14 +96,14 @@ Guinea-Bissau,GNB,624
 Guyana,GUY,328
 Haiti,HTI,332
 Heard Island and McDonald Islands,HMD,334
-Holy See (Vatican City State),VAT,336
+Holy See,VAT,336
 Honduras,HND,340
 Hong Kong,HKG,344
 Hungary,HUN,348
 Iceland,ISL,352
 India,IND,356
 Indonesia,IDN,360
-Iran\, Islamic Republic of,IRN,364
+Iran (Islamic Republic of),IRN,364
 Iraq,IRQ,368
 Ireland,IRL,372
 Isle of Man,IMN,833
@@ -116,8 +116,8 @@ Jordan,JOR,400
 Kazakhstan,KAZ,398
 Kenya,KEN,404
 Kiribati,KIR,296
-Korea\, Democratic People's Republic of,PRK,408
-Korea\, Republic of,KOR,410
+Korea (Democratic People's Republic of),PRK,408
+Korea (Republic of),KOR,410
 Kuwait,KWT,414
 Kyrgyzstan,KGZ,417
 Lao People's Democratic Republic,LAO,418
@@ -130,7 +130,7 @@ Liechtenstein,LIE,438
 Lithuania,LTU,440
 Luxembourg,LUX,442
 Macao,MAC,446
-Macedonia\, the former Yugoslav Republic of,MKD,807
+Macedonia (the former Yugoslav Republic of),MKD,807
 Madagascar,MDG,450
 Malawi,MWI,454
 Malaysia,MYS,458
@@ -143,8 +143,8 @@ Mauritania,MRT,478
 Mauritius,MUS,480
 Mayotte,MYT,175
 Mexico,MEX,484
-Micronesia\, Federated States of,FSM,583
-Moldova\, Republic of,MDA,498
+Micronesia (Federated States of),FSM,583
+Moldova (Republic of),MDA,498
 Monaco,MCO,492
 Mongolia,MNG,496
 Montenegro,MNE,499
@@ -168,7 +168,7 @@ Norway,NOR,578
 Oman,OMN,512
 Pakistan,PAK,586
 Palau,PLW,585
-Palestine\, State of,PSE,275
+"Palestine, State of",PSE,275
 Panama,PAN,591
 Papua New Guinea,PNG,598
 Paraguay,PRY,600
@@ -184,7 +184,7 @@ Romania,ROU,642
 Russian Federation,RUS,643
 Rwanda,RWA,646
 Saint Barthélemy,BLM,652
-Saint Helena\, Ascension and Tristan da Cunha,SHN,654
+"Saint Helena, Ascension and Tristan da Cunha",SHN,654
 Saint Kitts and Nevis,KNA,659
 Saint Lucia,LCA,662
 Saint Martin (French part),MAF,663
@@ -216,9 +216,9 @@ Swaziland,SWZ,748
 Sweden,SWE,752
 Switzerland,CHE,756
 Syrian Arab Republic,SYR,760
-Taiwan\, Province of China,TWN,158
+"Taiwan, Province of China",TWN,158
 Tajikistan,TJK,762
-Tanzania\, United Republic of,TZA,834
+"Tanzania, United Republic of",TZA,834
 Thailand,THA,764
 Timor-Leste,TLS,626
 Togo,TGO,768
@@ -233,16 +233,16 @@ Tuvalu,TUV,798
 Uganda,UGA,800
 Ukraine,UKR,804
 United Arab Emirates,ARE,784
-United Kingdom,GBR,826
-United States,USA,840
+United Kingdom of Great Britain and Northern Ireland,GBR,826
+United States of America,USA,840
 United States Minor Outlying Islands,UMI,581
 Uruguay,URY,858
 Uzbekistan,UZB,860
 Vanuatu,VUT,548
-Venezuela\, Bolivarian Republic of,VEN,862
+Venezuela (Bolivarian Republic of),VEN,862
 Viet Nam,VNM,704
-Virgin Islands\, British,VGB,092
-Virgin Islands\, U.S.,VIR,850
+Virgin Islands (British),VGB,092
+Virgin Islands (U.S.),VIR,850
 Wallis and Futuna,WLF,876
 Western Sahara,ESH,732
 Yemen,YEM,887
