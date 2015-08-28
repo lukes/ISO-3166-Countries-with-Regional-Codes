@@ -54,7 +54,9 @@ puts "Fetching data from UN table #{un_page}..."
 #doc = Nokogiri::XML(open(un_page).read)
 doc = Nokogiri::HTML(open(un_page))
 
+region_name = nil
 region_code = nil
+sub_region_name = nil
 sub_region_code = nil
 found_table = false
 
@@ -92,7 +94,8 @@ doc.css("table[width='100%']")[2].css("tr").each do |row|
     unless region.nil? || region.blank?
       found_table = true
       region_code = code
-      puts "#{region}: #{region_code}"
+      region_name = region
+      puts "#{region_name}: #{region_code}"
       next
     end
   end
@@ -101,17 +104,21 @@ doc.css("table[width='100%']")[2].css("tr").each do |row|
   unless sub_region.blank?
     sub_region = entities.decode(sub_region)
     sub_region_code = code
-    puts "  #{sub_region}: #{sub_region_code}"
+    sub_region_name = sub_region
+    puts "  #{sub_region_name}: #{sub_region_code}"
     next
   end
   # is this a country row?
   country = tds[1].css("p").inner_html.strip
   country = tds[1].css("p span").inner_html.strip if country.blank?
   country = tds[1].inner_html.strip if country.blank?
+
   unless country.blank? || !country.match(/^[A-Z]/)
     # find this country in our array and modify in place
     codes.each_with_index do |element, i|
       if element["country-code"] == code
+        codes[i]["region"] = region_name
+        codes[i]["sub-region"] = sub_region_name
         codes[i]["region-code"] = region_code
         codes[i]["sub-region-code"] = sub_region_code
         break
