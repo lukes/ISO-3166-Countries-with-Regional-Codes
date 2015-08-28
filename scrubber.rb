@@ -6,10 +6,12 @@ require 'nokogiri'
 require 'open-uri'
 require 'openssl'
 require 'json'
+require 'csv'
 require 'active_support/core_ext/object/blank'
 require 'active_support/core_ext/object/try'
 require 'active_support/core_ext/array/conversions' #converting json to xml
 require 'htmlentities'
+require 'pry'
 
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
@@ -132,34 +134,45 @@ end
 
 puts "Writing files..."
 
+def json_to_csv(json)
+  headers = JSON.parse(json).first.collect {|k,v| k}.join(',') + "\n"
+
+  csv = CSV.generate do |csv|
+    JSON.parse(json).each do |hash|
+      csv << hash.values
+    end
+  end
+
+  headers + csv
+end
+
+def json_to_xml(json)
+  JSON.parse(json).to_xml(root: "countries", skip_types: true)
+end
+
 json = codes.to_json
-csv = JSON.parse(json).first.collect {|k,v| k}.join(',') + "\n"
-csv += JSON.parse(json).collect {|node| "#{node.collect{|k,v| v.gsub(',', '\,')}.join(',')}\n"}.join
+
 File.open("all/all.json", "w:UTF-8") { |f| f.write(json) }
-File.open("all/all.csv", "w:UTF-8") { |f| f.write(csv) }
-File.open("all/all.xml", "w:UTF-8") { |f| f.write(JSON.parse(json).to_xml(:root => "countries", :skip_types => true)) }
+File.open("all/all.csv", "w:UTF-8") { |f| f.write(json_to_csv(json)) }
+File.open("all/all.xml", "w:UTF-8") { |f| f.write(json_to_xml(json)) }
 
 # write slimmer versions
 slim_2 = codes.map do |c|
   {"name" => c["name"], "alpha-2" => c["alpha-2"], "country-code" => c["country-code"]}
 end
 json = slim_2.to_json
-csv = JSON.parse(json).first.collect {|k,v| k}.join(',') + "\n"
-csv += JSON.parse(json).collect {|node| "#{node.collect{|k,v| v.gsub(',', '\,')}.join(',')}\n"}.join
 File.open("slim-2/slim-2.json", "w:UTF-8") { |f| f.write(json) }
-File.open("slim-2/slim-2.csv", "w:UTF-8") { |f| f.write(csv) }
-File.open("slim-2/slim-2.xml", "w:UTF-8") { |f| f.write(JSON.parse(json).to_xml(:root => "countries", :skip_types => true)) }
+File.open("slim-2/slim-2.csv", "w:UTF-8") { |f| f.write(json_to_csv(json)) }
+File.open("slim-2/slim-2.xml", "w:UTF-8") { |f| f.write(json_to_xml(json)) }
 
 # write slimmer versions
 slim_3 = codes.map do |c|
   {"name" => c["name"], "alpha-3" => c["alpha-3"], "country-code" => c["country-code"]}
 end
 json = slim_3.to_json
-csv = JSON.parse(json).first.collect {|k,v| k}.join(',') + "\n"
-csv += JSON.parse(json).collect {|node| "#{node.collect{|k,v| v.gsub(',', '\,')}.join(',')}\n"}.join
 File.open("slim-3/slim-3.json", "w:UTF-8") { |f| f.write(json) }
-File.open("slim-3/slim-3.csv", "w:UTF-8") { |f| f.write(csv) }
-File.open("slim-3/slim-3.xml", "w:UTF-8") { |f| f.write(JSON.parse(json).to_xml(:root => "countries", :skip_types => true)) }
+File.open("slim-3/slim-3.csv", "w:UTF-8") { |f| f.write(json_to_csv(json)) }
+File.open("slim-3/slim-3.xml", "w:UTF-8") { |f| f.write(json_to_xml(json)) }
 
 puts "\nCouldn't find regional table data to save in all.csv, all.json and all.xml for the following countries (you may want to manually check #{un_page}) -- sorry!:\n\n"
 
