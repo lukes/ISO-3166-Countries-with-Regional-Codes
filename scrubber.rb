@@ -182,3 +182,5 @@ File.open("slim-3/slim-3.xml", "w:UTF-8") { |f| f.write(json_to_xml(json)) }
 puts "\nCouldn't find regional table data to save in all.csv, all.json and all.xml for the following countries (you may want to manually check #{un_page}) -- sorry!:\n\n"
 
 codes.select{ |c| c["region-code"].nil? }.each {|c| puts c.inspect }
+
+File.open("LAST_UPDATED.txt", "w:UTF-8") { |f| f.write(Time.now.to_s) }
