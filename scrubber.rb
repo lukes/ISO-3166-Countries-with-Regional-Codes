@@ -34,9 +34,9 @@ doc.search("table.sortable tr").each do |row|
   country = {}
   country["name"] = entities.decode(tds[0].search("a").inner_html.strip) rescue nil
 #  puts country["name"].encoding unless country["name"].nil?
-  country["alpha-2"] = entities.decode(tds[1].search("tt").inner_html.strip) rescue nil
-  country["alpha-3"] = entities.decode(tds[2].search("tt").inner_html.strip) rescue nil
-  country["country-code"] = entities.decode(tds[3].search("tt").inner_html.strip) rescue nil
+  country["alpha-2"] = entities.decode(tds[1].search("span").inner_html.strip) rescue nil
+  country["alpha-3"] = entities.decode(tds[2].search("span").inner_html.strip) rescue nil
+  country["country-code"] = entities.decode(tds[3].search("span").inner_html.strip) rescue nil
   country["iso_3166-2"] = entities.decode(tds[4].search("a").inner_html.strip) rescue nil
   codes << country unless country.values.any?{ |v| v.nil? }
 end
@@ -62,7 +62,7 @@ found_table = false
 doc.css("table[width='100%']")[2].css("tr").each do |row|
 
   # table has more sections than we want, like row
-  # of  "Developed and developing regions" code. look for
+  # of "Developed and developing regions" code. look for
   # the next instance of td.header2 after we've started
   # finding results, and end the loop when found
   if !row.css("td.cheader2").blank? && found_table
