@@ -34,7 +34,9 @@ Using JSON as an example:
         "country-code":"554",
         "sub-region-code":"053",
         "region-code":"009",
-        "iso_3166-2":"ISO 3166-2:NZ"
+        "iso_3166-2":"ISO 3166-2:NZ",
+        "region":"Oceania",
+        "sub-region":"Australia and New Zealand"
       },
       // ...
     ]
