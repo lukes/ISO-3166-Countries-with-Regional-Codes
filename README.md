@@ -85,11 +85,12 @@ Note, due to file encoding issues the script should only be run using Ruby 1.9 o
 
 ### Timestamp
 
-* UN Statistical data retrieved 28 August 2015, from a document last revised 31 October 2013
-* Wikipedia data retrieved 28 August 2015, from a document last revised 10 August 2015
+* UN Statistical data retrieved 26 August 2016, from a document last revised 31 October 2013
+* Wikipedia data retrieved 26 August 2016, from a document last revised 13 August 2016
 
 ### Revisions
 
+* 26 August 2016 - `tag 5.0`
 * 28 August 2015 - `tag 4.0`
 * 20 April 2014 - `tag 3.0`
 * 13 June 2012 - `tag 2.0`
