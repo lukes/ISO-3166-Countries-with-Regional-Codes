@@ -29,15 +29,17 @@ Using JSON as an example:
 
     [
       {
-        "name":"New Zealand",
-        "alpha-2":"NZ",
-        "alpha-3":"NZL",
-        "country-code":"554",
-        "sub-region-code":"053",
-        "region-code":"009",
-        "iso_3166-2":"ISO 3166-2:NZ",
-        "region":"Oceania",
-        "sub-region":"Australia and New Zealand"
+        "name":"Nigeria",
+        "alpha-2":"NG",
+        "alpha-3":"NGA",
+        "country-code":"566",
+        "iso_3166-2":"ISO 3166-2:NG",
+        "region":"Africa",
+        "sub-region":"Sub-Saharan Africa",
+        "intermediate-region":"Western Africa",
+        "region-code":"002",
+        "sub-region-code":"202",
+        "intermediate-region-code":"011"
       },
       // ...
     ]
