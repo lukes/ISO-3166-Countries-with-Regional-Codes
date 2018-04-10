@@ -82,7 +82,12 @@ end
 
 # Ensure they have all the keys (we'll write them to the data files with blank values)
 blanks.map! do |c|
-  c["region"] = c["sub-region"] = c["intermediate-region"] = c["region-code"] = c["sub-region-code"] = c["intermediate-region-code"] = nil
+  c["region"] ||= nil
+  c["sub-region"] ||= nil
+  c["intermediate-region"] ||= nil
+  c["region-code"] ||= nil
+  c["sub-region-code"] ||= nil
+  c["intermediate-region-code"] ||= nil
   c
 end
 
