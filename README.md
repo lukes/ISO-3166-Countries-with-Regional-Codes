@@ -81,7 +81,7 @@ To install the gems in the Gemfile:
 
 To run:
 
-    ruby scrubber.rb
+    bundle exec ruby scrubber.rb
 
 Note, due to file encoding issues the script should only be run using Ruby 1.9 or above.
 
