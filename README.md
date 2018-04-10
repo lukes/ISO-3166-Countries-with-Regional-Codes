@@ -1,9 +1,9 @@
 
 ### ISO-3166 Country and Dependent Territories Lists with UN Regional Codes
 
-These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](http://unstats.un.org/unsd/methods/m49/m49regin.htm) site for countries' regional, and sub-regional codes. In addition to countries, it includes dependent territories.
+These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](https://unstats.un.org/unsd/methodology/m49) site for countries' regional, and sub-regional codes. In addition to countries, it includes dependent territories.
 
-The [International Organization for Standardization (ISO)](http://www.iso.org/iso/english_country_names_and_code_elements) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but there appeared to be no sites that included the associated UN-maintained regional codes in their data sets. I scraped data from the above two websites that is all publicly available already to produce some ready-to-use complete data sets that will hopefully save someone some time who had similar needs.
+The [International Organization for Standardization (ISO)](https://www.iso.org/iso-3166-country-codes.html) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but there appeared to be no sites that included the associated UN-maintained regional codes in their data sets. I scraped data from the above two websites that is all publicly available already to produce some ready-to-use complete data sets that will hopefully save someone some time who had similar needs.
 
 ### What's available?
 
@@ -29,15 +29,17 @@ Using JSON as an example:
 
     [
       {
-        "name":"New Zealand",
-        "alpha-2":"NZ",
-        "alpha-3":"NZL",
-        "country-code":"554",
-        "sub-region-code":"053",
-        "region-code":"009",
-        "iso_3166-2":"ISO 3166-2:NZ",
-        "region":"Oceania",
-        "sub-region":"Australia and New Zealand"
+        "name":"Nigeria",
+        "alpha-2":"NG",
+        "alpha-3":"NGA",
+        "country-code":"566",
+        "iso_3166-2":"ISO 3166-2:NG",
+        "region":"Africa",
+        "sub-region":"Sub-Saharan Africa",
+        "intermediate-region":"Western Africa",
+        "region-code":"002",
+        "sub-region-code":"202",
+        "intermediate-region-code":"011"
       },
       // ...
     ]
@@ -75,7 +77,7 @@ Using JSON as an example:
 
 To install the gems in the Gemfile:
 
-    bundle install
+    bundle
 
 To run:
 
@@ -85,11 +87,12 @@ Note, due to file encoding issues the script should only be run using Ruby 1.9 o
 
 ### Timestamp
 
-* UN Statistical data retrieved 26 August 2016, from a document last revised 31 October 2013
-* Wikipedia data retrieved 26 August 2016, from a document last revised 13 August 2016
+* UN Statistical data retrieved 10 April 2018
+* Wikipedia data retrieved 10 April 2018, from a document last revised 2 April 2018
 
 ### Revisions
 
+* 10 April 2018 - `tag 6.0`
 * 26 August 2016 - `tag 5.0`
 * 28 August 2015 - `tag 4.0`
 * 20 April 2014 - `tag 3.0`
