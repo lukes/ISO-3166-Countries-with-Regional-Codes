@@ -40,7 +40,7 @@ doc.css("table.sortable tr").each do |row|
   data << country unless country.values.any?(&:blank?)
 end
 
-puts "  Data for #{data.size} countries found\n"
+puts "  Data for #{data.size} countries found"
 
 # full doc
 # http://en.wikipedia.org/wiki/ISO_3166-1#Information_included
@@ -57,12 +57,12 @@ doc.css("table#downloadTableEN tbody").css("tr").each do |row|
   _, _, region_code, region_name, sub_region_code, sub_region_name, intermediate_region_code, intermediate_region_name, country_name, _, iso_alpha_3 = row.css("td").map{|td| td.inner_html.strip }
 
   # find this country in our data from Wikipedia and merge in the regional data from the UN
-  code = data.find{ |d| d["alpha-3"] == iso_alpha_3 }
+  country = data.find { |d| d["alpha-3"] == iso_alpha_3 }
 
-  if code.nil?
+  if country.nil?
     puts "  #{DECODE_ENTITIES.call(country_name)} found in UN source but not in Wikipedia source"
   else
-    code.merge!({
+    country.merge!({
       "region" => DECODE_ENTITIES.call(region_name),
       "sub-region" => DECODE_ENTITIES.call(sub_region_name),
       "intermediate-region" => DECODE_ENTITIES.call(intermediate_region_name),
@@ -74,12 +74,11 @@ doc.css("table#downloadTableEN tbody").css("tr").each do |row|
   # puts "  #{DECODE_ENTITIES.call(country_name)}: #{iso_alpha_3}"
 end
 
-# For ISO data from the Wikipedia page that we couldn't correlate with
-# regional codes from the UN, give them blank data.
+# ISO data from the Wikipedia page that we couldn't correlate with regional codes from the UN
 blanks = data.select do |d|
-  # (note, don't consider intermediate region data as required)
+  # (Note, don't consider intermediate region data as required)
   d.slice("alpha-3", "region", "sub-region", "region-code", "sub-region-code").values.any?(&:blank?) ||
-  !["alpha-3", "region", "sub-region", "region-code", "sub-region-code"].all? {|k| d.key?(k) }
+  !["alpha-3", "region", "sub-region", "region-code", "sub-region-code"].all? { |k| d.key?(k) }
 end
 
 # Ensure they have all the keys (we'll write them to the data files with blank values)
@@ -105,7 +104,7 @@ puts
 puts "Writing files..."
 
 def json_to_csv(json)
-  headers = JSON.parse(json).first.collect {|k,v| k}.join(',') + "\n"
+  headers = JSON.parse(json).first.keys.join(',') + "\n"
 
   csv = CSV.generate do |csv|
     JSON.parse(json).each do |hash|
@@ -120,13 +119,13 @@ def json_to_xml(json)
   JSON.parse(json).to_xml(root: "countries", skip_types: true)
 end
 
+# All
 json = data.to_json
-
 File.open("all/all.json", "w:UTF-8") { |f| f.write(json) }
 File.open("all/all.csv", "w:UTF-8") { |f| f.write(json_to_csv(json)) }
 File.open("all/all.xml", "w:UTF-8") { |f| f.write(json_to_xml(json)) }
 
-# write slimmer versions
+# Slim 2
 slim_2 = data.map do |c|
   {"name" => c["name"], "alpha-2" => c["alpha-2"], "country-code" => c["country-code"]}
 end
@@ -135,7 +134,7 @@ File.open("slim-2/slim-2.json", "w:UTF-8") { |f| f.write(json) }
 File.open("slim-2/slim-2.csv", "w:UTF-8") { |f| f.write(json_to_csv(json)) }
 File.open("slim-2/slim-2.xml", "w:UTF-8") { |f| f.write(json_to_xml(json)) }
 
-# write slimmer versions
+# Slim 3
 slim_3 = data.map do |c|
   {"name" => c["name"], "alpha-3" => c["alpha-3"], "country-code" => c["country-code"]}
 end
@@ -144,6 +143,7 @@ File.open("slim-3/slim-3.json", "w:UTF-8") { |f| f.write(json) }
 File.open("slim-3/slim-3.csv", "w:UTF-8") { |f| f.write(json_to_csv(json)) }
 File.open("slim-3/slim-3.xml", "w:UTF-8") { |f| f.write(json_to_xml(json)) }
 
-puts "Done"
-
+# Last updated
 File.open("LAST_UPDATED.txt", "w:UTF-8") { |f| f.write(Time.now.to_s) }
+
+puts "Done"
