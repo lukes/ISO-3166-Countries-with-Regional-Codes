@@ -37,10 +37,10 @@
   <country name="Bulgaria" alpha-3="BGR" country-code="100"/>
   <country name="Burkina Faso" alpha-3="BFA" country-code="854"/>
   <country name="Burundi" alpha-3="BDI" country-code="108"/>
+  <country name="Cabo Verde" alpha-3="CPV" country-code="132"/>
   <country name="Cambodia" alpha-3="KHM" country-code="116"/>
   <country name="Cameroon" alpha-3="CMR" country-code="120"/>
   <country name="Canada" alpha-3="CAN" country-code="124"/>
-  <country name="Cabo Verde" alpha-3="CPV" country-code="132"/>
   <country name="Cayman Islands" alpha-3="CYM" country-code="136"/>
   <country name="Central African Republic" alpha-3="CAF" country-code="140"/>
   <country name="Chad" alpha-3="TCD" country-code="148"/>
@@ -59,7 +59,7 @@
   <country name="Cuba" alpha-3="CUB" country-code="192"/>
   <country name="Curaçao" alpha-3="CUW" country-code="531"/>
   <country name="Cyprus" alpha-3="CYP" country-code="196"/>
-  <country name="Czech Republic" alpha-3="CZE" country-code="203"/>
+  <country name="Czechia" alpha-3="CZE" country-code="203"/>
   <country name="Denmark" alpha-3="DNK" country-code="208"/>
   <country name="Djibouti" alpha-3="DJI" country-code="262"/>
   <country name="Dominica" alpha-3="DMA" country-code="212"/>
