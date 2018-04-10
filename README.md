@@ -77,7 +77,7 @@ Using JSON as an example:
 
 To install the gems in the Gemfile:
 
-    bundle install
+    bundle
 
 To run:
 
