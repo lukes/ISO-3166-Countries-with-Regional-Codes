@@ -55,15 +55,17 @@ doc = Nokogiri::HTML(open(UN_URI));
 
 doc.css("table#downloadTableEN tbody").css("tr").each do |row|
 
-  _, _, region_code, region_name, sub_region_code, sub_region_name, _, _, country, _, iso_alpha_3 = row.css("td").map{|td| td.inner_html.strip }
+  _, _, region_code, region_name, sub_region_code, sub_region_name, intermediate_region_code, intermediate_region_name, country, _, iso_alpha_3 = row.css("td").map{|td| td.inner_html.strip }
 
   # find this country in our array and modify in place
   codes.each_with_index do |element, i|
     if element["alpha-3"] == iso_alpha_3
       codes[i]["region"] = entities.decode(region_name)
       codes[i]["sub-region"] = entities.decode(sub_region_name)
+      codes[i]["intermediate-region"] = entities.decode(intermediate_region_name)
       codes[i]["region-code"] = region_code
       codes[i]["sub-region-code"] = sub_region_code
+      codes[i]["intermediate-region-code"] = intermediate_region_code
       break
     end
   end
@@ -73,13 +75,14 @@ end
 # For ISO data from the Wikipedia page that we couldn't correlate with
 # regional codes from the UN, give them blank data.
 blanks = codes.select do |c|
+  # (note, don't consider intermediate region data as required)
   c.slice("alpha-3", "region", "sub-region", "region-code", "sub-region-code").values.any?(&:blank?) ||
   !["alpha-3", "region", "sub-region", "region-code", "sub-region-code"].all? {|k| c.key?(k) }
 end
 
 # Ensure they have all the keys (we'll write them to the data files with blank values)
 blanks.map! do |c|
-  c["region"] = c["sub-region"] = c["region-code"] = c["sub-region-code"] = nil
+  c["region"] = c["sub-region"] = c["intermediate-region"] = c["region-code"] = c["sub-region-code"] = c["intermediate-region-code"] = nil
   c
 end
 
