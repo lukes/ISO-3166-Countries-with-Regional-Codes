@@ -131,7 +131,8 @@ File.open("slim-3/slim-3.xml", "w:UTF-8") { |f| f.write(json_to_xml(json)) }
 puts "Done."
 
 if blanks.present?
-  puts "\nThere was some missing data for the following countries (you may want to manually check #{UN_URI}):\n\n"
+  puts "\nThere was some missing data for #{blanks.size} countries"
+  puts "(you may want to manually check #{UN_URI}):\n"
   puts blanks.each(&:inspect)
 end
 
