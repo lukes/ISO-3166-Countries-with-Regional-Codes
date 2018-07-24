@@ -36,11 +36,12 @@ doc.css("table.sortable tr").each do |row|
   country_name.search("span.flagicon").remove # Remove the flags from country column
 
   country = {}
-  country["name"] = DECODE_ENTITIES.call(country_name.css("a").inner_html.strip) rescue nil
+  country["name"] = DECODE_ENTITIES.call(country_name.css("a").first.inner_html.strip) rescue nil
   country["alpha-2"] = DECODE_ENTITIES.call(iso_alpha_2.css("span").inner_html.strip) rescue nil
   country["alpha-3"] = DECODE_ENTITIES.call(iso_alpha_3.css("span").inner_html.strip) rescue nil
   country["country-code"] = DECODE_ENTITIES.call(country_code.css("span").inner_html.strip) rescue nil
   country["iso_3166-2"] = DECODE_ENTITIES.call(iso_3166_2.css("a").inner_html.strip) rescue nil
+
   data << country unless country.values.any?(&:blank?)
 end
 
