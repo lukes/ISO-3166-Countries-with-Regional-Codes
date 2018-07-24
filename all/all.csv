@@ -69,6 +69,7 @@ El Salvador,SV,SLV,222,ISO 3166-2:SV,Americas,Latin America and the Caribbean,Ce
 Equatorial Guinea,GQ,GNQ,226,ISO 3166-2:GQ,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
 Eritrea,ER,ERI,232,ISO 3166-2:ER,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014
 Estonia,EE,EST,233,ISO 3166-2:EE,Europe,Northern Europe,"",150,154,""
+Eswatini,SZ,SWZ,748,ISO 3166-2:SZ,Africa,Sub-Saharan Africa,Southern Africa,002,202,018
 Ethiopia,ET,ETH,231,ISO 3166-2:ET,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014
 Falkland Islands (Malvinas),FK,FLK,238,ISO 3166-2:FK,Americas,Latin America and the Caribbean,South America,019,419,005
 Faroe Islands,FO,FRO,234,ISO 3166-2:FO,Europe,Northern Europe,"",150,154,""
@@ -212,7 +213,6 @@ Sri Lanka,LK,LKA,144,ISO 3166-2:LK,Asia,Southern Asia,"",142,034,""
 Sudan,SD,SDN,729,ISO 3166-2:SD,Africa,Northern Africa,"",002,015,""
 Suriname,SR,SUR,740,ISO 3166-2:SR,Americas,Latin America and the Caribbean,South America,019,419,005
 Svalbard and Jan Mayen,SJ,SJM,744,ISO 3166-2:SJ,Europe,Northern Europe,"",150,154,""
-Swaziland,SZ,SWZ,748,ISO 3166-2:SZ,Africa,Sub-Saharan Africa,Southern Africa,002,202,018
 Sweden,SE,SWE,752,ISO 3166-2:SE,Europe,Northern Europe,"",150,154,""
 Switzerland,CH,CHE,756,ISO 3166-2:CH,Europe,Western Europe,"",150,155,""
 Syrian Arab Republic,SY,SYR,760,ISO 3166-2:SY,Asia,Western Asia,"",142,145,""
