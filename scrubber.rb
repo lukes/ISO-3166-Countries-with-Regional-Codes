@@ -31,6 +31,10 @@ puts "Extracting data from Wikipedia"
 doc.css("table.sortable tr").each do |row|
   country_name, iso_alpha_2, iso_alpha_3, country_code, iso_3166_2 = row.css("td")
 
+  next if country_name.blank?
+
+  country_name.search("span.flagicon").remove # Remove the flags from country column
+
   country = {}
   country["name"] = DECODE_ENTITIES.call(country_name.css("a").inner_html.strip) rescue nil
   country["alpha-2"] = DECODE_ENTITIES.call(iso_alpha_2.css("span").inner_html.strip) rescue nil
