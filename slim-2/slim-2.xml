@@ -70,6 +70,7 @@
   <country name="Equatorial Guinea" alpha-2="GQ" country-code="226"/>
   <country name="Eritrea" alpha-2="ER" country-code="232"/>
   <country name="Estonia" alpha-2="EE" country-code="233"/>
+  <country name="Eswatini" alpha-2="SZ" country-code="748"/>
   <country name="Ethiopia" alpha-2="ET" country-code="231"/>
   <country name="Falkland Islands (Malvinas)" alpha-2="FK" country-code="238"/>
   <country name="Faroe Islands" alpha-2="FO" country-code="234"/>
@@ -213,7 +214,6 @@
   <country name="Sudan" alpha-2="SD" country-code="729"/>
   <country name="Suriname" alpha-2="SR" country-code="740"/>
   <country name="Svalbard and Jan Mayen" alpha-2="SJ" country-code="744"/>
-  <country name="Swaziland" alpha-2="SZ" country-code="748"/>
   <country name="Sweden" alpha-2="SE" country-code="752"/>
   <country name="Switzerland" alpha-2="CH" country-code="756"/>
   <country name="Syrian Arab Republic" alpha-2="SY" country-code="760"/>
