@@ -1,7 +1,7 @@
 
 ### ISO-3166 Country and Dependent Territories Lists with UN Regional Codes
 
-These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](https://unstats.un.org/unsd/methodology/m49) site for countries' regional, and sub-regional codes. In addition to countries, it includes dependent territories.
+These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](https://unstats.un.org/unsd/methodology/m49/overview) site for countries' regional, and sub-regional codes. In addition to countries, it includes dependent territories.
 
 The [International Organization for Standardization (ISO)](https://www.iso.org/iso-3166-country-codes.html) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but there appeared to be no sites that included the associated UN-maintained regional codes in their data sets. I scraped data from the above two websites that is all publicly available already to produce some ready-to-use complete data sets that will hopefully save someone some time who had similar needs.
 
@@ -81,17 +81,19 @@ To install the gems in the Gemfile:
 
 To run:
 
-    ruby scrubber.rb
+    bundle exec ruby scrubber.rb
 
 Note, due to file encoding issues the script should only be run using Ruby 1.9 or above.
 
 ### Timestamp
 
-* UN Statistical data retrieved 10 April 2018
-* Wikipedia data retrieved 10 April 2018, from a document last revised 2 April 2018
+* UN Statistical data retrieved 19 March 2019
+* Wikipedia data retrieved 19 March 2019, from a document last revised 16 March 2019
 
 ### Revisions
 
+* 19 March 2019 - `tag 8.0`
+* 25 July 2018 - `tag 7.0`
 * 10 April 2018 - `tag 6.0`
 * 26 August 2016 - `tag 5.0`
 * 28 August 2015 - `tag 4.0`

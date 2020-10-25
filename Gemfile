@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'hpricot'
 gem 'nokogiri'
 gem 'activesupport'
 gem 'builder'

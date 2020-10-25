@@ -50,7 +50,7 @@ Cocos (Keeling) Islands,CC,166
 Colombia,CO,170
 Comoros,KM,174
 Congo,CG,178
-Congo (Democratic Republic of the),CD,180
+"Congo, Democratic Republic of the",CD,180
 Cook Islands,CK,184
 Costa Rica,CR,188
 Côte d'Ivoire,CI,384
@@ -69,6 +69,7 @@ El Salvador,SV,222
 Equatorial Guinea,GQ,226
 Eritrea,ER,232
 Estonia,EE,233
+Eswatini,SZ,748
 Ethiopia,ET,231
 Falkland Islands (Malvinas),FK,238
 Faroe Islands,FO,234
@@ -117,7 +118,7 @@ Kazakhstan,KZ,398
 Kenya,KE,404
 Kiribati,KI,296
 Korea (Democratic People's Republic of),KP,408
-Korea (Republic of),KR,410
+"Korea, Republic of",KR,410
 Kuwait,KW,414
 Kyrgyzstan,KG,417
 Lao People's Democratic Republic,LA,418
@@ -130,7 +131,6 @@ Liechtenstein,LI,438
 Lithuania,LT,440
 Luxembourg,LU,442
 Macao,MO,446
-Macedonia (the former Yugoslav Republic of),MK,807
 Madagascar,MG,450
 Malawi,MW,454
 Malaysia,MY,458
@@ -144,7 +144,7 @@ Mauritius,MU,480
 Mayotte,YT,175
 Mexico,MX,484
 Micronesia (Federated States of),FM,583
-Moldova (Republic of),MD,498
+"Moldova, Republic of",MD,498
 Monaco,MC,492
 Mongolia,MN,496
 Montenegro,ME,499
@@ -163,6 +163,7 @@ Niger,NE,562
 Nigeria,NG,566
 Niue,NU,570
 Norfolk Island,NF,574
+North Macedonia,MK,807
 Northern Mariana Islands,MP,580
 Norway,NO,578
 Oman,OM,512
@@ -212,7 +213,6 @@ Sri Lanka,LK,144
 Sudan,SD,729
 Suriname,SR,740
 Svalbard and Jan Mayen,SJ,744
-Swaziland,SZ,748
 Sweden,SE,752
 Switzerland,CH,756
 Syrian Arab Republic,SY,760
