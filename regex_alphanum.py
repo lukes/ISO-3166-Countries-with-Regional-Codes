@@ -3,14 +3,10 @@ from pyspark.sql import dataframe
 # from pyspark.sql import window
 
 from pyspark.sql.types import *
-from pyspark.sql import functions as F
+from pyspark.sql import functions as AAAAAAAAAA
 from operator import ge,gt
-from pyspark.sql import functions as F
-from pyspark.sql import functions as F
-from pyspark.sql import functions as F
-from pyspark.sql import functions as F
-from pyspark.sql import functions as F
-from pyspark.sql import functions as F
+from pyspark.sql import functions as BBBBBBBBB
+
 
 spark = SparkSession\
     .builder \
