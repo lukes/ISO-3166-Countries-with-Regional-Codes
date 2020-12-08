@@ -1,23 +1,26 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (4.2.4)
-      i18n (~> 0.7)
-      json (~> 1.7, >= 1.7.7)
+    activesupport (6.0.3.4)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 0.7, < 2)
       minitest (~> 5.1)
-      thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    builder (3.2.2)
+      zeitwerk (~> 2.2, >= 2.2.2)
+    builder (3.2.4)
+    concurrent-ruby (1.1.7)
     htmlentities (4.3.4)
-    i18n (0.7.0)
-    json (1.8.3)
-    mini_portile (0.6.2)
-    minitest (5.8.0)
-    nokogiri (1.6.6.2)
-      mini_portile (~> 0.6.0)
-    thread_safe (0.3.5)
-    tzinfo (1.2.2)
+    i18n (1.8.5)
+      concurrent-ruby (~> 1.0)
+    json (2.3.1)
+    mini_portile2 (2.4.0)
+    minitest (5.14.2)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
+    thread_safe (0.3.6)
+    tzinfo (1.2.8)
       thread_safe (~> 0.1)
+    zeitwerk (2.4.2)
 
 PLATFORMS
   ruby
@@ -30,4 +33,4 @@ DEPENDENCIES
   nokogiri
 
 BUNDLED WITH
-   1.10.6
+   1.17.3
