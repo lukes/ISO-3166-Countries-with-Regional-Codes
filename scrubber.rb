@@ -10,7 +10,7 @@ require 'csv'
 require 'htmlentities'
 
 WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/ISO_3166-1"
-UN_URI = "https://unstats.un.org/unsd/methodology/m49/overview/"
+UN_URI = "https://unstats.un.org/unsd/methodology/m49/overview"
 
 DECODE_ENTITIES = HTMLEntities.new.method(:decode)
 
@@ -46,12 +46,6 @@ doc.css("table.sortable tr").each do |row|
 end
 
 puts "  Data for #{data.size} countries found"
-
-# full doc
-# http://en.wikipedia.org/wiki/ISO_3166-1#Information_included
-
-# note ISO doesn't give away all information for free - so refer to the Wikipedia table (assuming it is mostly kept up to date)
-
 puts "Fetching data from UN #{UN_URI}..."
 
 doc = Nokogiri::HTML(open(UN_URI));
@@ -59,10 +53,10 @@ doc = Nokogiri::HTML(open(UN_URI));
 puts "Extracting data from UN"
 
 doc.css("table#downloadTableEN tbody").css("tr").each do |row|
-  _, _, region_code, region_name, sub_region_code, sub_region_name, intermediate_region_code, intermediate_region_name, country_name, _, iso_alpha_3 = row.css("td").map{|td| td.inner_html.strip }
+  _, _, region_code, region_name, sub_region_code, sub_region_name, intermediate_region_code, intermediate_region_name, country_name, _, iso_alpha_2 = row.css("td").map{|td| td.inner_html.strip }
 
   # find this country in our data from Wikipedia and merge in the regional data from the UN
-  country = data.find { |d| d["alpha-3"] == iso_alpha_3 }
+  country = data.find { |d| d["alpha-2"] == iso_alpha_2 }
 
   if country.nil?
     puts "  #{DECODE_ENTITIES.call(country_name)} found in UN source but not in Wikipedia source"
@@ -76,7 +70,6 @@ doc.css("table#downloadTableEN tbody").css("tr").each do |row|
       "intermediate-region-code" => intermediate_region_code
     })
   end
-  # puts "  #{DECODE_ENTITIES.call(country_name)}: #{iso_alpha_3}"
 end
 
 # ISO data from the Wikipedia page that we couldn't correlate with regional codes from the UN
