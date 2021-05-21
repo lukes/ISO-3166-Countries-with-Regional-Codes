@@ -24,7 +24,7 @@ puts "Fetching data from Wikipedia #{WIKIPEDIA_URI}..."
 # Array that will hold the iso 3166 data
 data = []
 
-doc = Nokogiri::HTML(open(WIKIPEDIA_URI));
+doc = Nokogiri::HTML(URI.open(WIKIPEDIA_URI));
 
 puts "Extracting data from Wikipedia"
 
@@ -48,7 +48,7 @@ end
 puts "  Data for #{data.size} countries found"
 puts "Fetching data from UN #{UN_URI}..."
 
-doc = Nokogiri::HTML(open(UN_URI));
+doc = Nokogiri::HTML(URI.open(UN_URI));
 
 puts "Extracting data from UN"
 
