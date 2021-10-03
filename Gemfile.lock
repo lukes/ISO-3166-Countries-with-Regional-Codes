@@ -35,7 +35,4 @@ DEPENDENCIES
   nokogiri
 
 RUBY VERSION
-   ruby 3.0.0p0
-
-BUNDLED WITH
-   1.17.3
+   ruby 3.0.1
