@@ -92,8 +92,8 @@ end
 
 if blanks.present?
   puts
-  puts "There was some missing data for #{blanks.size} countries"
-  puts "(you may want to manually check #{UN_URI})"
+  puts "There is missing data for #{blanks.size} countries"
+  puts "You may want to manually check #{UN_URI}"
   puts
   puts blanks.each(&:inspect)
 end
