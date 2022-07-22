@@ -20,7 +20,7 @@ GEM
       racc (~> 1.4)
     racc (1.6.0)
     thread_safe (0.3.6)
-    tzinfo (1.2.8)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     zeitwerk (2.4.2)
 
