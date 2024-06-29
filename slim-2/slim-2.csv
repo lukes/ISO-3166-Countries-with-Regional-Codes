@@ -25,7 +25,7 @@ Belize,BZ,084
 Benin,BJ,204
 Bermuda,BM,060
 Bhutan,BT,064
-Bolivia (Plurinational State of),BO,068
+"Bolivia, Plurinational State of",BO,068
 "Bonaire, Sint Eustatius and Saba",BQ,535
 Bosnia and Herzegovina,BA,070
 Botswana,BW,072
@@ -104,7 +104,7 @@ Hungary,HU,348
 Iceland,IS,352
 India,IN,356
 Indonesia,ID,360
-Iran (Islamic Republic of),IR,364
+"Iran, Islamic Republic of",IR,364
 Iraq,IQ,368
 Ireland,IE,372
 Isle of Man,IM,833
@@ -117,7 +117,7 @@ Jordan,JO,400
 Kazakhstan,KZ,398
 Kenya,KE,404
 Kiribati,KI,296
-Korea (Democratic People's Republic of),KP,408
+"Korea, Democratic People's Republic of",KP,408
 "Korea, Republic of",KR,410
 Kuwait,KW,414
 Kyrgyzstan,KG,417
@@ -143,7 +143,7 @@ Mauritania,MR,478
 Mauritius,MU,480
 Mayotte,YT,175
 Mexico,MX,484
-Micronesia (Federated States of),FM,583
+"Micronesia, Federated States of",FM,583
 "Moldova, Republic of",MD,498
 Monaco,MC,492
 Mongolia,MN,496
@@ -155,7 +155,7 @@ Myanmar,MM,104
 Namibia,NA,516
 Nauru,NR,520
 Nepal,NP,524
-Netherlands,NL,528
+"Netherlands, Kingdom of the",NL,528
 New Caledonia,NC,540
 New Zealand,NZ,554
 Nicaragua,NI,558
@@ -226,7 +226,7 @@ Tokelau,TK,772
 Tonga,TO,776
 Trinidad and Tobago,TT,780
 Tunisia,TN,788
-Turkey,TR,792
+Türkiye,TR,792
 Turkmenistan,TM,795
 Turks and Caicos Islands,TC,796
 Tuvalu,TV,798
@@ -239,7 +239,7 @@ United States Minor Outlying Islands,UM,581
 Uruguay,UY,858
 Uzbekistan,UZ,860
 Vanuatu,VU,548
-Venezuela (Bolivarian Republic of),VE,862
+"Venezuela, Bolivarian Republic of",VE,862
 Viet Nam,VN,704
 Virgin Islands (British),VG,092
 Virgin Islands (U.S.),VI,850

@@ -14,7 +14,7 @@ GEM
       concurrent-ruby (~> 1.0)
     json (2.3.1)
     mini_portile2 (2.8.0)
-    minitest (5.14.2)
+    minitest (5.24.0)
     nokogiri (1.13.9)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
@@ -36,3 +36,6 @@ DEPENDENCIES
 
 RUBY VERSION
    ruby 3.0.1
+
+BUNDLED WITH
+   2.4.21
