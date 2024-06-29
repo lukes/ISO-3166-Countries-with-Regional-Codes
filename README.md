@@ -1,7 +1,7 @@
 
 ### ISO-3166 Country and Dependent Territories Lists with UN Regional Codes
 
-These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN Statistics](https://unstats.un.org/unsd/methodology/m49/overview) site for countries' regional, and sub-regional codes. In addition to countries, it includes dependent territories.
+These lists are the result of merging data from two sources, the Wikipedia [ISO 3166-1 article](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) for alpha and numeric country codes, and the [UN M49 Standard country or area codes for statistical use data](https://unstats.un.org/unsd/methodology/m49/overview) for countries' regional, and sub-regional codes. In addition to countries, it includes dependent territories.
 
 The [International Organization for Standardization (ISO)](https://www.iso.org/iso-3166-country-codes.html) site provides partial data (capitalised and sometimes stripped of non-latin ornamentation), but sells the complete data set as a Microsoft Access 2003 database. Other sites give you the numeric and character codes, but there appeared to be no sites that included the associated UN-maintained regional codes in their data sets. I scraped data from the above two websites that is all publicly available already to produce some ready-to-use complete data sets that will hopefully save someone some time who had similar needs.
 
@@ -83,15 +83,14 @@ To run:
 
     bundle exec ruby scrubber.rb
 
-Note, due to file encoding issues the script should only be run using Ruby 1.9 or above.
-
 ### Timestamp
 
-* UN Statistical data retrieved 8 December 2020
-* Wikipedia data retrieved 8 December 2020, from a document last revised 19 November 2020
+* UN Statistical data retrieved 19 June 2024
+* Wikipedia data retrieved 19 June 2024, from a document last revised 6 June 2024
 
 ### Revisions
 
+* 30 June 2024 - `tag 10.0`
 * 8 December 2020 - `tag 9.0`
 * 19 March 2019 - `tag 8.0`
 * 25 July 2018 - `tag 7.0`
